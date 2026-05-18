@@ -1,0 +1,12 @@
+ollama
+duckduckgo-search
+kokoro-onnx
+soundfile
+faster-whisper
+moviepy
+Pillow
+requests
+google-api-python-client
+google-auth-oauthlib
+chromadb
+pypdf
