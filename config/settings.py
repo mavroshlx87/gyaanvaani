@@ -4,7 +4,6 @@ import os
 PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUTPUT_DIR = os.path.join(PROJECT_ROOT, "output")
 ASSETS_DIR = os.path.join(PROJECT_ROOT, "assets")
-DB_PATH = os.path.join(PROJECT_ROOT, "pipeline.db")
 
 # Ollama
 OLLAMA_URL = "http://localhost:11434"

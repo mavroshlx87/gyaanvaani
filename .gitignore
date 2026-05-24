@@ -1,0 +1,10 @@
+# AI Mythology Kids Video Pipeline
+
+.venv/
+__pycache__/
+*.pyc
+*.wav
+*.mp3
+*.mp4
+.DS_Store
+data/chroma_db/
