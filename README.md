@@ -21,17 +21,18 @@ flowchart TD
     end
 
     subgraph STAGE1["📖 Stage 1 — Story Generation"]
-        A1["Load Qwen3:8b"] --> A2["Generate 100+ stories<br/>from Ramayana, Mahabharata,<br/>Panchatantra, etc."]
-        A2 --> A3["Save to SQLite<br/>status: PENDING"]
-        A3 --> A4["Unload model<br/>FREE RAM"]
+        A1["Load Qwen3:8b"] --> A2["Generate 100+ stories<br/>5 per batch × 2 batches × 12 sources"]
+        A2 --> A3["Save as JSON files<br/>output/stories/pending/0001_title.json"]
+        A3 --> A4["Dedup check<br/>skip existing titles"]
+        A4 --> A5["Unload model · FREE RAM"]
     end
 
-    subgraph STAGE2["🎨 Stage 2 — Validate + Produce (Daily CRON)"]
-        B1["Pick 1 PENDING story"]
+    subgraph STAGE2["🎨 Stage 2 — Validate + Produce (Daily)"]
+        B1["Pick next file from<br/>pending/ folder"]
         B1 --> B2["Load Qwen3:8b"]
 
         B2 --> B3{"Validate<br/>RAG + Web + Safety"}
-        B3 -->|FAIL| B3R["REJECTED"]
+        B3 -->|FAIL| B3R["Move to rejected/"]
         B3 -->|PASS| B4{"Human Review<br/>(first 30 only)"}
         B4 -->|REJECT| B3R
         B4 -->|APPROVE| B5["Script 18 scenes"]
@@ -41,27 +42,29 @@ flowchart TD
         B7 --> B8["Generate narration<br/>Kokoro TTS · CPU"]
         B8 --> B9["Generate subtitles<br/>Faster-Whisper · CPU"]
         B9 --> B10["Assemble video<br/>MoviePy · Ken Burns"]
-        B10 --> B11["status: ASSEMBLED"]
+        B10 --> B11["Move to assembled/"]
     end
 
     subgraph STAGE3["📤 Stage 3 — Publish"]
-        C1["Final QA check"]
+        C1["Pick from assembled/"]
         C1 --> C2["Upload to YouTube<br/>madeForKids: true"]
         C1 --> C3["Upload to Instagram<br/>60s Reel · 9:16"]
-        C2 --> C4["status: PUBLISHED"]
+        C2 --> C4["Move to published/"]
         C3 --> C4
     end
 
     SETUP --> STAGE1 --> STAGE2 --> STAGE3
 ```
 
-### Story Status Flow
+### Story Status Flow (folder-based)
 
 ```
-PENDING → VALIDATED → SCRIPTED → MEDIA_DONE → ASSEMBLED → PUBLISHED
-                ↓
-            REJECTED
+pending/ → validated/ → scripted/ → assembled/ → published/
+              ↓
+          rejected/
 ```
+
+Status changes = file moves between folders. No database needed.
 
 ---
 
@@ -70,14 +73,14 @@ PENDING → VALIDATED → SCRIPTED → MEDIA_DONE → ASSEMBLED → PUBLISHED
 | Component | Tool | Cost |
 |:--|:--|:--|
 | LLM | Ollama + Qwen3:8b | $0 |
-| RAG Fact-Check | ChromaDB + source text PDFs | $0 |
+| RAG Fact-Check | ChromaDB + source texts | $0 |
 | Web Search | DuckDuckGo (Python) | $0 |
 | Image Gen | Google Colab free + FLUX.1-dev | $0 |
 | TTS | Kokoro TTS (82M, CPU) | $0 |
 | Subtitles | Faster-Whisper (CPU) | $0 |
 | Video Assembly | MoviePy + FFmpeg | $0 |
 | Music | Royalty-free downloads | $0 |
-| Database | SQLite | $0 |
+| Storage | JSON files (no database) | $0 |
 | Orchestration | Python scripts + CRON | $0 |
 | Publishing | YouTube/Instagram APIs | $0 |
 
@@ -99,7 +102,6 @@ ollama pull qwen3:8b           # Creative writing, scripting, validation
 brew install ffmpeg
 
 # Python environment
-cd /Users/sanjusingh/workspace/youtube-channel-001
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
@@ -122,9 +124,33 @@ python stage1/generate_stories.py
 ```
 
 - Generates 100+ stories across 12 mythology source sections
-- Each story: 800-1000 words with moral lesson
-- Saves to SQLite with status `PENDING`
-- Takes ~2-3 hours on 16GB Mac (one-time)
+- 5 stories per LLM call × 2 batches × 12 sources = ~120 stories
+- Each story saved as JSON file in `output/stories/pending/`
+- 3-layer deduplication prevents repeat stories
+- Takes ~30-40 min on 16GB Mac (one-time)
+
+**Output example:**
+```
+output/stories/pending/
+├── 0001_hanumans_leap_to_the_sun.json
+├── 0002_the_breaking_of_shivas_bow.json
+├── 0003_sitas_garden_of_kindness.json
+└── ...
+```
+
+**Each JSON file:**
+```json
+{
+  "id": 1,
+  "title": "Hanuman's Leap to the Sun",
+  "source": "Ramayana - Bala Kanda",
+  "characters": ["Hanuman", "Surya", "Indra"],
+  "full_story": "Long ago, in a lush green forest... (800-1000 words)",
+  "moral": "True strength comes with humility.",
+  "tags": ["courage", "humility", "Hanuman"],
+  "status": "pending"
+}
+```
 
 ### 4. Run Stage 2 — Process One Story
 
@@ -132,7 +158,7 @@ python stage1/generate_stories.py
 python stage2/main.py
 ```
 
-Processes one `PENDING` story through the full pipeline:
+Picks the first file from `pending/` and processes it through 6 steps:
 
 | Step | Tool | RAM | What Happens |
 |:--|:--|:--|:--|
@@ -142,6 +168,8 @@ Processes one `PENDING` story through the full pipeline:
 | 4. Voice | Kokoro TTS | ~300MB | 8-min narration WAV |
 | 5. Subtitles | Faster-Whisper | ~500MB | SRT file from narration |
 | 6. Assemble | MoviePy + FFmpeg | ~1GB | Ken Burns video with audio + subs |
+
+**File moves:** `pending/` → `validated/` → `scripted/` → `assembled/`
 
 **RAM Management:** Model loads/unloads between steps. Only one heavy model in RAM at a time.
 
@@ -157,7 +185,7 @@ python stage3/instagram_upload.py
 ```bash
 # Daily CRON: process + publish one story at 6 AM
 crontab -e
-0 6 * * * cd /Users/sanjusingh/workspace/youtube-channel-001 && .venv/bin/python stage2/main.py && .venv/bin/python stage3/youtube_upload.py
+0 6 * * * cd /path/to/project && .venv/bin/python stage2/main.py && .venv/bin/python stage3/youtube_upload.py
 ```
 
 ---
@@ -165,71 +193,69 @@ crontab -e
 ## Project Structure
 
 ```
-youtube-channel-001/
-├── README.md                # This file
+├── README.md
 ├── requirements.txt
 ├── config/
-│   └── settings.py          # Model names, paths, video specs
+│   └── settings.py              # Model names, paths, video specs
 ├── data/
-│   ├── download_sources.py  # Auto-downloads public domain texts
-│   ├── rag_sources/         # Downloaded/manual mythology texts
-│   └── chroma_db/           # Auto-generated vector store
+│   ├── download_sources.py      # Auto-downloads public domain texts
+│   ├── rag_sources/             # Downloaded mythology texts (TXT/PDF)
+│   └── chroma_db/               # Auto-generated vector store
 ├── stage1/
-│   └── generate_stories.py  # Bulk story generation (Ollama + Qwen3)
+│   └── generate_stories.py      # Bulk story generation (5/call × 2 batches)
 ├── stage2/
-│   ├── main.py              # Daily orchestrator (sequential, RAM-managed)
+│   ├── main.py                  # Daily orchestrator (sequential, RAM-managed)
 │   ├── agents/
-│   │   └── validator.py     # RAG + web fact-check + safety + human review
+│   │   └── validator.py         # RAG + web fact-check + safety + human review
 │   ├── generators/
-│   │   ├── scripter.py      # Scene breakdown + image prompts
-│   │   ├── image_gen.py     # ComfyUI/Colab image generation
-│   │   └── voice_gen.py     # Kokoro TTS narration
+│   │   ├── scripter.py          # Scene breakdown + image prompts
+│   │   ├── image_gen.py         # ComfyUI/Colab image generation
+│   │   └── voice_gen.py         # Kokoro TTS narration
 │   ├── assembly/
-│   │   ├── video_builder.py # Ken Burns + stitching
-│   │   └── subtitles.py     # Faster-Whisper subtitle burn-in
+│   │   ├── video_builder.py     # Ken Burns + stitching
+│   │   └── subtitles.py         # Faster-Whisper subtitle burn-in
 │   └── templates/
-│       ├── intro.png        # Channel intro card
-│       └── moral_card.png   # "Moral of the story" end card
+│       ├── intro.png            # Channel intro card
+│       └── moral_card.png       # "Moral of the story" end card
 ├── stage3/
-│   ├── youtube_upload.py    # YouTube Data API v3
-│   └── instagram_upload.py  # Instagram Graph API
+│   ├── youtube_upload.py        # YouTube Data API v3
+│   └── instagram_upload.py      # Instagram Graph API
 ├── shared/
-│   ├── db.py                # SQLite helpers
-│   ├── ollama_utils.py      # Load/unload model helpers
-│   ├── rag_store.py         # ChromaDB RAG indexer + query
+│   ├── store.py                 # File-based JSON store (replaces SQLite)
+│   ├── ollama_utils.py          # Load/unload model helpers
+│   ├── rag_store.py             # ChromaDB RAG indexer + query
 │   └── logger.py
-├── output/                  # Generated per-story output
-│   └── {story_id}/
-│       ├── images/
-│       ├── audio/
-│       └── video/
+├── output/
+│   ├── stories/                 # Story JSON files by status
+│   │   ├── pending/             # New, unprocessed stories
+│   │   ├── validated/           # Passed all checks
+│   │   ├── scripted/            # Scenes generated
+│   │   ├── assembled/           # Video ready
+│   │   ├── published/           # Live on YouTube/Instagram
+│   │   └── rejected/            # Failed validation
+│   └── media/                   # Generated assets per story
+│       └── 0001_story_slug/
+│           ├── images/          # Scene images (18 × 1920x1080)
+│           ├── audio/           # narration.wav + subtitles.srt
+│           └── video/           # final_youtube.mp4 + final_reel.mp4
 └── assets/
-    ├── music/               # Royalty-free BGM files
-    └── fonts/               # Kid-friendly fonts for subtitles
+    ├── music/                   # Royalty-free BGM files
+    └── fonts/                   # Kid-friendly fonts for subtitles
 ```
 
 ---
 
-## Database Schema
+## Deduplication (3-Layer)
 
-```sql
-CREATE TABLE stories (
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
-    title TEXT NOT NULL,
-    source TEXT,           -- "Ramayana", "Panchatantra", etc.
-    characters TEXT,       -- JSON array
-    full_story TEXT,       -- 800-1000 words
-    moral TEXT,
-    tags TEXT,             -- JSON array
-    scenes TEXT,           -- JSON array of scene objects (after scripting)
-    status TEXT DEFAULT 'PENDING',
-    validation_result TEXT, -- JSON
-    youtube_url TEXT,
-    instagram_url TEXT,
-    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
-    published_at TIMESTAMP
-);
-```
+Stories are never repeated, even across multiple runs:
+
+| Layer | How | When |
+|:--|:--|:--|
+| 1. Load existing | Scan all status folders for title slugs | At startup |
+| 2. Prompt injection | Pass existing titles in LLM prompt as "avoid these" | Per LLM call |
+| 3. Insert check | Compare slug against known set before saving | Per story |
+
+Safe to re-run `stage1/generate_stories.py` — only new unique stories get added.
 
 ---
 
@@ -238,16 +264,16 @@ CREATE TABLE stories (
 ### Stage 1: Story Generation
 
 **Run:** `python stage1/generate_stories.py`
-**Model:** Qwen3:8b via Ollama
-**Output:** 100+ stories in SQLite
+**Model:** Qwen3:8b via Ollama (5 stories per call, 2 batches per source)
+**Output:** ~120 JSON files in `output/stories/pending/`
 
 Sources covered:
-1. Ramayana — all 6 Kandas
-2. Mahabharata — Adi, Sabha, Vana, Bhishma Parvas
+1. Ramayana — Bala, Ayodhya, Aranya, Sundara, Yuddha Kanda
+2. Mahabharata — childhood stories, moral dilemmas
 3. Bhagavata Purana — Krishna childhood
-4. Panchatantra — all 5 tantras
-5. Hitopadesha — Mitra Labha, Mitra Bheda
-6. Jataka Tales — selected animal fables
+4. Panchatantra — Books 1-3
+5. Hitopadesha — friendship and wisdom tales
+6. Jataka Tales — animal fables
 
 ### Stage 2: Validation + Media Production
 
@@ -257,10 +283,10 @@ Sources covered:
 
 | Check | Method | Fail Action |
 |:--|:--|:--|
-| Mythological accuracy | RAG against source texts + DuckDuckGo | REJECT |
-| Content safety | LLM checks for violence, adult themes | REJECT or auto-rewrite |
+| Mythological accuracy | RAG against source texts + DuckDuckGo | Move to rejected/ |
+| Content safety | LLM checks for violence, adult themes | Move to rejected/ |
 | Moral validation | LLM verifies moral matches story | Suggest alternative |
-| Human review | CLI prompt (first 30 stories only) | REJECT if human says no |
+| Human review | CLI prompt (first 30 stories only) | Move to rejected/ |
 
 Set `HUMAN_REVIEW_FIRST_N = 0` in `stage2/agents/validator.py` to skip human review.
 
