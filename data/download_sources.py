@@ -1,13 +1,14 @@
-"""Download free, public-domain mythology texts for the RAG knowledge base.
+"""Setup RAG source texts for the knowledge base.
 
-All texts are public domain (published before 1929) from Project Gutenberg
-and Internet Archive. No copyright issues for commercial use.
+Uses local PDFs first (Ramayana, Mahabharata already in data/).
+Downloads remaining texts from Project Gutenberg (public domain, pre-1929).
 
 Usage:
     python data/download_sources.py
 """
 
 import os
+import shutil
 import urllib.request
 import sys
 
@@ -16,50 +17,58 @@ from shared.logger import setup_logger
 
 logger = setup_logger("downloader")
 
-OUTPUT_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "rag_sources")
+DATA_DIR = os.path.dirname(os.path.abspath(__file__))
+RAG_DIR = os.path.join(DATA_DIR, "rag_sources")
 
-# Public domain texts (all pre-1929, legal for commercial use)
-SOURCES = [
-    {
-        "name": "Ramayana - Griffith Translation (1870)",
-        "filename": "ramayana_griffith.txt",
-        "url": "https://www.gutenberg.org/cache/epub/24869/pg24869.txt",
-        "format": "txt"
-    },
-    {
-        "name": "Mahabharata - Kisari Mohan Ganguli Translation (1883-1896)",
-        "filename": "mahabharata_ganguli_vol1.txt",
-        "url": "https://www.gutenberg.org/cache/epub/15474/pg15474.txt",
-        "format": "txt"
-    },
+# Local PDFs already in data/ — copy to rag_sources/
+LOCAL_PDFS = [
+    "Ramayana.of.Valmiki.by.Hari.Prasad.Shastri.pdf",
+    "Mahabharat.pdf",
+]
+
+# Additional texts to download (only what we don't have locally)
+REMOTE_SOURCES = [
     {
         "name": "Panchatantra - Arthur Ryder Translation (1925)",
         "filename": "panchatantra_ryder.txt",
         "url": "https://www.gutenberg.org/cache/epub/25545/pg25545.txt",
-        "format": "txt"
     },
     {
         "name": "Hitopadesha - Wilkins Translation (1886)",
         "filename": "hitopadesha_wilkins.txt",
         "url": "https://www.gutenberg.org/cache/epub/10824/pg10824.txt",
-        "format": "txt"
     },
     {
         "name": "Indian Fairy Tales - Joseph Jacobs (1892)",
         "filename": "indian_fairy_tales_jacobs.txt",
         "url": "https://www.gutenberg.org/cache/epub/7128/pg7128.txt",
-        "format": "txt"
     },
 ]
 
 
-def download_sources():
-    """Download all public-domain source texts."""
-    os.makedirs(OUTPUT_DIR, exist_ok=True)
+def setup_sources():
+    """Copy local PDFs + download remaining texts to rag_sources/."""
+    os.makedirs(RAG_DIR, exist_ok=True)
 
-    for source in SOURCES:
-        filepath = os.path.join(OUTPUT_DIR, source["filename"])
+    # Step 1: Copy local PDFs
+    logger.info("=== Local PDFs ===")
+    for pdf in LOCAL_PDFS:
+        src = os.path.join(DATA_DIR, pdf)
+        dst = os.path.join(RAG_DIR, pdf)
+        if os.path.exists(dst):
+            logger.info(f"  ✓ Already in rag_sources: {pdf}")
+            continue
+        if os.path.exists(src):
+            shutil.copy2(src, dst)
+            size_mb = os.path.getsize(dst) / (1024 * 1024)
+            logger.info(f"  ✓ Copied: {pdf} ({size_mb:.1f} MB)")
+        else:
+            logger.warning(f"  ✗ Not found: {src}")
 
+    # Step 2: Download additional texts
+    logger.info("=== Remote Downloads ===")
+    for source in REMOTE_SOURCES:
+        filepath = os.path.join(RAG_DIR, source["filename"])
         if os.path.exists(filepath):
             logger.info(f"  ✓ Already exists: {source['filename']}")
             continue
@@ -73,9 +82,14 @@ def download_sources():
             logger.error(f"    Failed: {e}")
             logger.info(f"    Manual download: {source['url']}")
 
-    logger.info(f"\nAll texts saved to: {OUTPUT_DIR}")
-    logger.info("Next step: python -m shared.rag_store  (to index into ChromaDB)")
+    # Summary
+    files = [f for f in os.listdir(RAG_DIR) if f.endswith((".pdf", ".txt"))]
+    logger.info(f"\n=== {len(files)} source texts ready in {RAG_DIR} ===")
+    for f in sorted(files):
+        size = os.path.getsize(os.path.join(RAG_DIR, f))
+        logger.info(f"  {f} ({size/1024:.0f} KB)")
+    logger.info("\nNext step: python -m shared.rag_store")
 
 
 if __name__ == "__main__":
-    download_sources()
+    setup_sources()
