@@ -1,0 +1,62 @@
+{
+    "SHRAVAN_KUMAR": {
+        "metadata": {
+            "character_id": "RAM_114",
+            "name": "Shravan Kumar",
+            "aliases": [
+                "Shravana"
+            ],
+            "epic": "Ramayana",
+            "primary_role": "Devoted son who carried his blind parents on a pilgrimage / Accidentally killed by Dasharatha's arrow",
+            "gender": "Male",
+            "ethnicity_cultural_context": "Ancient Indian (humble family, devoted son of blind aged parents)",
+            "family_relations": {
+                "father": "Unnamed blind sage",
+                "mother": "Unnamed blind woman",
+                "spouse": null,
+                "siblings": [],
+                "children": [],
+                "guru": null
+            },
+            "divine_origin": null,
+            "tags": [
+                "devotee",
+                "son",
+                "pilgrim",
+                "innocent",
+                "martyr",
+                "filial_piety"
+            ]
+        },
+        "timelines": [
+            {
+                "timeline_stage": "Devoted Son / Fatal Water-Fetching",
+                "age_approximation": 20,
+                "context_description": "Shravan Kumar carries his blind elderly parents on a shoulder-palanquin across India on pilgrimage. While fetching water from a river at night, the sound of his pot filling the water is mistaken by young Dasharatha for a deer drinking — Dasharatha shoots an arrow killing him. Shravan's dying curse causes Dasharatha to die of grief for his own son — connecting to Rama's exile.",
+                "physical_appearance": {
+                    "skin_tone": "Simple dusky-brown complexion of an ordinary young man, sun-darkened from walking thousands of miles, healthy and strong from carrying his parents",
+                    "height": "Medium height, strong and sturdy, the build of a man who carries two people on his shoulders daily",
+                    "build": "Powerfully built legs and shoulders from carrying the double palanquin, thick calves and broad back, callused feet from walking barefoot, hands roughened by rope and bamboo pole",
+                    "facial_features": "Simple honest young face with bright devoted eyes, gentle warm expression, slight stubble, sun-browned features, perpetual caring smile — the face of infinite filial love, changes to shocked pain when the arrow strikes",
+                    "hair": "Simple dark hair tied back practically, dusty from the road",
+                    "distinguishing_marks": "The double palanquin (Kanvar) on his shoulders carrying his blind parents is his defining image — a bamboo pole with two baskets/seats, he walks thousands of miles without complaint. The arrow wound in his chest (at the water's edge) is the tragic defining moment."
+                },
+                "wardrobe_and_adornments": {
+                    "clothing": "Simple rough cotton dhoti and a short vest, practical for carrying loads, torn and worn from the long pilgrimage, bare feet",
+                    "jewelry": "None — just a cloth tied around his head to pad the carrying pole, perhaps a simple thread bracelet his mother tied",
+                    "weapons_carried": "None — a clay water pot (ghada) is in his hands at the moment of death, the bamboo carrying pole is his only equipment"
+                },
+                "audio_and_voice_characteristics": {
+                    "tone": "Simple, earnest, loving, speaks with the gentle affection of a devoted son — becomes gasping and urgent in his dying words, his final concern is not for himself but for his blind parents",
+                    "pitch": "Young warm tenor — simple and unaffected, becomes weak and trembling when mortally wounded",
+                    "speech_style": "Speaks with simple devoted affection ('Father, are you comfortable? Mother, shall I sing?'), dying words are heart-wrenching — he asks the unknown archer to please take water to his blind parents before they die of thirst, his final words are instructions on how to care for them",
+                    "emotional_baseline": "Pure selfless devotion to parents, simple joy in service, innocent confusion when struck by the arrow, dying concern only for his parents' welfare"
+                },
+                "cinematic_generation_prompts": {
+                    "visual_prompt": "Heartbreaking cinematic shot of Shravan Kumar, age 20, at the river bank. Simple dusky-brown young man carrying a clay water pot, the double palanquin with his blind elderly parents visible in the background among trees. An arrow has just struck his chest — expression of shocked pain, water pot falling from his hands, moonlit river scene. Or: earlier scene of him walking joyfully carrying both parents, singing. 3D Pixar style, moonlit emotional, photorealistic, 8k.",
+                    "audio_prompt": "A young, warm male tenor voice. Simple and devoted, becoming weak and trembling when wounded. Final concern is for his parents. Age approximately 20 years."
+                }
+            }
+        ]
+    }
+}

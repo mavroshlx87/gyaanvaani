@@ -1,0 +1,109 @@
+{
+    "RAVANA": {
+        "metadata": {
+            "character_id": "RAM_005",
+            "name": "Ravana",
+            "aliases": [
+                "Dashanan",
+                "Dashagreeva",
+                "Lankapati",
+                "Lankeshwar",
+                "Dasamukha",
+                "Ravanaasura",
+                "Paulastya"
+            ],
+            "epic": "Ramayana",
+            "primary_role": "Primary Antagonist / Ten-headed King of Lanka / Greatest scholar and devotee of Shiva turned villain by ego",
+            "gender": "Male",
+            "ethnicity_cultural_context": "Rakshasa (demon race) — but born of a Brahmin sage father (Vishrava) and Rakshasi mother (Kaikesi), Lanka",
+            "family_relations": {
+                "father": "Vishrava (sage)",
+                "mother": "Kaikesi (Rakshasi princess)",
+                "spouse": "Mandodari (primary), Dhanyamalini",
+                "siblings": [
+                    "Kumbhakarna",
+                    "Vibhishana",
+                    "Surpanakha"
+                ],
+                "children": [
+                    "Indrajit (Meghanada)",
+                    "Akshayakumara",
+                    "Atikaya",
+                    "Narantaka",
+                    "Devantaka"
+                ],
+                "guru": "Shiva (devotee)"
+            },
+            "divine_origin": "Born of a Brahmin sage and Rakshasi princess, gained immense boons from Brahma through severe penance — including near-invincibility against gods and demons. His ego and lust became his downfall.",
+            "tags": [
+                "antagonist",
+                "demon",
+                "king",
+                "scholar",
+                "musician",
+                "warrior",
+                "shapeshifter",
+                "villain",
+                "devotee_of_shiva"
+            ]
+        },
+        "timelines": [
+            {
+                "timeline_stage": "Scholar-King / Golden Age of Lanka",
+                "age_approximation": 35,
+                "context_description": "Ravana at the height of his power — the greatest scholar, musician, and ruler the world has ever seen. Lanka is a golden city of unimaginable wealth. Before his fall into arrogance.",
+                "physical_appearance": {
+                    "skin_tone": "Deep bronzed-dark complexion with a reddish undertone (Rakshasa heritage), skin gleaming like burnished copper-gold, radiating power",
+                    "height": "Enormous — stands over 7 feet tall, dominates any room, towers over other Rakshasas",
+                    "build": "Massively powerful build — barrel chest like a fortress wall, ten muscular arms (each as powerful as a normal warrior's body), thick bull-like neck, broad as a chariot, legs like pillars",
+                    "facial_features": "Ten heads arranged in a crown-like formation — the central face is the most prominent: imperiously handsome with sharp aristocratic features, large commanding dark eyes under heavy brows, aquiline nose, cruel thin-lipped smile that hints at brilliant intellect, thick well-groomed mustache and pointed beard on each face. Each head shows a different expression: knowledge, rage, lust, pride, cunning, devotion, fear, greed, joy, and sorrow",
+                    "hair": "Each head has thick black hair elaborately styled — the central head wears the primary crown, others have progressively smaller diadems, manes of black hair flowing dramatically",
+                    "distinguishing_marks": "Twenty arms (ten pairs) — each capable of wielding a different weapon simultaneously. When he plays the Veena, multiple arms create impossible divine music. A permanent golden-red aura of accumulated divine boons. The scars on his hands from the penance where he offered his own heads to Brahma."
+                },
+                "wardrobe_and_adornments": {
+                    "clothing": "Magnificent royal robes of black and gold silk with blood-red embroidery depicting his conquests, a flowing black cape with gold lining, gem-encrusted battle armor beneath the robes visible at the chest",
+                    "jewelry": "The supreme crown of Lanka — an enormous golden multi-tiered mukut with a central bloodstone the size of a fist, each of the ten heads wearing gold diadems, heavy gold chain-link necklaces across the massive chest, diamond-studded armlets on all twenty arms, rings on every finger (200 rings total), gem-encrusted belt of gold plates, golden anklets",
+                    "weapons_carried": "The Chandrahasa sword (Moon-Blade — given by Shiva himself), a massive golden bow, multiple divine weapons including the Brahmastra, also carries a golden Veena (lute) — he is the greatest musician alive"
+                },
+                "audio_and_voice_characteristics": {
+                    "tone": "Commanding, imperious, cultured, deeply intelligent, a voice that can shake mountains or produce the most sublime music ever heard — complex and multilayered",
+                    "pitch": "Deep thunderous bass, incredibly resonant, multiple heads can speak simultaneously creating an overwhelming harmonic effect, each head has a slightly different pitch",
+                    "speech_style": "Speaks with the authority of absolute power, uses ornate scholarly Sanskrit vocabulary, delivers speeches with dramatic flair, his laughter booms across Lanka, can be sophisticatedly charming or terrifyingly wrathful in the same sentence",
+                    "emotional_baseline": "Towering ego barely restrained by brilliant intellect, supreme confidence in his own superiority, underlying devotion to Shiva that conflicts with his demonic nature, a tragic figure of immense talent corrupted by pride"
+                },
+                "cinematic_generation_prompts": {
+                    "visual_prompt": "Awe-inspiring cinematic portrait of the Ten-Headed King Ravana on the golden throne of Lanka, age 35. Enormous 7-foot figure with deep bronzed-copper skin. Ten heads in a crown-like arrangement — the central face imperiously handsome with commanding dark eyes, thick mustache, cruel intelligent smile. Twenty powerful arms, some holding weapons, others resting on throne armrests. Wearing magnificent black and gold royal robes with blood-red embroidery, enormous multi-tiered golden crown with a central bloodstone, diamond armlets on all twenty arms. Golden throne room with walls of pure gold, gem-encrusted pillars, the golden city of Lanka visible through grand windows. Golden-red aura of power. 3D Pixar style, dramatic regal lighting, photorealistic, 8k, imposing and magnificent.",
+                    "audio_prompt": "A deep, thunderous bass voice of absolute commanding authority. Cultured, intelligent, imperious. Can harmonize with itself through multiple heads. Dramatically powerful. Age approximately 35 years."
+                }
+            },
+            {
+                "timeline_stage": "War / Fall and Death at Lanka",
+                "age_approximation": 40,
+                "context_description": "During the great war against Rama — Ravana faces the systematic destruction of his army, the deaths of his sons and brothers, and ultimately his own death at Rama's hands.",
+                "physical_appearance": {
+                    "skin_tone": "Darkened and battle-ravaged — the bronzed copper skin now ashen in places from wounds and rage, veins of dark energy visible across his body",
+                    "height": "Even more imposing in full battle armor — seems to grow larger with rage",
+                    "build": "Battle-battered but still terrifyingly powerful, armor dented and bloodied, several arms wounded but all still fighting, the sheer mass of his body is a weapon itself",
+                    "facial_features": "The ten faces now show a unified expression of desperate fury, grief, and rage — bloodshot eyes on every head, teeth bared, the handsome features contorted by war. Tears on the face of the Shiva-devotee head. The central face shows the dawning recognition of destiny.",
+                    "hair": "Hair wild and loose on all ten heads, several crowns lost in battle, blood-matted and wind-torn",
+                    "distinguishing_marks": "Multiple arrow wounds and sword cuts across his body, dark blood (Rakshasa blood) staining his armor, the Brahma-boon aura flickering as his power wanes, a tragic grandeur in his final battle stance"
+                },
+                "wardrobe_and_adornments": {
+                    "clothing": "Battered but magnificent golden battle armor with deep dents and bloodstains, torn black and red war cape streaming behind him, battle skirt of golden scale mail",
+                    "jewelry": "The main crown dented and tilted, several head-diadems lost, broken necklaces, armlets bent by weapon impacts, the golden Chandrahasa sword now chipped and bloodied",
+                    "weapons_carried": "The Chandrahasa sword in one hand, his massive war bow in another, celestial weapons (Shakti, Brahmastra) in other hands, shield in one hand, a severed enemy weapon in another — all twenty arms armed simultaneously"
+                },
+                "audio_and_voice_characteristics": {
+                    "tone": "Roaring, anguished, defiant, tragic — the voice of a titan who knows he is doomed but refuses to yield, interspersed with moments of profound philosophical acceptance",
+                    "pitch": "Shattering bass that cracks stone, raw and hoarse from battle roars and grief, ten voices roaring simultaneously in a terrifying harmony of defiance",
+                    "speech_style": "Battle commands screamed across the field, grief-stricken roars when his sons die, moments of quiet tragic acceptance ('This is karma'), final address to Vibhishana acknowledging his own downfall, dies reciting a Shiva mantra",
+                    "emotional_baseline": "Tragic defiance — a brilliant soul destroyed by his own hubris, alternating between berserker rage and philosophical acceptance of fate"
+                },
+                "cinematic_generation_prompts": {
+                    "visual_prompt": "Epic cinematic battle scene of Ravana's last stand at Lanka, age 40. Enormous ten-headed figure in battered golden battle armor with blood and dents. Dark ashen-copper skin, ten faces showing unified desperate fury with bloodshot eyes and bared teeth. Wild loose hair on all heads, crowns damaged. Twenty arms each wielding a different weapon — swords, bows, celestial weapons, shields. Torn black war cape streaming. Standing on a war chariot amid the burning ruins of Lanka, Vanara army and chaos below. Flickering golden-red aura. Dramatic stormy sky with lightning. 3D Pixar style, epic apocalyptic lighting, photorealistic, 8k, tragic and magnificent.",
+                    "audio_prompt": "A shattering, raw bass voice — ten voices roaring simultaneously in terrifying harmony. Defiant, anguished, tragic. The voice of a doomed titan. Age approximately 40 years."
+                }
+            }
+        ]
+    }
+}

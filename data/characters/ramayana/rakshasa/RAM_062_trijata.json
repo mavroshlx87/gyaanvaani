@@ -1,0 +1,62 @@
+{
+    "TRIJATA": {
+        "metadata": {
+            "character_id": "RAM_062",
+            "name": "Trijata",
+            "aliases": [
+                "Trijatā"
+            ],
+            "epic": "Ramayana",
+            "primary_role": "Rakshasi guard of Sita in Ashoka Vatika / Secret devotee of Rama / Protected Sita from other guards",
+            "gender": "Female",
+            "ethnicity_cultural_context": "Rakshasa (demon race), Lanka — guard in Ashoka Vatika",
+            "family_relations": {
+                "father": "Vibhishana",
+                "mother": null,
+                "spouse": null,
+                "siblings": [],
+                "children": [],
+                "guru": null
+            },
+            "divine_origin": "Daughter of Vibhishana — inherited her father's righteous nature despite being raised among Rakshasas",
+            "tags": [
+                "rakshasi",
+                "guard",
+                "devotee",
+                "protector",
+                "kind",
+                "prophetess"
+            ]
+        },
+        "timelines": [
+            {
+                "timeline_stage": "Guard / Protector of Sita",
+                "age_approximation": 25,
+                "context_description": "Trijata is the Rakshasi guard assigned to watch Sita in Ashoka Vatika. Unlike the other cruel guards, she protects Sita, tells the other Rakshasis about her prophetic dream of Lanka's destruction, and warns them not to harm Sita.",
+                "physical_appearance": {
+                    "skin_tone": "Lighter complexion than typical Rakshasis — warm bronze-brown with a gentle quality, more human-looking, reflecting her righteous nature",
+                    "height": "Medium height, modest bearing, carries herself with quiet dignity rather than Rakshasa ferocity",
+                    "build": "Moderate Rakshasi build — strong but not grotesque, feminine and approachable, lacks the fearsome bulk of warrior Rakshasas",
+                    "facial_features": "Kind face unusual for a Rakshasi — soft warm brown eyes, gentle expression, small features, a face that shows compassion and devotion, slightly worried look as she navigates between her duty and her conscience",
+                    "hair": "Neat dark hair simply tied back, neither wild nor elaborately styled — practical and modest",
+                    "distinguishing_marks": "Her defining trait is her visible compassion — she stands slightly apart from the cruel Rakshasi guards, positions herself between them and Sita protectively, her eyes show sympathy and devotion"
+                },
+                "wardrobe_and_adornments": {
+                    "clothing": "Simple guard's uniform — dark modest sari-like garment, less ornate than palace Rakshasis, practical for guard duty",
+                    "jewelry": "Minimal — a simple chain necklace, small earrings, hidden Tulsi beads (mark of a Vishnu devotee, like her father Vibhishana)",
+                    "weapons_carried": "A guard's staff (mostly for show — she would never use it against Sita), her prophetic dreams and persuasive words are her real tools"
+                },
+                "audio_and_voice_characteristics": {
+                    "tone": "Gentle, reassuring, quietly defiant, speaks with the careful diplomacy of one who must appear loyal to Lanka while secretly protecting Rama's wife",
+                    "pitch": "Soft gentle mezzo-soprano — calm and soothing, designed to comfort Sita, becomes firm when warning other Rakshasis about her prophetic dreams",
+                    "speech_style": "Speaks gently and reassuringly to Sita ('Do not despair, Mother. Your lord will come.'), uses her prophetic dream narratively to frighten other guards away from harming Sita, careful diplomatic speech that walks the line between loyalty and conscience",
+                    "emotional_baseline": "Quiet heroic compassion, inner conflict between duty and morality (resolved in favor of righteousness), gentle protective love for Sita"
+                },
+                "cinematic_generation_prompts": {
+                    "visual_prompt": "Tender cinematic shot of Trijata, age 25, Rakshasi guard, secretly comforting Sita in Ashoka Vatika. Warm bronze-brown complexion, kind soft eyes, gentle expression. Simple dark guard's garment. Kneeling beside Sita under the Ashoka tree, speaking reassuring words with a gentle hand extended. Other Rakshasi guards visible in the dark background. Soft moonlight and garden lanterns. 3D Pixar style, warm intimate lighting, photorealistic, 8k.",
+                    "audio_prompt": "A soft, gentle female mezzo-soprano voice. Calm and reassuring, quietly protective. Speaks with careful compassion. Age approximately 25 years."
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "JAMBAVAN": {
+        "metadata": {
+            "character_id": "RAM_014",
+            "name": "Jambavan",
+            "aliases": [
+                "Jambavant",
+                "Jambuvan",
+                "Riksha-raja",
+                "The Bear King"
+            ],
+            "epic": "Ramayana",
+            "primary_role": "King of Bears / Immortal warrior / Advisor who reminded Hanuman of his powers",
+            "gender": "Male",
+            "ethnicity_cultural_context": "Riksha (divine bear race), created by Brahma",
+            "family_relations": {
+                "father": "Brahma (created by)",
+                "mother": null,
+                "spouse": "Jambavati (daughter married Krishna in a later era)",
+                "siblings": [],
+                "children": [
+                    "Jambavati"
+                ],
+                "guru": null
+            },
+            "divine_origin": "Created directly by Brahma at the beginning of creation, immortal (Chiranjivi), witnessed multiple cosmic ages",
+            "tags": [
+                "bear",
+                "king",
+                "immortal",
+                "advisor",
+                "warrior",
+                "wise",
+                "ancient"
+            ]
+        },
+        "timelines": [
+            {
+                "timeline_stage": "Elder Warrior / Lanka Campaign",
+                "age_approximation": 1000,
+                "context_description": "Ancient bear king who serves as the wisest advisor in the Vanara army. His most crucial moment is reminding the self-doubting Hanuman of his divine powers before the ocean leap.",
+                "physical_appearance": {
+                    "skin_tone": "Dark brownish-black fur over thick dark skin, weathered and ancient, with grey-silver patches at the muzzle and temples showing incredible age",
+                    "height": "Massive and broad — a towering bear standing upright, shoulders as wide as two men, powerful barrel-shaped torso",
+                    "build": "Enormously powerful even in old age — thick limbs like ancient tree trunks, massive paws with dark claws, a body that has fought through cosmic ages, moves with surprising agility despite his bulk",
+                    "facial_features": "Wise ancient bear face with small deep-set knowing eyes that have witnessed the creation of the universe, broad black nose, heavy jaw, silver-grey fur around the muzzle like an ancient beard, expression of infinite patience and cosmic perspective",
+                    "hair": "Thick dark fur covering the entire body, greying extensively, a mane of silver-black fur around the neck and shoulders",
+                    "distinguishing_marks": "Ancient battle scars from wars predating the Ramayana by eons, moves with a slight limp from a wound received from Parashurama, eyes hold the depth of having witnessed multiple yugas (ages)"
+                },
+                "wardrobe_and_adornments": {
+                    "clothing": "A rough but dignified garment of animal hide and forest cloth around his waist, a bear-skin cape over his massive shoulders (from his own molt, not a killed animal)",
+                    "jewelry": "Ancient heavy gold armlets that have been on his arms for thousands of years, a sacred stone pendant from Brahma, simple war bands on his wrists",
+                    "weapons_carried": "Enormous bear claws (natural weapons), an ancient iron mace blackened with age, his bare fists — each capable of shattering boulders"
+                },
+                "audio_and_voice_characteristics": {
+                    "tone": "Deep, rumbling, ancient, patient — like the earth itself speaking, carries the weight of millennia of wisdom, unhurried and unshakeable",
+                    "pitch": "Extremely deep bass — rumbling and gravelly, the deepest voice in the army, like distant thunder or shifting tectonic plates",
+                    "speech_style": "Speaks slowly and deliberately with cosmic perspective, uses ancient proverbs and forgotten wisdom, his famous speech to Hanuman ('O mighty Hanuman, you know not your own power...') is delivered with building dramatic intensity, addresses everyone with the patient tone of an ancient grandfather",
+                    "emotional_baseline": "Infinite patience, cosmic wisdom, gentle mentorship, the calm authority of an being who has lived since creation"
+                },
+                "cinematic_generation_prompts": {
+                    "visual_prompt": "Cinematic portrait of Jambavan, the ancient Bear King, age immemorial. Massive towering bear standing upright with dark brownish-black fur, extensive silver-grey at muzzle and temples. Deep wise ancient eyes that have witnessed creation. Enormous powerful build with thick limbs and broad shoulders. Wearing rough hide garments and an ancient iron mace at his side. Standing on a seaside cliff overlooking the ocean to Lanka, moonlight illuminating his silver fur. Vanara army campfires in background. 3D Pixar style, majestic moonlit atmosphere, photorealistic, 8k.",
+                    "audio_prompt": "An extremely deep, rumbling male bass voice like the earth itself speaking. Ancient, patient, unhurried. Carries millennia of wisdom. Gravelly and powerful."
+                }
+            }
+        ]
+    }
+}

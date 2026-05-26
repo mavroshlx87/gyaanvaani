@@ -1,0 +1,96 @@
+{
+    "BHISHMA": {
+        "metadata": {
+            "character_id": "MAH_025",
+            "name": "Bhishma",
+            "aliases": [
+                "Devavrata",
+                "Ganga-putra",
+                "Pitamaha",
+                "Bhishma Pitamaha",
+                "Gangadatta"
+            ],
+            "epic": "Mahabharata",
+            "primary_role": "Grand patriarch of Kuru Dynasty / The man who took the terrible vow of lifelong celibacy / The invincible warrior who chose when to die",
+            "gender": "Male",
+            "ethnicity_cultural_context": "Ancient Indian (Kuru Dynasty, son of King Shantanu and the river goddess Ganga)",
+            "family_relations": {
+                "father": "Shantanu",
+                "mother": "Ganga (the river goddess)",
+                "spouse": null,
+                "siblings": [],
+                "children": null,
+                "guru": "Parashurama, Brihaspati, Shukracharya"
+            },
+            "divine_origin": "Son of the river goddess Ganga — granted the boon of choosing the time of his own death (Ichcha Mrityu). His terrible vow (Bhishma Pratigya) of lifelong celibacy earned him his name 'Bhishma' (the terrible oath-taker).",
+            "tags": [
+                "patriarch",
+                "warrior",
+                "celibate",
+                "invincible",
+                "elder",
+                "vow_taker",
+                "tragic",
+                "divine_born"
+            ]
+        },
+        "timelines": [
+            {
+                "timeline_stage": "Elder / Grand Patriarch",
+                "age_approximation": 70,
+                "context_description": "Bhishma as the all-powerful patriarch of the Kuru court — the greatest living warrior who has voluntarily surrendered the throne, women, and personal happiness for his terrible vow.",
+                "physical_appearance": {
+                    "skin_tone": "Silver-white luminous complexion — ageless, radiating the divine purity of Ganga's lineage and the spiritual power of lifelong celibacy, skin seems to glow with contained power",
+                    "height": "Tall and straight-backed despite extreme old age — carries himself like a young warrior, age has not bent him, still the most imposing figure in any room",
+                    "build": "Still powerfully muscular despite being elderly — the body of the greatest warrior who ever lived maintained by divine heritage and lifelong discipline, broad shoulders, thick arms that still draw the mightiest bow, the physique of ageless warrior perfection",
+                    "facial_features": "Noble magnificent aged face — large calm eyes containing unfathomable depth (the sadness of watching four generations make mistakes he cannot prevent), snow-white flowing mustache and beard, high forehead marked with the vertical lines of Vishnu devotion, expression of weary omniscient resignation mixed with warrior steel, the face of the wisest man in the room who is bound by his own vow not to intervene",
+                    "hair": "Completely white long hair flowing freely or tied in a simple knot — the iconic white mane of Bhishma, majestic and untouched by vanity",
+                    "distinguishing_marks": "His white hair and white robes make him the most visually distinctive figure in the Kuru court, he has chosen his own death-time and no weapon can kill him without his consent, when he stands the entire court falls silent"
+                },
+                "wardrobe_and_adornments": {
+                    "clothing": "White and silver royal robes of the purest silk — the white of celibacy and renunciation, but cut in the style of royalty because he IS royalty by birth, a white silk uttariya over one powerful shoulder",
+                    "jewelry": "A simple but ancient gold diadem of the Kuru house (he refuses a crown), an ancestral chain, minimal adornment — the simplicity of voluntary renunciation",
+                    "weapons_carried": "His legendary bow (Bhishma wields a divine bow), a quiver of arrows, his mastery of all weapons taught by Parashurama himself — he is the most complete warrior ever produced"
+                },
+                "audio_and_voice_characteristics": {
+                    "tone": "Profound, measured, carrying the weight of centuries of wisdom and sorrow — the voice of someone who has seen everything and is bound by oath from acting on what he knows, majestic authority",
+                    "pitch": "Deep, resonant, timeless baritone — ageless in quality, neither young nor old, the voice of eternal duty, steady as the river Ganga herself",
+                    "speech_style": "Speaks with absolute authority that requires no raising of voice, uses ancient proverbs and dharmic reasoning, his silence is often more powerful than his speech, when he speaks in the Kuru court everyone stops, his Bed-of-Arrows discourse on Dharma is the most comprehensive teaching in the Mahabharata",
+                    "emotional_baseline": "Weary cosmic resignation, the pain of a man who chose duty over everything and watches that duty destroy everything he loves, warrior's steel beneath sage's serenity, the most tragic figure in the epic because he had the power to prevent everything but was bound not to"
+                },
+                "cinematic_generation_prompts": {
+                    "visual_prompt": "Majestic cinematic portrait of Bhishma Pitamaha, age appears 70 but ageless. Silver-white luminous complexion, magnificent aged face with flowing white beard and hair. Calm profound eyes of unfathomable depth. Still powerfully muscular in white and silver royal robes. Simple gold diadem of the Kuru house. Standing in the great hall of Hastinapur, towering presence, the entire court looking up at him with awe. Grand palace interior with massive pillars. 3D Pixar style, majestic silver-white lighting, photorealistic, 8k.",
+                    "audio_prompt": "A deep, resonant, ageless male baritone. Timeless authority, steady as the river Ganga. The voice of eternal duty and cosmic resignation."
+                }
+            },
+            {
+                "timeline_stage": "War / Bed of Arrows",
+                "age_approximation": 72,
+                "context_description": "Bhishma on his bed of arrows — after being felled by Shikhandi's attack (he refused to fight because Shikhandi was born female), he lies on a bed of arrows choosing to wait for the auspicious time of Uttarayana to die.",
+                "physical_appearance": {
+                    "skin_tone": "Pale white, blood-drained but still luminous, dozens of arrows protruding from every part of his body, yet he remains alive and serene by divine will",
+                    "height": "Lying horizontally on a bed formed entirely of arrows — his body suspended above the ground, head supported by an arrow-pillow, the most iconic image in the Mahabharata",
+                    "build": "The great warrior's body now a pincushion of hundreds of arrows — yet every muscle still holds, no decay, sustained by his boon of choosing his death, blood has stopped flowing, the body is between life and death",
+                    "facial_features": "Serene peaceful face despite the agony of hundreds of arrows — eyes open and alert, dispensing final wisdom, the expression of a man finally at peace because his duty is complete, the faintest smile of release",
+                    "hair": "White hair spread beneath him on the arrow-bed, flowing through the arrow shafts",
+                    "distinguishing_marks": "The bed of arrows itself is the most powerful image — Bhishma lying elevated on hundreds of arrow-shafts, speaking dharmic wisdom to anyone who approaches, waiting for Uttarayana (the northward journey of the sun) to die, Ganga (his mother as a river) flows upward to give him water"
+                },
+                "wardrobe_and_adornments": {
+                    "clothing": "Torn battle armor and white robes, now perforated by hundreds of arrows, blood-stained but dignified",
+                    "jewelry": "All jewelry broken or lost in battle, only the sacred thread remains visible between the arrow-shafts",
+                    "weapons_carried": "His bow lies broken beside the arrow-bed, he needs no weapons anymore — his wisdom is his final gift"
+                },
+                "audio_and_voice_characteristics": {
+                    "tone": "Serene, transcendent, the voice of ultimate peace — finally freed from his terrible vow by death, dispensing the most comprehensive teaching on Dharma, politics, and ethics ever recorded",
+                    "pitch": "Weak but clear ageless baritone — each word costs effort but carries absolute clarity, speaking between shallow breaths, the voice carries supernatural distance as if coming from another realm",
+                    "speech_style": "Delivers the Shanti Parva and Anushasan Parva — the most comprehensive teachings on governance, dharma, ethics, and cosmic law ever spoken, addresses each visitor with personalized wisdom, his final words to Krishna acknowledge the divine play with peaceful acceptance",
+                    "emotional_baseline": "Ultimate transcendent peace, the relief of duty finally completed, cosmic acceptance, the joy of a man who chose the hardest path and walked it to the end"
+                },
+                "cinematic_generation_prompts": {
+                    "visual_prompt": "The most iconic scene in the Mahabharata — Bhishma lying on a bed of arrows. Pale white luminous complexion, serene aged face with flowing white hair. Hundreds of arrows protruding from his body, suspended above the ground. Torn white robes and battle armor. Eyes open and peaceful, dispensing wisdom. Pandavas and Kauravas gathered around him. Sunset sky, the Ganga river flowing nearby. 3D Pixar style, transcendent golden-white lighting, photorealistic, 8k.",
+                    "audio_prompt": "A weak but perfectly clear ageless baritone. Each word between shallow breaths but carrying absolute clarity. Transcendent peace. Supernatural distance."
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,98 @@
+{
+    "DURYODHANA": {
+        "metadata": {
+            "character_id": "MAH_013",
+            "name": "Duryodhana",
+            "aliases": [
+                "Suyodhana",
+                "Kaurava Prince",
+                "Duryodhan"
+            ],
+            "epic": "Mahabharata",
+            "primary_role": "Primary Antagonist / Crown Prince then King of Hastinapur / Eldest of 100 Kaurava brothers",
+            "gender": "Male",
+            "ethnicity_cultural_context": "Ancient Indian (Kuru Dynasty, Hastinapur, born from Gandhari's womb after a 2-year pregnancy with divine intervention)",
+            "family_relations": {
+                "father": "Dhritarashtra",
+                "mother": "Gandhari",
+                "spouse": "Bhanumati",
+                "siblings": [
+                    "99 Kaurava brothers including Dushasana, Vikarna"
+                ],
+                "children": [
+                    "Lakshmana (son)"
+                ],
+                "guru": "Drona, Balarama (mace)"
+            },
+            "divine_origin": "Born when his mother Gandhari, out of frustration at her long pregnancy, struck her womb — the flesh was divided into 101 pieces and incubated in ghee pots. Duryodhana is said to be an incarnation of Kali (the demon of the Kali Yuga)",
+            "tags": [
+                "antagonist",
+                "prince",
+                "king",
+                "mace_fighter",
+                "ambition",
+                "jealousy",
+                "warrior",
+                "leader"
+            ]
+        },
+        "timelines": [
+            {
+                "timeline_stage": "Prince / Ambition and Jealousy",
+                "age_approximation": 22,
+                "context_description": "Young Duryodhana consumed by jealousy of the Pandavas, plotting with Shakuni to destroy them. His most sympathetic quality is his genuine friendship with Karna and his generosity to those loyal to him.",
+                "physical_appearance": {
+                    "skin_tone": "Fair complexion with an unhealthy pallor — light-skinned but with a yellowish undertone that reflects his inner poison of jealousy",
+                    "height": "Tall and powerfully built, carries himself with entitled royal arrogance, chin always raised",
+                    "build": "Heavily muscular — one of the finest mace fighters ever trained (by Balarama himself), thick arms, powerful legs, the physique of a born fighter, but carries tension in his body from constant scheming",
+                    "facial_features": "Handsome but marred by permanent expression of resentment — sharp intelligent eyes narrowed with suspicion and jealousy, strong jaw perpetually clenched, thin cruel lips that smile only when plotting, high forehead often creased with angry thought, can be charming when he chooses (especially to Karna)",
+                    "hair": "Thick well-groomed black hair under an ornate crown, styled to project power and status",
+                    "distinguishing_marks": "His jaw is perpetually clenched, fists often balled at his sides, his body language screams ambition and resentment, but his eyes soften genuinely only when with Karna (his true friend) or Bhanumati (his wife)"
+                },
+                "wardrobe_and_adornments": {
+                    "clothing": "Rich royal garments in deep red and black with heavy gold — deliberately more ornate than the Pandavas to assert superiority, heavy silk with aggressive embroidery patterns",
+                    "jewelry": "Massive ornate gold crown (larger than Yudhishthira's), heavy gold chain-link necklaces, thick armlets, every piece shouting wealth and status, ruby-studded rings",
+                    "weapons_carried": "A massive war mace (trained by Balarama — he is nearly Bhima's equal in mace combat), also skilled with a sword and bow"
+                },
+                "audio_and_voice_characteristics": {
+                    "tone": "Sharp, commanding, dripping with contempt or false sweetness, intelligent and cutting — can be charmingly generous to allies or devastatingly cruel to rivals",
+                    "pitch": "Strong dark baritone — commanding but with a bitter edge, his voice carries authority and menace in equal measure",
+                    "speech_style": "Speaks with imperious authority, uses cutting sarcasm, delivers calculated insults, but is genuinely eloquent when rallying his supporters, his generosity to Karna is expressed with real warmth",
+                    "emotional_baseline": "Burning jealousy, entitled ambition, genuine loyalty to his friends (Karna), the complex psychology of a man who believes the world has cheated him"
+                },
+                "cinematic_generation_prompts": {
+                    "visual_prompt": "Dramatic cinematic portrait of Prince Duryodhana, age 22. Fair complexion with jealous intensity. Sharp handsome face with narrowed suspicious eyes, clenched jaw, cruel thin-lipped smile. Heavily muscular build. Wearing rich red and black royal garments with heavy gold, massive ornate crown, thick gold chains. Seated on a throne leaning forward aggressively, gripping the armrests. Dark opulent palace interior. 3D Pixar style, dark dramatic mood, photorealistic, 8k.",
+                    "audio_prompt": "A strong, dark male baritone with a bitter commanding edge. Dripping with contempt or calculated charm. Age approximately 22 years."
+                }
+            },
+            {
+                "timeline_stage": "War / Final Stand — Mace Duel with Bhima",
+                "age_approximation": 48,
+                "context_description": "Duryodhana's last battle — the climactic mace duel with Bhima, where he fights with genuine skill and courage, is hit below the belt (against rules), and delivers his magnificent dying speech.",
+                "physical_appearance": {
+                    "skin_tone": "Battle-ravaged fair skin, pale and blood-drained from wounds, but blazing with final warrior pride",
+                    "height": "Still imposing despite mortal wounds — refuses to fall, props himself on his mace",
+                    "build": "Battered but still powerful — the body of a great mace-fighter broken but undefeated in spirit, thighs shattered by Bhima's illegal blow",
+                    "facial_features": "Magnificent in defeat — eyes blazing with proud defiance, bloody face contorted but unbowed, a warrior who loses but refuses to be diminished, his dying face shows more nobility than his living face ever did, bloody lips delivering his most eloquent speech",
+                    "hair": "Disheveled and blood-matted, crown lost, for the first time looking purely human",
+                    "distinguishing_marks": "Lying on the battlefield with shattered thighs but propped on his elbows, delivering his dying speech that even the gods acknowledge — 'I have lived as a king, I have eaten as a king, I have given as a king, and I die as a warrior on the battlefield. Who among you can say the same?'"
+                },
+                "wardrobe_and_adornments": {
+                    "clothing": "Shattered armor, battle-worn, essentially reduced to a blood-soaked warrior's basic garments",
+                    "jewelry": "Everything broken or lost — the prince who hoarded jewelry dies with nothing",
+                    "weapons_carried": "His broken mace beside him — the weapon that made him Bhima's near-equal"
+                },
+                "audio_and_voice_characteristics": {
+                    "tone": "Magnificent defiance in death — the most eloquent speech of the entire war, spoken while dying, genuine warrior nobility finally emerging when all ambition is stripped away",
+                    "pitch": "Broken but powerful bass-baritone — hoarse with pain but burning with magnificent defiance, each word costing him his remaining life but delivered with kingly force",
+                    "speech_style": "His dying speech is considered one of the greatest in the Mahabharata — spoken with absolute clarity and nobility: 'I have lived as a king among kings. I have fulfilled my duties. I die on a hero's bed of arrows. You who survive will quarrel and grieve. I depart for heaven.' — the most sympathetic Duryodhana becomes in the entire epic",
+                    "emotional_baseline": "Magnificent noble defiance, the tragically late emergence of genuine greatness, warrior's pride in a good death, the final revelation that under the jealousy was a genuine king"
+                },
+                "cinematic_generation_prompts": {
+                    "visual_prompt": "Magnificent dying scene of Duryodhana, age 48, after the mace duel with Bhima. Pale blood-drained complexion, battered face blazing with defiant pride. Lying on the battlefield with shattered thighs, propped on elbows, broken mace beside him. Shattered armor, blood-soaked, crownless. Delivering his magnificent dying speech with eyes blazing upward. Sunset sky, battlefield scattered with fallen warriors. 3D Pixar style, epic tragic golden lighting, photorealistic, 8k.",
+                    "audio_prompt": "A broken but magnificently defiant bass-baritone. Hoarse with pain, burning with noble pride. Each word costing his life but delivered with kingly force. Age approximately 48 years."
+                }
+            }
+        ]
+    }
+}

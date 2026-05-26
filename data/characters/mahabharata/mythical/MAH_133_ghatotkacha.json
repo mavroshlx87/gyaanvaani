@@ -1,0 +1,67 @@
+{
+    "GHATOTKACHA": {
+        "metadata": {
+            "character_id": "MAH_133",
+            "name": "Ghatotkacha",
+            "aliases": [
+                "Ghatotkacha",
+                "Hidimba-putra",
+                "Bhima-nandana"
+            ],
+            "epic": "Mahabharata",
+            "primary_role": "Half-Rakshasa son of Bhima and Hidimbi / Giant warrior who fights for the Pandavas / His death saves Arjuna's life",
+            "gender": "Male",
+            "ethnicity_cultural_context": "Half-Vanara/Rakshasa, Half-Human (Pandava father, Rakshasi mother)",
+            "family_relations": {
+                "father": "Bhima",
+                "mother": "Hidimbi",
+                "spouse": "Ahilawati",
+                "siblings": [],
+                "children": [
+                    "Barbarik"
+                ],
+                "guru": null
+            },
+            "divine_origin": "Half-Rakshasa, Half-Pandava — inherits Bhima's strength and Hidimbi's supernatural powers, can grow to enormous size, fly, and use Maya (illusion)",
+            "tags": [
+                "rakshasa",
+                "warrior",
+                "half_blood",
+                "giant",
+                "sacrifice",
+                "son",
+                "shapeshifter"
+            ]
+        },
+        "timelines": [
+            {
+                "timeline_stage": "Giant Warrior / Night Battle",
+                "age_approximation": 25,
+                "context_description": "Ghatotkacha at Kurukshetra — the half-Rakshasa giant who fights a terrifying night battle against the Kaurava forces using his demonic powers, growing to fill the sky, eventually killed by Karna's Shakti weapon (which was meant for Arjuna).",
+                "physical_appearance": {
+                    "skin_tone": "Dark greyish-bronze skin — combining Bhima's bronze with Hidimbi's Rakshasi darkness, a unique half-breed complexion that shifts slightly in shade, larger pores and rougher texture than human skin",
+                    "height": "Enormous — grows to fill the sky during his night battle, normally stands 10-12 feet, can expand at will to mountainous proportions",
+                    "build": "Massively built — inherits Bhima's enormous musculature plus Rakshasi bulk, wider and more brutish than a human warrior, powerful clawed hands (from Hidimbi), long muscular arms, immense physical power amplified by supernatural abilities",
+                    "facial_features": "Fierce hybrid face — combining Bhima's strong human features with Hidimbi's Rakshasa traits, large blazing yellow-golden eyes (from Rakshasi heritage), slightly protruding lower canines (not full fangs), strong massive jaw like Bhima's, wild expression in battle but gentle intelligent eyes in calm moments showing his human half, loves his father Bhima with pure devotion",
+                    "hair": "Wild mane of thick black hair standing up in all directions — wilder than Bhima's, almost supernatural in its volume, crackling with dark energy during battle",
+                    "distinguishing_marks": "His ability to grow to cosmic size during the night battle — expanding until his head is in the clouds and his feet crush chariots, rains weapons and boulders down on the terrified Kauravas, the most visually spectacular single-combat scene in the war, glowing supernatural eyes visible across the battlefield"
+                },
+                "wardrobe_and_adornments": {
+                    "clothing": "A hybrid of human warrior armor and Rakshasa elements — dark iron and leather armor with bone-and-fang decorations, a battle skirt of dark metal scales, bare massive chest showing his half-breed physique",
+                    "jewelry": "Dark iron crown with sharp horn-like projections, crude dark-metal armlets, bone-and-fang necklace (Rakshasa tradition) combined with a golden chain (gift from Bhima — human tradition), war paint",
+                    "weapons_carried": "His supernatural powers are his main weapons — can grow to sky-filling size, fly, create illusions, rain boulders and fire, summon magical darkness. Also: a massive dark iron mace (like Bhima's but larger), his clawed hands, supernatural strength"
+                },
+                "audio_and_voice_characteristics": {
+                    "tone": "Deep, booming, somewhat inhuman — combines Bhima's thunderous quality with a Rakshasa's unearthly resonance, frightening to enemies but gentle and playful with family",
+                    "pitch": "Extremely deep rumbling bass — even deeper than Bhima's, with a supernatural echo quality, sounds like it comes from underground and above simultaneously, his battle roar creates physical shockwaves",
+                    "speech_style": "In battle: mostly roars and supernatural sound-attacks, his laugh echoes supernaturally across the battlefield terrifying enemies, with family: surprisingly gentle, calls Bhima 'Father' with childlike devotion despite his enormous size, his acceptance of death (taking the Shakti weapon meant for Arjuna) is expressed with quiet heroic simplicity",
+                    "emotional_baseline": "The paradox of a monster's body with a loving heart, fierce supernatural battle-joy, childlike devotion to his father Bhima, heroic self-sacrifice — he dies so that Arjuna can live"
+                },
+                "cinematic_generation_prompts": {
+                    "visual_prompt": "Awe-inspiring cinematic shot of giant Ghatotkacha at the night battle of Kurukshetra, age 25. Dark greyish-bronze skin, blazing yellow-golden eyes, wild mane of supernatural black hair. Grown to enormous sky-filling proportions, head above the clouds. Dark iron armor with bone decorations. Raining boulders and fire down on the terrified Kaurava army below. Night sky, lightning, supernatural darkness. 3D Pixar style, supernatural epic scale, photorealistic, 8k.",
+                    "audio_prompt": "An extremely deep rumbling bass with supernatural echo. Deeper than Bhima's, sounds from underground and above simultaneously. Frightening in battle, gentle with family."
+                }
+            }
+        ]
+    }
+}

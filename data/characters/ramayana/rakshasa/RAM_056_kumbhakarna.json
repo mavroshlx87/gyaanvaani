@@ -1,0 +1,66 @@
+{
+    "KUMBHAKARNA": {
+        "metadata": {
+            "character_id": "RAM_056",
+            "name": "Kumbhakarna",
+            "aliases": [
+                "Kumbhakarn"
+            ],
+            "epic": "Ramayana",
+            "primary_role": "Ravana's giant brother / Blessed with the boon of sleep / Awakened for the war against Rama",
+            "gender": "Male",
+            "ethnicity_cultural_context": "Rakshasa (demon race), Lanka",
+            "family_relations": {
+                "father": "Vishrava",
+                "mother": "Kaikesi",
+                "spouse": null,
+                "siblings": [
+                    "Ravana",
+                    "Vibhishana",
+                    "Surpanakha"
+                ],
+                "children": [],
+                "guru": null
+            },
+            "divine_origin": "Received a boon from Brahma (tricked by Saraswati) of sleeping for six months and waking for one day — on that one day he is nearly invincible",
+            "tags": [
+                "rakshasa",
+                "giant",
+                "warrior",
+                "sleeper",
+                "brother",
+                "tragic"
+            ]
+        },
+        "timelines": [
+            {
+                "timeline_stage": "Giant Warrior / War of Lanka",
+                "age_approximation": 38,
+                "context_description": "Kumbhakarna is awakened from his magical sleep to fight in the war. Despite knowing Ravana is wrong, he fights out of fraternal loyalty and is killed by Rama.",
+                "physical_appearance": {
+                    "skin_tone": "Dark grey-brown skin like weathered granite, covered in patches of coarse black hair, enormous and terrifying",
+                    "height": "Colossal — stands 20-30 feet tall, his footsteps shake the earth, he is literally a giant among giants",
+                    "build": "Absolutely enormous — each limb is thicker than an ancient tree, belly like a mountain, arms like bridge supports, when he yawns the wind from his mouth flattens trees, a living mountain of flesh and muscle",
+                    "facial_features": "Sleepy grotesque giant face — enormous drowsy bloodshot eyes still half-closed from his eternal slumber, cavernous yawning mouth revealing massive yellowed teeth, broad flat nose, thick lips, heavy jaw perpetually sagging with sleep, face covered in drool and food stains from his awakening feast, but beneath the monster exterior — intelligent knowing eyes that understand the tragedy of his situation",
+                    "hair": "Massive tangled mat of coarse black hair, disheveled from millennia of sleep, standing in wild directions",
+                    "distinguishing_marks": "His defining mark is his overwhelming SIZE — when he walks through Lanka's streets his head is above the buildings, his sleeping form fills an entire palace hall, when awakened he eats entire warehouses of food to fuel his battle"
+                },
+                "wardrobe_and_adornments": {
+                    "clothing": "An enormous rough battle-skirt of thick leather and metal plates, sized for a giant, bare-chested revealing his mountainous torso, crude iron sandals",
+                    "jewelry": "A massive iron crown (sized for a giant's head), thick iron armlets and leg-guards, a chain-link necklace of iron links each as big as a man's fist",
+                    "weapons_carried": "A colossal iron mace (Gada) — so large that normal warriors cannot even lift it, his bare hands and feet are devastating weapons, can uproot entire hills to throw"
+                },
+                "audio_and_voice_characteristics": {
+                    "tone": "Drowsy rumbling initially, then building to earth-shaking battle roars, surprisingly thoughtful and sad when speaking privately to Ravana about the war's futility",
+                    "pitch": "Incredibly deep bass — the lowest voice in the epic, like geological activity, each word vibrates buildings, his snoring is described as sounding like earthquakes",
+                    "speech_style": "Speaks slowly and drowsily at first, building to thunderous speed in battle, his private conversation with Ravana shows intelligence and tragic awareness ('Brother, you are wrong, but I will die for you'), his battle roar 'WHO DARES WAKE KUMBHAKARNA?' is legendary",
+                    "emotional_baseline": "Tragic loyalty — fights knowing his brother is wrong, accepts death as inevitable, the complex sadness of a giant who just wanted to sleep"
+                },
+                "cinematic_generation_prompts": {
+                    "visual_prompt": "Awe-inspiring cinematic shot of the giant Kumbhakarna, age 38, awoken for war. Colossal 25-foot figure of dark grey-brown skin, enormous drowsy bloodshot eyes, massive tangled black hair. Mountainous muscular body, bare-chested. Wearing an enormous iron crown and battle-skirt. Holding a colossal iron mace. Standing among the buildings of Lanka which barely reach his waist. Vanara army like ants below. Dramatic stormy sky. 3D Pixar style, epic scale, photorealistic, 8k.",
+                    "audio_prompt": "An incredibly deep bass voice like geological activity. Drowsy rumbling building to earth-shaking battle roars. Each word vibrates buildings."
+                }
+            }
+        ]
+    }
+}

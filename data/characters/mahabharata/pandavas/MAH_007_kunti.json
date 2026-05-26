@@ -1,0 +1,71 @@
+{
+    "KUNTI": {
+        "metadata": {
+            "character_id": "MAH_007",
+            "name": "Kunti",
+            "aliases": [
+                "Pritha",
+                "Kunti Devi",
+                "Pandava-mata"
+            ],
+            "epic": "Mahabharata",
+            "primary_role": "Mother of the three elder Pandavas / Queen of Pandu / Possessed the Deva-invocation mantra",
+            "gender": "Female",
+            "ethnicity_cultural_context": "Ancient Indian (Yadava princess adopted by Kuntibhoja, Queen of Hastinapur)",
+            "family_relations": {
+                "father": "Shurasena (biological), Kuntibhoja (adoptive)",
+                "mother": null,
+                "spouse": "Pandu",
+                "siblings": [
+                    "Vasudeva (biological brother — Krishna's father)"
+                ],
+                "children": [
+                    "Karna (secret, by Surya)",
+                    "Yudhishthira",
+                    "Bhima",
+                    "Arjuna"
+                ],
+                "guru": "Sage Durvasa"
+            },
+            "divine_origin": "Granted a divine mantra by Sage Durvasa to invoke any god and bear his child — used this to conceive Karna (by Surya), Yudhishthira (by Dharma), Bhima (by Vayu), and Arjuna (by Indra)",
+            "tags": [
+                "queen",
+                "mother",
+                "secret_keeper",
+                "wise",
+                "strong",
+                "sacrifice"
+            ]
+        },
+        "timelines": [
+            {
+                "timeline_stage": "Queen Mother / The Secret Bearer",
+                "age_approximation": 55,
+                "context_description": "Kunti as the dignified queen mother who carries the devastating secret of Karna being her firstborn, watches him fight against her other sons, and only reveals the truth when it's too late.",
+                "physical_appearance": {
+                    "skin_tone": "Warm medium-brown complexion, once beautiful now dignified with age, the visible toll of decades of secrets and suffering",
+                    "height": "Medium height, carries herself with the quiet unbreakable dignity of a queen who has endured everything",
+                    "build": "Mature, dignified bearing, neither frail nor imposing — the resilient body of a woman who survived widowhood, exile, and the knowledge that her sons will kill each other",
+                    "facial_features": "Dignified aged face with large expressive dark eyes that hold impossible depths of hidden sorrow and guilt, strong features softened by age, lips often pressed in restrained emotion, the face of a woman who carries the most devastating secret in the epic — Karna is her firstborn, and she watches him die fighting her other sons",
+                    "hair": "Grey-streaked hair pulled back in a dignified bun, covered with her sari pallu in the traditional style of a queen-widow",
+                    "distinguishing_marks": "Her eyes betray her — whenever she sees Karna, a visible flash of maternal anguish crosses her face before she suppresses it, her hands unconsciously reach toward Karna before she catches herself"
+                },
+                "wardrobe_and_adornments": {
+                    "clothing": "White and pale gold widow's sari — dignified and modest, the restrained elegance of a Yadava princess who became a queen-widow",
+                    "jewelry": "Minimal — a single gold chain, simple bangles, the mangalsutra she still wears despite widowhood, no ostentatious display",
+                    "weapons_carried": "None physically — her mantra (which she can no longer use) and her political wisdom are her weapons"
+                },
+                "audio_and_voice_characteristics": {
+                    "tone": "Controlled, dignified, carrying immense hidden pain — the voice of a woman who must watch the consequences of her youthful secret destroy everyone she loves",
+                    "pitch": "Steady warm mezzo — controlled and dignified, breaks only in private moments, carries the weight of unspeakable secrets",
+                    "speech_style": "Speaks with measured queenly dignity, chooses each word to navigate impossible situations, her conversation with Karna before the war (revealing she is his mother) is one of the most emotionally devastating dialogues in literature",
+                    "emotional_baseline": "Hidden devastating guilt, fierce protective love, the impossible weight of secrets that destroy, dignified endurance of unimaginable emotional pain"
+                },
+                "cinematic_generation_prompts": {
+                    "visual_prompt": "Emotionally devastating cinematic portrait of Queen Kunti, age 55. Medium-brown complexion, dignified aged face with dark eyes holding infinite hidden sorrow. Grey-streaked hair in a dignified bun. White and pale gold widow's sari, minimal gold jewelry. Standing at a palace window, watching Karna (visible below in the distance), one hand unconsciously reaching toward him, face showing the flash of suppressed maternal anguish. Warm intimate palace lighting. 3D Pixar style, emotionally powerful, photorealistic, 8k.",
+                    "audio_prompt": "A steady, warm female mezzo voice of dignified control. Carries immense hidden pain. Breaks only in private. Age approximately 55 years."
+                }
+            }
+        ]
+    }
+}

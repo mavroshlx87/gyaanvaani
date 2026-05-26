@@ -1,0 +1,66 @@
+{
+    "VISHWAMITRA": {
+        "metadata": {
+            "character_id": "RAM_017",
+            "name": "Vishwamitra",
+            "aliases": [
+                "Kaushika",
+                "Vishvamitra",
+                "Rajarishi-turned-Brahmarishi"
+            ],
+            "epic": "Ramayana",
+            "primary_role": "Warrior-sage who trained young Rama and Lakshmana / Former king who became a Brahmarishi through penance",
+            "gender": "Male",
+            "ethnicity_cultural_context": "Ancient Indian (former Kshatriya king of Kanyakubja who earned Brahmarishi status through penance)",
+            "family_relations": {
+                "father": "Gadhi",
+                "mother": null,
+                "spouse": "Multiple (as king)",
+                "siblings": [],
+                "children": [
+                    "Shakuntala (some traditions)"
+                ],
+                "guru": null
+            },
+            "divine_origin": "A mortal king who through sheer willpower and millennia of penance earned the rank of Brahmarishi — equal to Brahma's own sons",
+            "tags": [
+                "sage",
+                "warrior",
+                "guru",
+                "teacher",
+                "powerful",
+                "mentor"
+            ]
+        },
+        "timelines": [
+            {
+                "timeline_stage": "Sage-Warrior / Rama's first Guru",
+                "age_approximation": 60,
+                "context_description": "Vishwamitra arrives at Ayodhya to take young Rama and Lakshmana to protect his yagna from the demons Tataka, Subahu, and Maricha.",
+                "physical_appearance": {
+                    "skin_tone": "Dark bronze-copper complexion weathered by millennia of exposure to elements and sacred fires, rugged and powerful",
+                    "height": "Tall and imposing — retains the physical bearing of the warrior-king he once was, stands like a soldier despite sage robes",
+                    "build": "Unusually muscular and powerful for a sage — still has the thick arms and chest of a Kshatriya warrior beneath his ascetic robes, a warrior's body refined by tapas",
+                    "facial_features": "Fierce intense face — piercing fiery eyes that can blaze with terrifying anger (his legendary temper) or soften with sage wisdom, sharp aquiline nose, strong jaw, short grey-white beard, deep lines of concentration on forehead, a face that has been both a battlefield commander and a forest hermit",
+                    "hair": "Grey-white matted locks (Jata) shorter and more practical than Vasishtha's, tied in a warrior-sage's topknot, still showing discipline",
+                    "distinguishing_marks": "Retains a warrior's scars beneath his sage robes, his eyes literally glow when he channels divine power, the air around him crackles with restrained cosmic energy — his temper is legendary"
+                },
+                "wardrobe_and_adornments": {
+                    "clothing": "A blend of sage and warrior — bark-cloth robes but worn with military precision, a tiger-skin draped over one powerful shoulder, practical leather sandals",
+                    "jewelry": "Rudraksha mala, sacred thread, a warrior's leather wrist-guard on his right hand (habit from his Kshatriya days), sacred ash markings",
+                    "weapons_carried": "His divine staff, his spiritual powers (he created an entire parallel universe to rival Indra's heaven), also knows all celestial weapons (Astras) which he teaches to Rama"
+                },
+                "audio_and_voice_characteristics": {
+                    "tone": "Intense, commanding, fiery — shifts between explosive authority and measured sage wisdom, passionate and dramatic, the most emotionally intense of the great sages",
+                    "pitch": "Powerful commanding baritone — still has the ring of a battlefield general, louder and more forceful than other sages, can drop to a dramatic whisper",
+                    "speech_style": "Commands with military precision, teaches with fierce intensity, speaks with the passion of a man who fought for every achievement, his legendary temper means his displeasure is explosive rather than silent",
+                    "emotional_baseline": "Intense focused discipline, fierce pride in his achievements, passionate mentorship of Rama, restrained but volatile temper, the complex emotions of a warrior who became a sage"
+                },
+                "cinematic_generation_prompts": {
+                    "visual_prompt": "Dynamic cinematic shot of Sage Vishwamitra, age appears 60, warrior-sage. Dark bronze-copper weathered complexion. Fierce intense face with piercing fiery eyes, sharp nose, short grey beard. Unusually muscular build for a sage with thick warrior's arms. Wearing bark-cloth robes with military precision, tiger-skin over one shoulder. Holding a divine staff crackling with energy. Leading young Rama and Lakshmana through a dangerous ancient forest. Dramatic atmospheric lighting with mist and ancient trees. 3D Pixar style, intense dramatic lighting, photorealistic, 8k.",
+                    "audio_prompt": "A powerful, commanding male baritone voice with the ring of a battlefield general. Intense, fiery, passionate. Capable of explosive authority and dramatic whispers. Age approximately 60 years (appears)."
+                }
+            }
+        ]
+    }
+}

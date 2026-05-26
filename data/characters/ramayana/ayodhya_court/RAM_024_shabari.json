@@ -1,0 +1,63 @@
+{
+    "SHABARI": {
+        "metadata": {
+            "character_id": "RAM_024",
+            "name": "Shabari",
+            "aliases": [
+                "Shabari Ma",
+                "Shabri"
+            ],
+            "epic": "Ramayana",
+            "primary_role": "Elderly tribal devotee / Fed Rama her pre-tasted berries / Symbol of pure bhakti (devotion)",
+            "gender": "Female",
+            "ethnicity_cultural_context": "Ancient Indian (tribal woman, forest hermitage, disciple of sage Matanga)",
+            "family_relations": {
+                "father": null,
+                "mother": null,
+                "spouse": null,
+                "siblings": [],
+                "children": [],
+                "guru": "Matanga Rishi"
+            },
+            "divine_origin": null,
+            "tags": [
+                "devotee",
+                "tribal",
+                "old_woman",
+                "bhakti",
+                "humble",
+                "pure"
+            ]
+        },
+        "timelines": [
+            {
+                "timeline_stage": "Devotee / Feeding Rama",
+                "age_approximation": 80,
+                "context_description": "The elderly tribal woman who waited her entire life for Rama's visit, tasting each berry to ensure its sweetness before offering it — Rama ate her pre-tasted berries with joy, honoring her pure devotion.",
+                "physical_appearance": {
+                    "skin_tone": "Dark weathered skin, deeply lined and sun-darkened from a lifetime in the forest, but with a radiant inner glow of devotion",
+                    "height": "Small and bent with age, frail but with surprisingly steady hands",
+                    "build": "Tiny, emaciated, aged body — barely skin and bones from ascetic living, but sustained by her devotion, moves with slow deliberate care",
+                    "facial_features": "Ancient deeply-lined face radiating pure love and devotion, small bright eyes that light up with overwhelming joy when she sees Rama, toothless wide smile, tears streaming uncontrollably, trembling chin, the most beautiful ugly face — beautiful because of the love it radiates",
+                    "hair": "Wispy thin white hair in a messy small bun, barely enough to tie, a few strands blowing in the breeze",
+                    "distinguishing_marks": "Her shaking hands carefully selecting and tasting berries for Rama — this image is iconic, her simple clay basket of pre-tasted fruits, she has been waiting at this spot for decades"
+                },
+                "wardrobe_and_adornments": {
+                    "clothing": "Tattered coarse cotton sari in dull white, much-patched and reworn, the simple garment of a forest-dwelling tribal woman",
+                    "jewelry": "None except a faded sacred thread her guru Matanga gave her, a few tulsi beads around her thin wrinkled neck",
+                    "weapons_carried": "None — carries only a clay basket of berries selected and tasted for Rama's arrival"
+                },
+                "audio_and_voice_characteristics": {
+                    "tone": "Quavering with age and overwhelming emotion, cracking with tears of joy, the purest most loving voice imaginable — like a grandmother seeing her most beloved grandchild",
+                    "pitch": "Thin elderly soprano — quavering and weak but filled with indescribable warmth and devotion, cracks and breaks with every sentence",
+                    "speech_style": "Simple broken sentences in a tribal dialect, cannot speak in complete thoughts due to overwhelming emotion, 'You came... you actually came... please eat... I tasted them... only sweet ones... for you...' — every word punctuated by sobs of joy",
+                    "emotional_baseline": "Pure overwhelming devotion fulfilled — a lifetime of waiting finally rewarded, complete ego-less love, the simplest and purest bhakti"
+                },
+                "cinematic_generation_prompts": {
+                    "visual_prompt": "Heartwarming cinematic shot of elderly Shabari, age 80, offering berries to Rama. Dark weathered deeply-lined skin, small frail body in tattered white sari. Tiny bright eyes overflowing with tears of joy, toothless wide smile. Trembling hands holding a clay basket of pre-tasted berries toward Rama (whose hand reaches in). Simple forest hermitage with an old grass hut. Warm golden dappled forest light. The purest expression of love. 3D Pixar style, warm tender lighting, emotionally powerful, photorealistic, 8k.",
+                    "audio_prompt": "A thin, quavering elderly soprano voice, cracking with tears of overwhelming joy. Simple broken words of pure devotion. Age approximately 80 years."
+                }
+            }
+        ]
+    }
+}

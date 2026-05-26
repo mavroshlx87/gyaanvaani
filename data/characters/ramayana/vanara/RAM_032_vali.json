@@ -1,0 +1,68 @@
+{
+    "VALI": {
+        "metadata": {
+            "character_id": "RAM_032",
+            "name": "Vali",
+            "aliases": [
+                "Bali",
+                "Indra-putra",
+                "Vanara-raja"
+            ],
+            "epic": "Ramayana",
+            "primary_role": "King of Kishkindha / Elder brother of Sugriva / Son of Indra / Killed by Rama",
+            "gender": "Male",
+            "ethnicity_cultural_context": "Vanara (divine monkey race), Kishkindha kingdom",
+            "family_relations": {
+                "father": "Indra",
+                "mother": "Arundhati/Riksharaja's queen",
+                "spouse": "Tara",
+                "siblings": [
+                    "Sugriva"
+                ],
+                "children": [
+                    "Angada"
+                ],
+                "guru": null
+            },
+            "divine_origin": "Son of Indra (King of Gods) — blessed with a divine boon that he receives half the strength of any opponent who faces him in single combat",
+            "tags": [
+                "vanara",
+                "king",
+                "warrior",
+                "powerful",
+                "tragic",
+                "divine_born"
+            ]
+        },
+        "timelines": [
+            {
+                "timeline_stage": "King / Death by Rama's Arrow",
+                "age_approximation": 40,
+                "context_description": "Vali at the peak of his power as the undisputed king of Kishkindha — and his controversial death by Rama's arrow while fighting Sugriva.",
+                "physical_appearance": {
+                    "skin_tone": "Dark tawny-brown fur over richly dark copper skin, darker and more imposing than Sugriva's golden tones, radiating raw divine power from Indra's bloodline",
+                    "height": "Massive — the largest and most physically imposing Vanara, towers over all others including Hanuman in normal form",
+                    "build": "Enormously powerful — the most muscularly developed of all Vanaras, arms thick as tree trunks, chest like a fortress wall, his boon means he absorbs half of any opponent's strength making him nearly invincible in direct combat",
+                    "facial_features": "Fierce dominant simian face with blazing dark-gold eyes (Indra's inheritance), heavy prominent brow ridge, powerful jaw, expression of absolute martial dominance and the casual confidence of invincibility, battle scars across his face adding to his fearsome look",
+                    "hair": "Dark thick mane of brown-black fur around the face and shoulders, wild and untamed, a king who rules by strength",
+                    "distinguishing_marks": "The golden chain/garland given by Indra that glows when he fights — this is his identifying mark, massive scarred fists, his sheer size and the crackling energy around him"
+                },
+                "wardrobe_and_adornments": {
+                    "clothing": "A massive royal battle harness of dark leather and gold plates across his chest, rich dark red and bronze waist garments befitting a warrior-king",
+                    "jewelry": "The legendary golden chain/garland of Indra around his neck (his most distinctive adornment), heavy bronze armlets, a massive crown of dark gold and rubies",
+                    "weapons_carried": "His bare fists are his primary weapons — each punch can shatter mountains, also wields a massive tree trunk as a club in combat against Sugriva"
+                },
+                "audio_and_voice_characteristics": {
+                    "tone": "Commanding, dominant, harsh, the voice of absolute power unchallenged, growling undertone of controlled aggression",
+                    "pitch": "Very deep bass — growling, dominant, the lowest and most powerful voice among the Vanaras, shakes the ground when he shouts",
+                    "speech_style": "Speaks in short dominant commands, rarely explains himself, dismissive of those he considers weak, his final words to Rama questioning the morality of the hidden arrow show surprising philosophical depth",
+                    "emotional_baseline": "Absolute martial dominance, unchallenged power, the tragic blindness of one who believes strength alone defines right"
+                },
+                "cinematic_generation_prompts": {
+                    "visual_prompt": "Imposing cinematic shot of Vanara King Vali, age 40, the most powerful Vanara warrior. Dark tawny-brown fur, massive towering muscular build, blazing dark-gold eyes under heavy brow. Indra's legendary golden chain glowing around his thick neck. Dark leather and gold battle harness, massive crown of dark gold and rubies. Standing atop a rocky cliff with arms crossed, looking down with absolute dominance. Kishkindha kingdom and forests below. Dark dramatic storm clouds behind. 3D Pixar style, imposing dramatic lighting, photorealistic, 8k.",
+                    "audio_prompt": "A very deep, growling male bass voice of absolute dominance. Commanding, harsh, powerful. Shakes the ground. Age approximately 40 years."
+                }
+            }
+        ]
+    }
+}

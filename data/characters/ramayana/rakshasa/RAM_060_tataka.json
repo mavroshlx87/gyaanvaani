@@ -1,0 +1,65 @@
+{
+    "TATAKA": {
+        "metadata": {
+            "character_id": "RAM_060",
+            "name": "Tataka",
+            "aliases": [
+                "Tadaka",
+                "Taraka"
+            ],
+            "epic": "Ramayana",
+            "primary_role": "Powerful Rakshasi / Mother of Maricha / First demon killed by young Rama on Vishwamitra's orders",
+            "gender": "Female",
+            "ethnicity_cultural_context": "Originally a Yaksha woman cursed to become a Rakshasi",
+            "family_relations": {
+                "father": "Suketu (Yaksha)",
+                "mother": null,
+                "spouse": "Sunda",
+                "siblings": [],
+                "children": [
+                    "Maricha",
+                    "Subahu"
+                ],
+                "guru": null
+            },
+            "divine_origin": "Originally born as a beautiful Yaksha (nature spirit) with the strength of a thousand elephants — cursed by sage Agastya to become a monstrous Rakshasi",
+            "tags": [
+                "rakshasi",
+                "monster",
+                "cursed",
+                "mother",
+                "first_kill"
+            ]
+        },
+        "timelines": [
+            {
+                "timeline_stage": "Rakshasi / Confrontation with Rama",
+                "age_approximation": 200,
+                "context_description": "Tataka terrorizes the Dandaka forest, destroying sages' hermitages. Young Rama (under Vishwamitra's guidance) faces and kills her — his first major battle and a defining moment of his warrior identity.",
+                "physical_appearance": {
+                    "skin_tone": "Monstrous dark greyish-blue skin stretched over massive bone and muscle, rough as tree bark, covered in pustules and old scars",
+                    "height": "Enormous — stands over 12 feet tall, towering over the forest trees, a terrifying silhouette",
+                    "build": "Grotesquely powerful — massive shoulders, arms like battering rams, thick body of unnatural size given by curse-amplified Yaksha strength (strength of a thousand elephants), hunched predatory posture",
+                    "facial_features": "Terrifying face — bloodshot yellow eyes with vertical slit pupils, wide gaping mouth with multiple rows of jagged fangs, flattened nose with flaring nostrils, matted hair mixed with dried blood and forest debris, a face that was once beautiful now twisted by the curse into a nightmare",
+                    "hair": "Wild matted dark hair like a tangle of dead vines, mixed with bones and forest debris, standing in wild directions",
+                    "distinguishing_marks": "Her enormous size and the trail of destruction she leaves — uprooted trees, destroyed hermitages, the skeletal remains of victims. Despite her monstrous appearance, there is a trace of her original Yaksha beauty in her bone structure if one looks carefully"
+                },
+                "wardrobe_and_adornments": {
+                    "clothing": "No garments in the traditional sense — rough animal hides and tree-bark wrapped around her massive body, bones of victims used as crude ornaments",
+                    "jewelry": "Necklaces of bones and teeth from victims, crude iron bands on her arms, no refined jewelry — savage ornamentation",
+                    "weapons_carried": "Her massive clawed hands, fangs, brute strength of a thousand elephants, ability to throw boulders and uproot trees, creates magical darkness and dust storms"
+                },
+                "audio_and_voice_characteristics": {
+                    "tone": "Roaring, shrieking, bestial — communication through terrifying sounds rather than articulate speech, though she retains intelligence from her Yaksha origins",
+                    "pitch": "Deep rasping feminine roar — inhuman, between a scream and a growl, the sound alone causes birds to flee and trees to shake",
+                    "speech_style": "Communicates primarily through roars and shrieks, limited speech in a guttural broken dialect, her battle cries are said to drive lesser beings mad with fear",
+                    "emotional_baseline": "Bestial rage, territorial aggression, the buried pain of a beautiful being trapped in a cursed monstrous form"
+                },
+                "cinematic_generation_prompts": {
+                    "visual_prompt": "Terrifying cinematic shot of the Rakshasi Tataka, age immemorial, in the Dandaka forest. Enormous 12-foot figure of dark greyish-blue bark-like skin. Terrifying face with bloodshot yellow slit-pupil eyes, gaping mouth of jagged fangs. Wild matted hair with bones. Massive powerful limbs. Wearing crude animal hides and bone ornaments. Erupting from dark forest shadows toward young Rama who stands with bow drawn. Dark atmospheric forest with eerie mist. 3D Pixar style, horror-dark dramatic lighting, photorealistic, 8k.",
+                    "audio_prompt": "A deep, rasping feminine roar — inhuman, between a scream and a growl. Terrifying bestial sounds that shake trees."
+                }
+            }
+        ]
+    }
+}

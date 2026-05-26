@@ -1,0 +1,72 @@
+{
+    "BALARAMA": {
+        "metadata": {
+            "character_id": "MAH_161",
+            "name": "Balarama",
+            "aliases": [
+                "Balabhadra",
+                "Haladhar",
+                "Sankarshana",
+                "Dauji"
+            ],
+            "epic": "Mahabharata",
+            "primary_role": "Elder brother of Krishna / Avatar of Shesha Naga / Supreme mace fighter / Duryodhana's mace teacher",
+            "gender": "Male",
+            "ethnicity_cultural_context": "Ancient Indian (Yadava Dynasty, Dwaraka, son of Vasudeva and Devaki — transferred to Rohini's womb)",
+            "family_relations": {
+                "father": "Vasudeva",
+                "mother": "Devaki (conceived), Rohini (carried and birthed)",
+                "spouse": "Revati",
+                "siblings": [
+                    "Krishna",
+                    "Subhadra"
+                ],
+                "children": [
+                    "Nishatha",
+                    "Ulmuka"
+                ],
+                "guru": null
+            },
+            "divine_origin": "Avatar of Adi Shesha (the cosmic serpent on whom Vishnu rests) — the same divine entity as Lakshmana in the Ramayana",
+            "tags": [
+                "avatar",
+                "warrior",
+                "mace_fighter",
+                "farmer",
+                "elder_brother",
+                "plowman",
+                "divine"
+            ]
+        },
+        "timelines": [
+            {
+                "timeline_stage": "Elder Brother / The Reluctant Witness",
+                "age_approximation": 52,
+                "context_description": "Balarama at Kurukshetra — he refuses to fight for either side (having taught both Bhima and Duryodhana), goes on a pilgrimage instead, and returns only to witness the final mace duel between his students.",
+                "physical_appearance": {
+                    "skin_tone": "Fair white complexion (Gaur — distinctly different from Krishna's dark blue-black), radiant and powerful, often described as wearing blue/dark garments to contrast with his white skin, the visual opposite of Krishna",
+                    "height": "Tall and massively built — one of the most physically powerful beings in the Mahabharata, broader and larger than Krishna",
+                    "build": "Enormously powerful — a plowman and wrestler's build, massive shoulders from wielding his plow-weapon, thick legs, barrel chest, the most physically imposing of the Yadavas, his strength is in raw power rather than martial technique",
+                    "facial_features": "Strong handsome face with bold features, broad nose, thick well-groomed dark beard, slightly reddened eyes from his fondness for wine (Varuni), expression alternates between jovial good humor and terrifying anger, when angry his eyes turn fully red and serpentine",
+                    "hair": "Dark hair under a distinctive blue headdress/crown, neatly maintained, sometimes with a lotus",
+                    "distinguishing_marks": "His plow (Hala) weapon is his unique identifying mark — no other warrior uses a plow as a weapon, he also carries a massive mace (Sunanda), his white complexion contrasts dramatically with Krishna's dark skin, his fondness for palm wine is well-known, his anger is terrifying — when angered he once dragged the entire Hastinapur city toward the Ganga with his plow"
+                },
+                "wardrobe_and_adornments": {
+                    "clothing": "Dark blue royal garments (Nilambara — blue-robed) contrasting with his fair skin, Yadava royal style, sometimes farmer's practical garments when plowing, comfortable and bold",
+                    "jewelry": "A golden crown with serpent motif (Shesha identity), heavy gold armlets, earrings, serpent-shaped ornaments honoring his divine origin, a garland of wild forest flowers",
+                    "weapons_carried": "His legendary plow (Hala — Halayudha, 'the plow-wielder'), the massive mace Sunanda, his physical strength — he can literally move cities and divert rivers with his plow"
+                },
+                "audio_and_voice_characteristics": {
+                    "tone": "Boisterous, jovial, temperamental — the loud cheerful elder brother who can shift to terrifying anger in an instant, loves wine, loves wrestling, loves farming",
+                    "pitch": "Booming loud baritone — jovial and laughing when happy (which is often), rumbling like earthquakes when angry, the loudest and most physically resonant voice among the Yadavas",
+                    "speech_style": "Speaks loudly and jovially, loves telling wrestling stories, gets passionate about farming and plowing metaphors, his anger is explosive and immediate (unlike Krishna's calculated calm), his refusal to fight at Kurukshetra is expressed with gruff frustration",
+                    "emotional_baseline": "Boisterous good humor, fierce protective temper, the frustration of an elder brother overshadowed by a younger divine sibling, genuine love for both Bhima and Duryodhana (his students), moral conflict at Kurukshetra"
+                },
+                "cinematic_generation_prompts": {
+                    "visual_prompt": "Vibrant cinematic portrait of Balarama, age 52. Distinctly fair white complexion, strong handsome face with thick dark beard, slightly reddened jovial eyes. Massively powerful build. Wearing dark blue Yadava royal garments contrasting with fair skin, golden serpent-motif crown. Carrying his legendary plow (Hala) over one massive shoulder and mace (Sunanda) at his hip. Standing in a vineyard or pastoral Yadava landscape with Krishna visible in the background. 3D Pixar style, vibrant warm lighting, photorealistic, 8k.",
+                    "audio_prompt": "A booming, jovial male baritone. Loud and laughing when happy, rumbling earthquakes when angry. The most physically resonant Yadava voice. Age approximately 52 years."
+                }
+            }
+        ]
+    }
+}

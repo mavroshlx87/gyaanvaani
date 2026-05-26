@@ -1,0 +1,65 @@
+{
+    "SAMPATI": {
+        "metadata": {
+            "character_id": "RAM_035",
+            "name": "Sampati",
+            "aliases": [
+                "Sampathi",
+                "Jatayu's brother"
+            ],
+            "epic": "Ramayana",
+            "primary_role": "Elder brother of Jatayu / Giant eagle king whose wings were burnt by the sun / Guides the search for Sita",
+            "gender": "Male",
+            "ethnicity_cultural_context": "Divine eagle (Garuda's lineage), son of Aruna (charioteer of the Sun God)",
+            "family_relations": {
+                "father": "Aruna",
+                "mother": "Shyeni",
+                "spouse": null,
+                "siblings": [
+                    "Jatayu"
+                ],
+                "children": [],
+                "guru": null
+            },
+            "divine_origin": "Descended from Garuda through Aruna — divine eagle lineage, wings burnt when shielding Jatayu from the sun in their youth",
+            "tags": [
+                "eagle",
+                "king",
+                "guide",
+                "wingless",
+                "informant",
+                "sacrificer"
+            ]
+        },
+        "timelines": [
+            {
+                "timeline_stage": "Wingless Eagle / Guiding the Search",
+                "age_approximation": 60,
+                "context_description": "The aged wingless eagle king who tells the Vanara search party the exact location of Sita in Lanka — he can see across the ocean with his supernatural vision despite having lost his wings long ago.",
+                "physical_appearance": {
+                    "skin_tone": "Faded tawny-golden plumage now mostly grey and white, patches of bare scarred skin where wings once grew, aged and weather-beaten feathers",
+                    "height": "Large eagle — even without wings, his body is massive, standing as tall as a man, broad and powerful in the torso",
+                    "build": "Thick-bodied eagle build — still powerfully muscled chest and legs (eagle's talons), but where magnificent wings once spanned, there are now scarred stumps covered in tattered feather remnants, a devastating physical diminishment",
+                    "facial_features": "Noble raptor face — large fierce golden eagle eyes that can see across oceans (supernatural vision), sharply curved powerful beak (faded from golden to pale horn), proud bearing despite disability, expression of aged dignity and the painful wisdom of sacrifice",
+                    "hair": "Sparse grey-white head feathers, a ragged crown of what was once a magnificent crest, now thin and weathered",
+                    "distinguishing_marks": "The wing-stumps — scarred, featherless, painful reminders of his sacrifice when he flew too close to the sun to protect young Jatayu. Despite losing his wings, his eyes retained divine far-sight — he can see Lanka from the Indian coast"
+                },
+                "wardrobe_and_adornments": {
+                    "clothing": "A rough cloth draped over his body for warmth, covering his wing-stumps, faded and patched",
+                    "jewelry": "An ancient bronze circlet — eagle king's crown from his flying days, dull with age",
+                    "weapons_carried": "His powerful talons and beak are still formidable, but his true weapon now is his far-sight — the ability to see across continents"
+                },
+                "audio_and_voice_characteristics": {
+                    "tone": "Gruff, pained, elderly, but with flashes of his former soaring pride, deeply emotional when hearing about Jatayu's sacrifice",
+                    "pitch": "Gravelly rasping elderly tenor — a voice damaged by age and the fire that took his wings, hoarse but carrying the authority of a king",
+                    "speech_style": "Speaks with bitter elderly wisdom, initially suspicious of the Vanaras, breaks down weeping when told of Jatayu's death ('My brother died a hero's death...'), provides crucial intelligence with sharp military precision despite his grief",
+                    "emotional_baseline": "Bitter acceptance of disability, fierce pride in his brother Jatayu's sacrifice, the complex emotions of one who survived while his brother died heroically"
+                },
+                "cinematic_generation_prompts": {
+                    "visual_prompt": "Emotional cinematic portrait of wingless eagle Sampati, age 60. Faded grey-white plumage, massive eagle body with scarred wingless stumps visible. Fierce golden eyes that can see across oceans. Sitting on a coastal cliff, ancient bronze circlet on his head. Looking toward the distant horizon where Lanka lies. Ocean crashing below, sunset light. Worn and aged but dignified. 3D Pixar style, melancholic golden-hour lighting, photorealistic, 8k.",
+                    "audio_prompt": "A gravelly, rasping elderly male tenor voice. Hoarse but authoritative. Flashes of soaring pride amid aged bitterness. Age approximately 60 years."
+                }
+            }
+        ]
+    }
+}

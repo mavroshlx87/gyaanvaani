@@ -1,0 +1,68 @@
+{
+    "VIBHISHANA": {
+        "metadata": {
+            "character_id": "RAM_013",
+            "name": "Vibhishana",
+            "aliases": [
+                "Vibhishan",
+                "Vibheeshana",
+                "Dharma-Rakshasa"
+            ],
+            "epic": "Ramayana",
+            "primary_role": "Righteous Rakshasa / Brother of Ravana / Later crowned King of Lanka by Rama",
+            "gender": "Male",
+            "ethnicity_cultural_context": "Rakshasa (demon race) — but deeply devoted to Dharma and Vishnu",
+            "family_relations": {
+                "father": "Vishrava",
+                "mother": "Kaikesi",
+                "spouse": "Sarama",
+                "siblings": [
+                    "Ravana",
+                    "Kumbhakarna",
+                    "Surpanakha"
+                ],
+                "children": [],
+                "guru": "Brahma (devotee)"
+            },
+            "divine_origin": "A Rakshasa by birth but a Dharma devotee by nature — chose righteousness over clan loyalty",
+            "tags": [
+                "rakshasa",
+                "devotee",
+                "righteous",
+                "king",
+                "ally",
+                "moral"
+            ]
+        },
+        "timelines": [
+            {
+                "timeline_stage": "Defector / Joining Rama",
+                "age_approximation": 30,
+                "context_description": "Vibhishana abandons Ravana's Lanka to join Rama's side, choosing Dharma over family loyalty, and is eventually crowned King of Lanka after the war.",
+                "physical_appearance": {
+                    "skin_tone": "Lighter complexion than typical Rakshasas — a pale golden-bronze, reflecting his sattvic (pure) nature among a tamasic (dark) race, gentle luminous quality to his skin",
+                    "height": "Tall and lean, dignified bearing, moves with gentle measured grace rather than Rakshasa ferocity",
+                    "build": "Lean and scholarly build — not a heavy warrior like Ravana or Kumbhakarna, more the build of a priest-sage, narrow shoulders, long elegant fingers",
+                    "facial_features": "Kind refined face unusual for a Rakshasa — large thoughtful gentle eyes, soft features, no fangs or fearsome expressions, a scholarly introspective look, slight sad smile of a man who has chosen a painful righteous path, face shows the strain of the decision to betray his own brother",
+                    "hair": "Neatly groomed black hair in a dignified style, simple and practical, no elaborate Rakshasa styling",
+                    "distinguishing_marks": "No typical Rakshasa marks — no fangs, claws, or fearsome features. A subtle golden aura of Vishnu's devotee, Tulsi beads around his neck, often carries sacred texts"
+                },
+                "wardrobe_and_adornments": {
+                    "clothing": "Simple white dhoti and uttariya — deliberately opposite to Ravana's black and gold, clean and priestly garments, a saffron shawl of a Vishnu devotee",
+                    "jewelry": "Minimal jewelry — a simple gold chain, Tulsi-bead necklace (mark of a Vishnu devotee), wooden prayer beads, no ostentatious Rakshasa gold",
+                    "weapons_carried": "None typically — carries sacred texts and prayer beads. After becoming king: a ceremonial mace and sword"
+                },
+                "audio_and_voice_characteristics": {
+                    "tone": "Gentle, thoughtful, measured, the calm voice of conscience — speaks truth even when it means exile from his own family",
+                    "pitch": "Gentle tenor — soft-spoken but clear, steady and measured, the voice of moral certainty in a world of chaos",
+                    "speech_style": "Speaks with scholarly precision and dharmic authority, quotes scripture, addresses Ravana with sorrowful respect when urging him to return Sita, speaks to Rama with devotional reverence, his words carry the weight of someone who sacrificed everything for truth",
+                    "emotional_baseline": "Serene moral conviction, gentle sorrow at his brother's choices, deep devotion to righteousness, the peace of a clear conscience"
+                },
+                "cinematic_generation_prompts": {
+                    "visual_prompt": "Cinematic portrait of Vibhishana, age 30, righteous Rakshasa devotee of Rama. Pale golden-bronze complexion with gentle luminous quality. Kind refined face with thoughtful gentle eyes and sad wise smile. Lean scholarly build. Wearing simple white dhoti and saffron devotee's shawl, Tulsi-bead necklace, holding sacred texts. Standing at the shoreline between Lanka (burning in background) and Rama's camp. Golden dawn light. 3D Pixar style, serene spiritual lighting, photorealistic, 8k.",
+                    "audio_prompt": "A gentle, clear male tenor voice. Soft-spoken but morally certain. Scholarly precision with devotional warmth. Age approximately 30 years."
+                }
+            }
+        ]
+    }
+}

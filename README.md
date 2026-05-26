@@ -68,6 +68,21 @@ Status changes = file moves between folders. No database needed.
 
 ---
 
+## Character Database & Lookup Engine (Plan A)
+
+To ensure visual and voice consistency for characters across all generated scenes and videos:
+- **Consistent Profiles**: We maintain structured character profile JSONs under `data/characters/`. Each profile details gender, ethnicity, timeline-based appearance/wardrobe/voice traits, and pre-formatted cinematic prompts (e.g., Pixar style).
+- **Curated Database**: Pre-seeded with **73 core characters** (43 Ramayana + 30 Mahabharata) containing 91 timeline variants (e.g. child, exile, war) and 298 searchable aliases.
+- **Dynamic Auto-Generation**: If a story mentions a character not yet in the database, the pipeline (`stage2/generators/scripter.py` via `shared/character_generator.py`) calls Ollama to auto-generate a profile JSON, saves it to `data/characters/auto_generated/`, and hot-registers it immediately.
+- **Deduplication & Generic Filtering**: O(1) lookup checks prevent duplicate generation. Standard nouns (like *narrator, villagers, soldiers*) are automatically skipped.
+
+Validate character data and lookups:
+```bash
+python3 data/characters/validate_characters.py
+```
+
+---
+
 ## Tech Stack
 
 | Component | Tool | Cost |
@@ -75,6 +90,7 @@ Status changes = file moves between folders. No database needed.
 | LLM | Ollama + Qwen3:8b | $0 |
 | RAG Fact-Check | ChromaDB + source texts | $0 |
 | Web Search | DuckDuckGo (Python) | $0 |
+| Character Store | Curated profiles + LLM Auto-generator | $0 |
 | Image Gen | Google Colab free + FLUX.1-dev | $0 |
 | TTS | Kokoro TTS (82M, CPU) | $0 |
 | Subtitles | Faster-Whisper (CPU) | $0 |

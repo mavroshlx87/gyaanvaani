@@ -1,0 +1,65 @@
+{
+    "VASISHTHA": {
+        "metadata": {
+            "character_id": "RAM_016",
+            "name": "Vasishtha",
+            "aliases": [
+                "Vashishtha",
+                "Brahmarishi Vasishtha"
+            ],
+            "epic": "Ramayana",
+            "primary_role": "Royal Guru of Ayodhya / One of the Saptarishis (Seven Great Sages)",
+            "gender": "Male",
+            "ethnicity_cultural_context": "Ancient Indian (Saptarishi, mind-born son of Brahma)",
+            "family_relations": {
+                "father": "Brahma",
+                "mother": null,
+                "spouse": "Arundhati",
+                "siblings": [],
+                "children": [
+                    "Shakti Muni"
+                ],
+                "guru": null
+            },
+            "divine_origin": "Mind-born son of Brahma, one of the seven primordial sages, owner of the divine cow Kamadhenu",
+            "tags": [
+                "sage",
+                "guru",
+                "divine",
+                "wise",
+                "priest",
+                "saptarishi"
+            ]
+        },
+        "timelines": [
+            {
+                "timeline_stage": "Sage / Royal Guru",
+                "age_approximation": 80,
+                "context_description": "The chief priest and royal guru of the Ikshvaku dynasty, guiding kings for generations.",
+                "physical_appearance": {
+                    "skin_tone": "Radiant aged fair complexion with a golden-white glow of spiritual fire (tapas), luminous and otherworldly",
+                    "height": "Medium height, walks with measured dignified steps, straight-backed despite apparent age",
+                    "build": "Lean ascetic build, thin from decades of fasting and meditation, but radiating enormous spiritual power",
+                    "facial_features": "Serene ancient face with deep-set all-knowing eyes, long flowing white beard reaching his chest, high lined forehead, gentle wise smile, eyebrows like wisps of white cloud, a face of absolute peace and cosmic knowledge",
+                    "hair": "Long white matted locks (Jata) piled high on his head in a sage's topknot, sacred grass threaded through",
+                    "distinguishing_marks": "Carries a radiant Kamandalu (water pot) and a divine staff, his presence calms all around him, the divine cow Kamadhenu sometimes appears behind him"
+                },
+                "wardrobe_and_adornments": {
+                    "clothing": "Simple white bark-cloth (Valkala) or cotton robes, a deerskin across one shoulder, sacred ash markings on forehead and arms",
+                    "jewelry": "Only rudraksha mala (prayer beads), sacred thread (Yajnopavita), a small Kamandalu (water vessel) — no gold or gems",
+                    "weapons_carried": "His divine staff (Brahma-danda) and the power of his spiritual austerities — his curses and blessings reshape reality"
+                },
+                "audio_and_voice_characteristics": {
+                    "tone": "Serene, authoritative, gentle but absolute — the voice of dharmic law, speaks and reality listens",
+                    "pitch": "Deep, resonant elderly bass-baritone — unhurried, measured, echoing with spiritual power, like distant sacred bells",
+                    "speech_style": "Speaks in elaborate Sanskrit verses, quotes Vedas naturally, his words carry the force of divine law, addresses kings as a gentle but firm teacher, his displeasure is expressed through silence rather than anger",
+                    "emotional_baseline": "Absolute cosmic serenity, gentle authority of primordial wisdom, peaceful detachment with engaged compassion"
+                },
+                "cinematic_generation_prompts": {
+                    "visual_prompt": "Cinematic portrait of Sage Vasishtha, royal guru of Ayodhya, age appears 80 but timeless. Radiant golden-white glowing complexion. Serene ancient face with deep all-knowing eyes, long flowing white beard, white matted hair in a sage's topknot. Lean ascetic build in simple white robes and deerskin. Holding a radiant Kamandalu and divine staff. Sacred fire burning nearby. Palace temple setting with carved pillars. Divine cow Kamadhenu visible in the background. 3D Pixar style, ethereal golden-white lighting, photorealistic, 8k.",
+                    "audio_prompt": "A deep, resonant elderly bass-baritone voice of cosmic authority. Unhurried, measured, echoing with spiritual power. Like distant sacred bells. Timeless."
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "_description": "Master schema for Mythological Character Description Database. Each character file follows this structure.",
+    "_version": "1.0.0",
+    "_total_characters_target": 313,
+    "_usage": "AI video/audio generation — visual prompts, voice casting, avatar creation",
+    "schema": {
+        "CHARACTER_KEY": {
+            "_note": "Uppercase snake_case key, e.g. SRI_RAMA, ARJUNA",
+            "metadata": {
+                "character_id": "string — Unique ID: RAM_001 (Ramayana) or MAH_001 (Mahabharata)",
+                "name": "string — Primary display name",
+                "aliases": ["array — Alternative names, epithets, titles"],
+                "epic": "string — 'Ramayana' | 'Mahabharata' | 'Both'",
+                "primary_role": "string — Brief role description",
+                "gender": "string — 'Male' | 'Female' | 'Non-binary/Divine'",
+                "ethnicity_cultural_context": "string — Dynasty, kingdom, cultural background",
+                "family_relations": {
+                    "father": "string | null",
+                    "mother": "string | null",
+                    "spouse": "string | array | null",
+                    "siblings": ["array | null"],
+                    "children": ["array | null"],
+                    "guru": "string | null"
+                },
+                "divine_origin": "string | null — Divine parentage or avatar status",
+                "tags": ["array — Searchable category tags: warrior, sage, demon, animal, divine, queen, etc."]
+            },
+            "timelines": [
+                {
+                    "timeline_stage": "string — e.g. 'Youth / Prince of Ayodhya'",
+                    "age_approximation": "integer — Approximate age in years",
+                    "context_description": "string — What is happening in this timeline",
+                    "physical_appearance": {
+                        "skin_tone": "string — Include Sanskrit/Hindi term + English description",
+                        "height": "string",
+                        "build": "string",
+                        "facial_features": "string — Detailed face description",
+                        "hair": "string",
+                        "distinguishing_marks": "string — Scars, auras, unique features"
+                    },
+                    "wardrobe_and_adornments": {
+                        "clothing": "string — Detailed outfit description with colors and materials",
+                        "jewelry": "string — Crown, armlets, necklaces with material details",
+                        "weapons_carried": "string — Specific weapons with names if divine"
+                    },
+                    "audio_and_voice_characteristics": {
+                        "tone": "string — Emotional quality of voice",
+                        "pitch": "string — Bass/baritone/tenor/alto/soprano with modifiers",
+                        "speech_style": "string — How they speak, cadence, vocabulary",
+                        "emotional_baseline": "string — Default emotional state"
+                    },
+                    "cinematic_generation_prompts": {
+                        "visual_prompt": "string — Ready-to-use prompt for image/video AI models (Flux, DALL-E, Midjourney). Include: style, age, skin, clothing, weapons, setting, quality tags.",
+                        "audio_prompt": "string — Ready-to-use prompt for TTS/voice AI models. Include: gender, age, tone, pitch, emotion, speaking style."
+                    }
+                }
+            ]
+        }
+    }
+}

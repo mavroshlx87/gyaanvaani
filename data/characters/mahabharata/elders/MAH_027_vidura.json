@@ -1,0 +1,68 @@
+{
+    "VIDURA": {
+        "metadata": {
+            "character_id": "MAH_027",
+            "name": "Vidura",
+            "aliases": [
+                "Kshattri",
+                "Vidura Mahatma",
+                "Dharma-putra"
+            ],
+            "epic": "Mahabharata",
+            "primary_role": "Half-brother of Dhritarashtra and Pandu / Prime Minister of Hastinapur / The voice of wisdom ignored",
+            "gender": "Male",
+            "ethnicity_cultural_context": "Ancient Indian (Kuru Dynasty, Hastinapur, son of Vyasa and a Shudra woman — hence denied the throne despite being wisest)",
+            "family_relations": {
+                "father": "Vyasa",
+                "mother": "Parishrami (Shudra handmaid)",
+                "spouse": null,
+                "siblings": [
+                    "Dhritarashtra (half)",
+                    "Pandu (half)"
+                ],
+                "children": [],
+                "guru": "Atri"
+            },
+            "divine_origin": "Considered an incarnation of Dharma (Yama/God of Death) — born into a lower caste body due to a sage's curse",
+            "tags": [
+                "minister",
+                "advisor",
+                "wise",
+                "dharmic",
+                "half_brother",
+                "ignored_prophet",
+                "incarnation"
+            ]
+        },
+        "timelines": [
+            {
+                "timeline_stage": "Minister / The Ignored Prophet",
+                "age_approximation": 55,
+                "context_description": "Vidura — the wisest man in Hastinapur, the only one who consistently warns against every wrong decision, but is ignored because of his lower birth status. His Vidura Niti (political wisdom) is legendary.",
+                "physical_appearance": {
+                    "skin_tone": "Medium-dark complexion — darker than his half-brothers Dhritarashtra and Pandu, reflecting his mother's non-royal birth, but radiating unmistakable intelligence and moral clarity",
+                    "height": "Medium height, lean, carries himself with quiet dignity — never tries to physically dominate a room, lets his wisdom do it",
+                    "build": "Lean and austere — a minister's body, maintained by discipline rather than martial training, spare and precise in every movement",
+                    "facial_features": "Deeply intelligent face — large clear observant eyes that see through every deception, a prominent thoughtful forehead, thin precise lips, neat short grey beard, expression of permanent gentle concern mixed with the frustration of Cassandra — always right, never heeded, the face of the most honest man in a court of liars",
+                    "hair": "Neat short grey hair, simply and practically maintained — no vanity, no pretension",
+                    "distinguishing_marks": "His defining trait is being right and being ignored — he warns against the dice game, warns against Draupadi's humiliation, warns against the war, and is overruled every single time. He stands slightly apart from the court, the outsider-insider. His night visit to warn the Pandavas about the Lakshagriha (house of lac) plot saves their lives."
+                },
+                "wardrobe_and_adornments": {
+                    "clothing": "Simple but dignified minister's robes — clean white cotton with minimal decoration, the understated dress of a man who wants to be heard for his words not his appearance",
+                    "jewelry": "A minister's seal-ring, sacred thread, a simple chain of office — no ostentation, the bare minimum of official insignia",
+                    "weapons_carried": "His wisdom — Vidura Niti is the most practical political and ethical manual in the epic, his words are his only weapons, also his courage to speak truth to power regardless of consequences"
+                },
+                "audio_and_voice_characteristics": {
+                    "tone": "Calm, clear, measured, the most rational voice in a court of passions — speaks uncomfortable truths with gentle but unflinching clarity, the voice of the conscience everyone ignores",
+                    "pitch": "Clear measured mid-baritone — precise and unhurried, the voice of reason in a world of emotional chaos, never raises, never wavers, but carries absolute conviction",
+                    "speech_style": "Speaks with gentle but unflinching clarity, frames uncomfortable truths in diplomatic language that still cuts to the bone, uses parables and analogies from statecraft, his warnings are specific and prescient — 'This dice game will destroy the dynasty' — and is proven right every time",
+                    "emotional_baseline": "Calm frustration of the perpetually unheeded wise man, deep compassion for the Pandavas, the pain of watching disaster unfold in slow motion while his warnings are ignored"
+                },
+                "cinematic_generation_prompts": {
+                    "visual_prompt": "Poignant cinematic portrait of Vidura, age 55, the ignored wise minister. Medium-dark complexion, deeply intelligent face, large observant eyes seeing through deception, neat grey beard. Lean dignified build in simple white minister's robes. Standing at the edge of the Kuru court, slightly apart, mouth open in warning, one hand raised. The court — Dhritarashtra, Duryodhana, Shakuni — visible but turned away, not listening. Dramatic side-lighting emphasizing his isolation. 3D Pixar style, poignant dramatic lighting, photorealistic, 8k.",
+                    "audio_prompt": "A clear, measured male mid-baritone. The voice of reason, precise and unwavering. Carries absolute conviction that is tragically ignored. Age approximately 55 years."
+                }
+            }
+        ]
+    }
+}

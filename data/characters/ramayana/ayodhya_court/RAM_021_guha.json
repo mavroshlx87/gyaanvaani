@@ -1,0 +1,64 @@
+{
+    "GUHA": {
+        "metadata": {
+            "character_id": "RAM_021",
+            "name": "Guha",
+            "aliases": [
+                "Nishad-raj",
+                "Nishada-raja",
+                "Sringiverapura-pati"
+            ],
+            "epic": "Ramayana",
+            "primary_role": "King of the Nishadas (tribal/forest people) / Rama's devoted friend who ferried him across the Ganga",
+            "gender": "Male",
+            "ethnicity_cultural_context": "Ancient Indian (Nishada tribal community, Sringiverapura on the banks of Ganga)",
+            "family_relations": {
+                "father": null,
+                "mother": null,
+                "spouse": null,
+                "siblings": [],
+                "children": [],
+                "guru": null
+            },
+            "divine_origin": null,
+            "tags": [
+                "king",
+                "tribal",
+                "friend",
+                "boatman",
+                "devoted",
+                "humble"
+            ]
+        },
+        "timelines": [
+            {
+                "timeline_stage": "Tribal King / Friend of Rama",
+                "age_approximation": 35,
+                "context_description": "Guha, the Nishada king, is one of Rama's most devoted friends. He ferries Rama, Sita, and Lakshmana across the Ganga at the start of exile and later hosts Bharata when he comes seeking Rama.",
+                "physical_appearance": {
+                    "skin_tone": "Dark earthy-brown complexion, deeply sun-darkened from a life on the river, weather-beaten and strong",
+                    "height": "Medium height, compact and powerfully built from years of rowing and river-work",
+                    "build": "Stocky muscular build of a river-man, thick forearms, broad calloused hands, barrel chest, compact and low center of gravity — built for water and forests",
+                    "facial_features": "Honest open face with bright intelligent dark eyes, broad flat nose, wide genuine smile showing white teeth against dark skin, expression of earthy warmth and uncomplicated devotion, few lines — outdoor living keeps him young-looking",
+                    "hair": "Thick coarse black hair tied back with a leather thong, sometimes decorated with feathers or forest beads",
+                    "distinguishing_marks": "Calloused boatman's hands, feet hardened from walking forest paths barefoot, several tribal tattoos on his arms marking his clan leadership"
+                },
+                "wardrobe_and_adornments": {
+                    "clothing": "Simple tribal garments — a short dhoti of rough cotton, bare-chested or with a short vest of animal leather, practical for boat-work",
+                    "jewelry": "Tribal jewelry — wooden bead necklaces, bone and seed bracelets, a simple copper circlet marking his status as Nishada king, feathers in his hair",
+                    "weapons_carried": "A short bow and quiver (hunting weapons), a long river-pole/oar, a curved forest knife at his belt"
+                },
+                "audio_and_voice_characteristics": {
+                    "tone": "Warm, direct, honest, speaks with the simplicity and sincerity of a man without courtly pretensions — his devotion to Rama is simple and absolute",
+                    "pitch": "Warm mid-tenor — rough and earthy, with the outdoor carrying quality of someone used to calling across rivers",
+                    "speech_style": "Speaks simply and directly without courtly formality, his love for Rama expressed in practical acts rather than flowery words, addresses Rama as a friend and brother rather than a king, uses folk proverbs",
+                    "emotional_baseline": "Simple uncomplicated devotion, honest warmth, humble pride in serving Rama, the joy of true friendship without hierarchy"
+                },
+                "cinematic_generation_prompts": {
+                    "visual_prompt": "Warm cinematic shot of Nishada King Guha, age 35, on the banks of the Ganga at dawn. Dark earthy-brown sun-darkened skin, honest open face with bright eyes and wide warm smile. Stocky muscular river-man's build, bare-chested with tribal tattoos. Wearing a simple short dhoti, wooden bead necklaces, copper circlet. Standing beside a large wooden boat, holding a long oar. The sacred Ganga river glowing gold in sunrise light, forest on the far bank. 3D Pixar style, warm golden dawn lighting, photorealistic, 8k.",
+                    "audio_prompt": "A warm, earthy male mid-tenor voice. Rough and honest, carries across rivers. Simple, direct speech of sincere devotion. Age approximately 35 years."
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "LAVA": {
+        "metadata": {
+            "character_id": "RAM_115",
+            "name": "Lava",
+            "aliases": [
+                "Lav"
+            ],
+            "epic": "Ramayana",
+            "primary_role": "Elder twin son of Rama and Sita / Raised by Valmiki / Warrior prince who fights Rama's army without knowing his father",
+            "gender": "Male",
+            "ethnicity_cultural_context": "Ancient Indian (son of Rama and Sita, raised in Valmiki's ashram)",
+            "family_relations": {
+                "father": "Sri Rama",
+                "mother": "Sita",
+                "spouse": null,
+                "siblings": [
+                    "Kusha (twin)"
+                ],
+                "children": [],
+                "guru": "Valmiki"
+            },
+            "divine_origin": "Son of the avatar of Vishnu and avatar of Lakshmi — inherits divine powers from both parents",
+            "tags": [
+                "prince",
+                "twin",
+                "warrior",
+                "son",
+                "ashram_raised",
+                "divine_heir"
+            ]
+        },
+        "timelines": [
+            {
+                "timeline_stage": "Young Warrior / Confronting Rama's Army",
+                "age_approximation": 12,
+                "context_description": "Lava and Kusha learn the Ramayana from Valmiki and sing it at Rama's court without knowing he is their father. They also stop Rama's Ashwamedha horse and fight the royal army to a standstill.",
+                "physical_appearance": {
+                    "skin_tone": "Shyamal complexion inherited from Rama — deep blue-black skin like a young rain cloud, radiant and divine, identical to a young Rama",
+                    "height": "Tall for his age, athletic, the bearing of a born prince even though raised in an ashram",
+                    "build": "Young but remarkably strong and skilled — lean athletic build of a boy trained in warfare by Valmiki, carries himself with an unconscious royal grace",
+                    "facial_features": "A young mirror of Rama's face — large lotus eyes, noble features, but with Sita's warmth and gentleness mixed in, curious and bright expression, fierce determination when fighting, slight mischievous smile, resemblance to Rama is unmistakable",
+                    "hair": "Thick black hair in a simple ashram boy's topknot, wild and boyish, adorned with forest flowers",
+                    "distinguishing_marks": "The uncanny resemblance to Rama — everyone who sees him is struck by it, when he sings the Ramayana his voice carries divine resonance, his archery skill mirrors young Rama's"
+                },
+                "wardrobe_and_adornments": {
+                    "clothing": "Simple ashram boy's clothing — a short bark-cloth or cotton dhoti, bare-chested, grass sandals, the garb of a sage's student (Brahmachari)",
+                    "jewelry": "Simple sacred thread, a few wildflower garlands, perhaps a small amulet from Sita — ashram simplicity",
+                    "weapons_carried": "A boy-sized but expertly crafted bow and arrows (made by Valmiki), a small practice sword — surprisingly effective weapons in his divinely-talented hands"
+                },
+                "audio_and_voice_characteristics": {
+                    "tone": "Bright, curious, boldly confident, the voice of a boy who doesn't know he's a prince but acts like one naturally, fierce and challenging when defending the Ashwamedha horse",
+                    "pitch": "Clear bright boy-soprano — musical and carrying (he sings the Ramayana beautifully), surprisingly commanding in battle for one so young",
+                    "speech_style": "Speaks with the bright confidence of childhood, asks endless questions of Valmiki, sings the Ramayana in perfect verse, challenges warriors with fearless bravado ('I will not let this horse pass!'), calls Sita 'Mother' with tender devotion",
+                    "emotional_baseline": "Bright curious energy, fearless boyish courage, unconscious princeliness, the natural authority of divine heritage, devoted love for his mother Sita and twin brother Kusha"
+                },
+                "cinematic_generation_prompts": {
+                    "visual_prompt": "Dynamic cinematic shot of young Lava, age 12, twin son of Rama. Deep blue-black skin like a young rain cloud (identical to young Rama). Bright lotus eyes, boyish handsome face with a mischievous smile. Athletic young build in simple ashram clothing. Drawing a boy-sized bow with expert skill, wild black hair with forest flowers. Forest ashram setting or confronting soldiers at the Ashwamedha horse. 3D Pixar style, bright adventurous lighting, photorealistic, 8k.",
+                    "audio_prompt": "A clear, bright boy-soprano voice. Musical and carrying, surprisingly commanding. Fearless and curious. Age approximately 12 years."
+                }
+            }
+        ]
+    }
+}

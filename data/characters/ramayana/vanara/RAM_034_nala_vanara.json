@@ -1,0 +1,64 @@
+{
+    "NALA_VANARA": {
+        "metadata": {
+            "character_id": "RAM_034",
+            "name": "Nala",
+            "aliases": [
+                "Nala the Builder",
+                "Setu-nirmata"
+            ],
+            "epic": "Ramayana",
+            "primary_role": "Vanara engineer / Builder of Rama Setu (the bridge to Lanka) / Son of Vishwakarma (divine architect)",
+            "gender": "Male",
+            "ethnicity_cultural_context": "Vanara (divine monkey race), blessed with divine engineering ability",
+            "family_relations": {
+                "father": "Vishwakarma (divine architect)",
+                "mother": null,
+                "spouse": null,
+                "siblings": [
+                    "Nila"
+                ],
+                "children": [],
+                "guru": null
+            },
+            "divine_origin": "Son of Vishwakarma (the divine architect of the gods) — inherits the supernatural ability to make any stone float on water",
+            "tags": [
+                "vanara",
+                "engineer",
+                "builder",
+                "divine_born",
+                "bridge_builder"
+            ]
+        },
+        "timelines": [
+            {
+                "timeline_stage": "Engineer / Building the Bridge",
+                "age_approximation": 30,
+                "context_description": "Nala designs and directs the construction of Rama Setu — the legendary bridge from Rameswaram to Lanka, built by writing Rama's name on stones to make them float.",
+                "physical_appearance": {
+                    "skin_tone": "Earthy reddish-brown fur, thick and bristly, hands and fur often stained with stone-dust and earth, a craftsman's appearance",
+                    "height": "Medium-height, stocky, built low to the ground — an engineer's body optimized for lifting and constructing",
+                    "build": "Exceptionally strong compact build — massive forearms from stone-lifting, thick legs for stability, wide shoulders, the physique of a master builder who works alongside his laborers",
+                    "facial_features": "Practical intelligent simian face with bright observant eyes always measuring and calculating, broad flat nose, dust often in his fur, an expression of focused concentration mixed with creative excitement, squints from close stone-work",
+                    "hair": "Short bristly reddish-brown fur, practical and unkempt — function over form, often covered in stone-dust",
+                    "distinguishing_marks": "His hands are his distinguishing mark — large, incredibly strong, and supernaturally precise, when he inscribes Rama's name on a stone it floats on water, always surrounded by construction tools and floating stones"
+                },
+                "wardrobe_and_adornments": {
+                    "clothing": "Simple work garments — a rough loincloth and tool-belt, bare-chested for heavy labor, leather hand-wraps for stone-cutting",
+                    "jewelry": "A craftsman's tool-belt with stone-cutting implements, no fancy jewelry — a leather cord necklace with Vishwakarma's symbol",
+                    "weapons_carried": "Construction tools as weapons — a massive stone-hammer, chisel, and his supernatural ability to shape stone and make it float"
+                },
+                "audio_and_voice_characteristics": {
+                    "tone": "Practical, focused, excited about engineering challenges, speaks with the enthusiasm of a master craftsman presented with the greatest project in history",
+                    "pitch": "Mid-range tenor — workman-like, practical, gets excited and faster when talking about construction, shouts clear directives to thousands of Vanara workers",
+                    "speech_style": "Technical and practical speech, uses construction metaphors, gives clear organized directives, counts measurements aloud, celebrates each section of the bridge completion with worker's pride",
+                    "emotional_baseline": "Creative excitement, professional pride, focused determination, the joy of a craftsman given the project of a lifetime"
+                },
+                "cinematic_generation_prompts": {
+                    "visual_prompt": "Dynamic cinematic shot of Vanara engineer Nala, age 30, directing the construction of Rama Setu. Earthy reddish-brown fur, stocky powerful build, bright calculating eyes. Simple work garments with tool-belt. Standing on partially-built stone bridge over turquoise ocean, directing thousands of Vanara workers carrying inscribed stones that float on water. Massive bridge stretching toward Lanka on the horizon. Golden construction-site lighting, ocean spray. 3D Pixar style, epic wide-angle, photorealistic, 8k.",
+                    "audio_prompt": "A practical, focused male mid-tenor voice that gets excited about engineering. Clear directives to thousands. Workman-like enthusiasm. Age approximately 30 years."
+                }
+            }
+        ]
+    }
+}

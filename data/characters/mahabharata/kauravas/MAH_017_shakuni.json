@@ -1,0 +1,68 @@
+{
+    "SHAKUNI": {
+        "metadata": {
+            "character_id": "MAH_017",
+            "name": "Shakuni",
+            "aliases": [
+                "Shakuni Mama",
+                "Saubala",
+                "The Dice-Master"
+            ],
+            "epic": "Mahabharata",
+            "primary_role": "Prince of Gandhara / Gandhari's brother / Master manipulator who destroyed the Kuru dynasty through dice",
+            "gender": "Male",
+            "ethnicity_cultural_context": "Ancient Indian (Gandhara kingdom — present-day Afghanistan/Pakistan)",
+            "family_relations": {
+                "father": "Subala (King of Gandhara)",
+                "mother": null,
+                "spouse": null,
+                "siblings": [
+                    "Gandhari"
+                ],
+                "children": [
+                    "Uluka"
+                ],
+                "guru": null
+            },
+            "divine_origin": "Made his dice from his dead father's bones — the dice always roll in his favor. Some versions say his entire family was killed by the Kurus and his vengeance drives his manipulation.",
+            "tags": [
+                "manipulator",
+                "villain",
+                "uncle",
+                "gambler",
+                "cunning",
+                "avenger"
+            ]
+        },
+        "timelines": [
+            {
+                "timeline_stage": "Manipulator / The Dice Game",
+                "age_approximation": 50,
+                "context_description": "Shakuni at the dice game — the master manipulator who uses his loaded dice (made from his father's bones) to systematically strip the Pandavas of everything, culminating in wagering Draupadi.",
+                "physical_appearance": {
+                    "skin_tone": "Sallow yellowish complexion, unhealthy and cunning, the look of a man who lives in shadows and plots, angular and sharp",
+                    "height": "Medium height, walks with a permanent limp (some versions say his legs were broken by the Kurus), thin and angular, moves with a spider's patient deliberation",
+                    "build": "Thin, wiry, deceptively fragile-looking — no warrior's physique, the body of a schemer who fights with his mind, bony hands that manipulate the loaded dice with supernatural skill",
+                    "facial_features": "Sharp cunning face like a fox — small calculating eyes that miss nothing, thin pointed nose, narrow lips curved in a perpetual knowing smirk, gaunt hollow cheeks, pointed chin with a thin beard, the most untrustworthy face in the epic, yet he can fake warmth and avuncular charm perfectly",
+                    "hair": "Thinning grey-black hair, slicked back and oily, receding hairline exposing a high calculating forehead",
+                    "distinguishing_marks": "His loaded dice made from his father Subala's bones — these are his defining objects, he rolls them with his right hand in a distinctive rattling motion, his limp is his physical mark, his calculating eyes constantly scan for angles of manipulation"
+                },
+                "wardrobe_and_adornments": {
+                    "clothing": "Dark robes in muted colors — charcoal, dark purple, black — the clothes of a man who prefers shadows, Gandharan style with foreign flair compared to Hastinapur's fashion",
+                    "jewelry": "A few ostentatious rings (for distraction during dice), a dark gem pendant, Gandharan-style turban or cap, foreign jewelry that marks him as an outsider at court",
+                    "weapons_carried": "His dice (made from his father's bones — they always show what he wills), his tongue and mind — the most dangerous weapons in the Mahabharata, a small hidden dagger for emergencies"
+                },
+                "audio_and_voice_characteristics": {
+                    "tone": "Slithery, insinuating, falsely warm, venomously sweet — the voice of corruption wrapped in avuncular charm, every word a carefully placed trap",
+                    "pitch": "Thin reedy tenor — slightly nasal, with a distinctive Gandharan accent, oily smooth, the voice of a man selling you your own destruction with a smile",
+                    "speech_style": "Speaks with false warmth and calculated friendliness, addresses Duryodhana as 'dear nephew,' makes devastating proposals sound reasonable, his dice-game commentary is delivered with theatrical innocence while engineering total destruction, 'Just one more game, what do you say?'",
+                    "emotional_baseline": "Deep cold vengeance (against the Kuru dynasty for destroying his family), patient spider-like manipulation, the satisfaction of a long game paying off, possibly justified rage channeled through terrible methods"
+                },
+                "cinematic_generation_prompts": {
+                    "visual_prompt": "Sinister cinematic shot of Shakuni, age 50, at the dice game. Sallow yellowish complexion, sharp fox-like cunning face, small calculating eyes, thin knowing smirk. Thin wiry build in dark charcoal robes, Gandharan turban. Sitting cross-legged before the dice board, bone dice rattling in his bony right hand, other hand gesturing with false innocence. Dramatic shadows on his face, dark gambling hall, tense onlookers. 3D Pixar style, sinister dramatic lighting, photorealistic, 8k.",
+                    "audio_prompt": "A thin, reedy male tenor with nasal quality. Oily smooth, falsely warm, venomously sweet. Every word a trap. Age approximately 50 years."
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "DRONA": {
+        "metadata": {
+            "character_id": "MAH_026",
+            "name": "Drona",
+            "aliases": [
+                "Dronacharya",
+                "Guru Drona",
+                "Bharadvaja-putra"
+            ],
+            "epic": "Mahabharata",
+            "primary_role": "Supreme martial teacher of both Pandavas and Kauravas / Brahmin warrior / Father of Ashwatthama",
+            "gender": "Male",
+            "ethnicity_cultural_context": "Ancient Indian (Brahmin, son of sage Bharadvaja, teacher at Hastinapur)",
+            "family_relations": {
+                "father": "Bharadvaja",
+                "mother": null,
+                "spouse": "Kripi",
+                "siblings": [],
+                "children": [
+                    "Ashwatthama"
+                ],
+                "guru": "Parashurama, Agnivesha"
+            },
+            "divine_origin": "Born from a pot (Drona = pot), Brahmin by birth but supreme warrior by training, learned all weapons from Parashurama",
+            "tags": [
+                "teacher",
+                "warrior",
+                "brahmin",
+                "guru",
+                "father",
+                "complex",
+                "tragic"
+            ]
+        },
+        "timelines": [
+            {
+                "timeline_stage": "Guru / Supreme Teacher",
+                "age_approximation": 60,
+                "context_description": "Dronacharya as the supreme martial guru — the man who taught both Pandavas and Kauravas, demanded Ekalavya's thumb, and fought against his own students in the war.",
+                "physical_appearance": {
+                    "skin_tone": "Fair aged complexion with the dual radiance of a Brahmin's spiritual learning and a warrior's battle-fire, unusual combination",
+                    "height": "Tall and imposing despite age — carries himself with the double authority of a teacher and a commander",
+                    "build": "Lean but incredibly capable warrior's build maintained into old age — wiry steel-strong arms, the precision muscles of a master archer, a Brahmin's lean discipline combined with a Kshatriya's combat power",
+                    "facial_features": "Stern authoritative face of the ultimate teacher — sharp intelligent eyes that evaluate instantly, prominent nose, well-trimmed grey-white beard and mustache, high intelligent forehead, expression that can shift from approving warmth to terrifying displeasure in an instant, the face students both adore and fear",
+                    "hair": "Grey-white hair in a disciplined sage-warrior style — part sage's knot, part warrior's topknot, reflecting his dual nature",
+                    "distinguishing_marks": "His dual nature is his mark — he wears the sacred thread of a Brahmin and the arm-guards of a warrior simultaneously, his teaching posture (arms crossed, evaluating students) is iconic, his attachment to his son Ashwatthama is his fatal weakness"
+                },
+                "wardrobe_and_adornments": {
+                    "clothing": "A unique blend of sage and warrior garments — white Brahmin dhoti with leather warrior elements, a teacher's shawl over battle-ready clothing, always prepared for both the classroom and the battlefield",
+                    "jewelry": "Sacred thread prominently displayed alongside warrior's arm-guards, a teacher's ring, a sage's Kamandalu hung at his waist, minimal gold — Brahmin simplicity with warrior practicality",
+                    "weapons_carried": "Complete mastery of ALL weapons — divine and mundane, he possesses every celestial weapon (Astra), his bow, but also his teaching staff which is itself a weapon, the Brahmastra he reserves as his ultimate weapon"
+                },
+                "audio_and_voice_characteristics": {
+                    "tone": "Stern, commanding, the voice that shaped the greatest warriors of the age — can be warmly approving or cutting in disappointment, absolutely authoritative",
+                    "pitch": "Sharp commanding baritone — the classic teacher's voice that carries across training grounds, precise and clear, cuts through noise",
+                    "speech_style": "Speaks with pedagogical authority — short commands during training ('Again!'), elaborate technical explanations of combat theory, his voice is the one all warriors hear in their memories, capable of devastating character assessments of his students",
+                    "emotional_baseline": "Stern professional pride in his students, complex favoritism (prefers Arjuna), the teacher's burden of fighting against his own creations, paternal obsession with Ashwatthama's survival"
+                },
+                "cinematic_generation_prompts": {
+                    "visual_prompt": "Commanding cinematic shot of Guru Dronacharya, age 60. Fair complexion with dual sage-warrior radiance. Stern intelligent face, sharp evaluating eyes, grey-white beard, high forehead. Lean powerful build in white Brahmin garments with warrior elements. Sacred thread and arm-guards visible. Standing on a training ground, arms crossed, evaluating young warriors practicing below. Grand outdoor arena of Hastinapur. 3D Pixar style, sharp disciplined lighting, photorealistic, 8k.",
+                    "audio_prompt": "A sharp, commanding male baritone. The classic teacher's voice that carries across grounds. Precisely clear, authoritative. Age approximately 60 years."
+                }
+            }
+        ]
+    }
+}

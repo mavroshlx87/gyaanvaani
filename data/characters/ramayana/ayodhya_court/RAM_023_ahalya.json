@@ -1,0 +1,65 @@
+{
+    "AHALYA": {
+        "metadata": {
+            "character_id": "RAM_023",
+            "name": "Ahalya",
+            "aliases": [
+                "Ahalyā",
+                "The Stone Woman"
+            ],
+            "epic": "Ramayana",
+            "primary_role": "Wife of sage Gautama / Cursed to become a stone / Redeemed by Rama's touch",
+            "gender": "Female",
+            "ethnicity_cultural_context": "Ancient Indian (wife of Sage Gautama, ashram near Mithila)",
+            "family_relations": {
+                "father": "Brahma (created)",
+                "mother": null,
+                "spouse": "Gautama",
+                "siblings": [],
+                "children": [
+                    "Shatananda"
+                ],
+                "guru": null
+            },
+            "divine_origin": "Created by Brahma as the most beautiful woman in creation, cursed to become a stone for transgression, redeemed by the touch of Rama's feet",
+            "tags": [
+                "cursed",
+                "redeemed",
+                "beautiful",
+                "sage_wife",
+                "stone",
+                "divine_creation"
+            ]
+        },
+        "timelines": [
+            {
+                "timeline_stage": "Redemption / Freed from Stone",
+                "age_approximation": 30,
+                "context_description": "Ahalya has been a stone for eons when the dust of Rama's feet touches her, and she transforms back into her human form — one of the most beautiful and emotional moments in the Ramayana.",
+                "physical_appearance": {
+                    "skin_tone": "Transcendently beautiful complexion — skin transitioning from cold grey stone to warm luminous golden as life returns, glowing with gratitude and divine grace",
+                    "height": "Tall and statuesque, the most beautiful woman ever created, slowly rising from the ground as stone becomes flesh",
+                    "build": "Perfect divine proportions — she was created by Brahma to be the epitome of feminine beauty, her form is flawless, slender yet full, every line of her body is the mathematical ideal",
+                    "facial_features": "The most beautiful face ever created — large luminous eyes opening for the first time in ages, filled with tears of gratitude and wonder, perfect symmetrical features, lips parting in awe at seeing Rama, the expression of someone waking from an eternal nightmare into divine grace",
+                    "hair": "Long hair that was stone now flowing and alive, still with a faint grey tint that rapidly turns lustrous black, cascading around her rising form",
+                    "distinguishing_marks": "Faint stone-grey patterns visible on her skin like marble veining — gradually fading as she fully transforms, her first tears creating streaks of color on grey cheeks, moss and flowers that grew on her stone form now adorning her living body"
+                },
+                "wardrobe_and_adornments": {
+                    "clothing": "Ancient garments that were stone now soft fabric — a simple white sari that seems to materialize as she transforms, draped with the innocent simplicity of creation",
+                    "jewelry": "None initially — as she transforms, a faint golden glow replaces jewelry, her beauty needs no adornment",
+                    "weapons_carried": "None"
+                },
+                "audio_and_voice_characteristics": {
+                    "tone": "Trembling with awe and gratitude, the first sounds she has made in eons, cracking and raw from disuse, growing stronger with each word of devotion",
+                    "pitch": "Fragile soprano — cracking like breaking stone at first, then clarifying into a clear pure bell-like tone, the most beautiful voice to match the most beautiful face",
+                    "speech_style": "Her first words are prayers of gratitude to Rama, speaks haltingly at first as she remembers language, her voice carries the weight of eons of silent penance, gradually becoming eloquent",
+                    "emotional_baseline": "Overwhelming gratitude, the awe of resurrection, grief at lost centuries, pure devotion to the divine touch that freed her"
+                },
+                "cinematic_generation_prompts": {
+                    "visual_prompt": "Transcendent cinematic shot of Ahalya's transformation from stone to living woman. Age appears 30. Grey stone gradually becoming warm luminous golden skin. The most beautiful face in creation, eyes opening with tears of gratitude, mouth parting in awe. Hair transitioning from grey stone to lustrous black. Faint marble-vein patterns fading on skin. Wearing a simple materializing white sari. Rising from the forest floor surrounded by moss and flowers, Rama's sandaled feet visible nearby. Ancient forest with divine golden light streaming through canopy. 3D Pixar style, transcendent ethereal lighting, photorealistic, 8k.",
+                    "audio_prompt": "A fragile soprano voice, initially cracking like breaking stone, clarifying into a pure bell-like tone. Trembling with awe and overwhelming gratitude. Age appears 30."
+                }
+            }
+        ]
+    }
+}

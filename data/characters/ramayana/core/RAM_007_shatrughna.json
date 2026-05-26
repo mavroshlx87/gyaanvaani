@@ -1,0 +1,70 @@
+{
+    "SHATRUGHNA": {
+        "metadata": {
+            "character_id": "RAM_007",
+            "name": "Shatrughna",
+            "aliases": [
+                "Shatrughna",
+                "Shatru-ghna",
+                "Ripu-sudana"
+            ],
+            "epic": "Ramayana",
+            "primary_role": "Prince of Ayodhya / Youngest brother of Rama / Twin of Lakshmana / Conqueror of enemies",
+            "gender": "Male",
+            "ethnicity_cultural_context": "Ancient Indian (Ikshvaku Dynasty, Ayodhya, Twin of Lakshmana)",
+            "family_relations": {
+                "father": "Dasharatha",
+                "mother": "Sumitra",
+                "spouse": "Shrutakirti",
+                "siblings": [
+                    "Sri Rama",
+                    "Lakshmana",
+                    "Bharata"
+                ],
+                "children": [
+                    "Subahu",
+                    "Shatrughati"
+                ],
+                "guru": "Vasishtha"
+            },
+            "divine_origin": "Avatar-amsha of Vishnu's Sudarshana Chakra — the divine discus personified",
+            "tags": [
+                "prince",
+                "warrior",
+                "brother",
+                "conqueror",
+                "loyal"
+            ]
+        },
+        "timelines": [
+            {
+                "timeline_stage": "Warrior Prince",
+                "age_approximation": 25,
+                "context_description": "Shatrughna serves Bharata during the exile years, and later conquers the demon Lavanasura and founds the city of Mathura.",
+                "physical_appearance": {
+                    "skin_tone": "Fair golden complexion identical to his twin Lakshmana, strong and healthy from martial training",
+                    "height": "Tall and powerfully built, slightly stockier than Lakshmana",
+                    "build": "Powerfully muscular warrior build, thick arms and chest, built more for raw power than Lakshmana's speed",
+                    "facial_features": "Strong handsome features similar to Lakshmana but with a calmer, steadier expression, determined but less volatile eyes, square powerful jaw, confident half-smile",
+                    "hair": "Thick black hair in a warrior's topknot, well-groomed and practical",
+                    "distinguishing_marks": "Known for his physical strength — second only to Bhima in a later era, his battle stance is famously immovable"
+                },
+                "wardrobe_and_adornments": {
+                    "clothing": "Royal warrior garments — a mix of princely white-gold silk and practical leather battle gear, armored shoulder guards",
+                    "jewelry": "Gold and silver crown of a prince, sturdy gold armlets, practical warrior's chain necklace",
+                    "weapons_carried": "A massive long-handled mace (Gada), a heavy war bow, a battle-axe — prefers heavy weapons reflecting his strength"
+                },
+                "audio_and_voice_characteristics": {
+                    "tone": "Steady, calm, quietly confident, speaks less than his brothers but every word carries weight",
+                    "pitch": "Deep tenor-baritone — steady and grounded, no emotional fluctuation, rock-solid",
+                    "speech_style": "Few but decisive words, speaks with quiet authority, loyal and dependable speech patterns, never boasts",
+                    "emotional_baseline": "Calm determined loyalty, rock-steady composure, fierce in battle but serene in peace"
+                },
+                "cinematic_generation_prompts": {
+                    "visual_prompt": "Cinematic portrait of Prince Shatrughna, age 25, warrior prince of Ayodhya. Fair golden complexion, strong stocky muscular build. Calm determined eyes, square powerful jaw, confident expression. Black hair in a warrior topknot. Wearing royal white-gold garments with leather battle armor, gold crown, sturdy armlets. Holding a massive golden mace. Standing before the walls of a grand city (Mathura). 3D Pixar style, strong heroic lighting, photorealistic, 8k.",
+                    "audio_prompt": "A deep, steady male tenor-baritone voice. Calm, grounded, rock-solid composure. Few but decisive words. Age approximately 25 years."
+                }
+            }
+        ]
+    }
+}

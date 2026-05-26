@@ -1,0 +1,67 @@
+{
+    "SURPANAKHA": {
+        "metadata": {
+            "character_id": "RAM_058",
+            "name": "Surpanakha",
+            "aliases": [
+                "Shurpanakha",
+                "Meenakshi",
+                "Ravana's sister"
+            ],
+            "epic": "Ramayana",
+            "primary_role": "Rakshasi sister of Ravana / Her humiliation triggered the abduction of Sita and the war of Lanka",
+            "gender": "Female",
+            "ethnicity_cultural_context": "Rakshasa (demon race), Lanka — sister of Ravana, Kumbhakarna, and Vibhishana",
+            "family_relations": {
+                "father": "Vishrava",
+                "mother": "Kaikesi",
+                "spouse": "Vidyujjihva (killed by Ravana)",
+                "siblings": [
+                    "Ravana",
+                    "Kumbhakarna",
+                    "Vibhishana"
+                ],
+                "children": [],
+                "guru": null
+            },
+            "divine_origin": null,
+            "tags": [
+                "rakshasi",
+                "catalyst",
+                "shapeshifter",
+                "sister",
+                "vengeful"
+            ]
+        },
+        "timelines": [
+            {
+                "timeline_stage": "Rakshasi / Encounter with Rama",
+                "age_approximation": 30,
+                "context_description": "Surpanakha encounters Rama in the Dandaka forest, is attracted to him, is humiliated when Lakshmana cuts her nose and ears, and runs to Ravana demanding revenge — triggering the entire war.",
+                "physical_appearance": {
+                    "skin_tone": "Variable — as a shapeshifter she can appear as a beautiful woman (dark-copper radiant skin) or in her natural Rakshasi form (dark greyish-green rough skin, larger and more fearsome)",
+                    "height": "In beautiful form: tall, alluring, seductive. In natural form: large, wild, fearsome",
+                    "build": "Beautiful form: voluptuous and seductive, curves and allure designed to enchant. Natural form: larger, more muscular, clawed hands, hunched predatory posture",
+                    "facial_features": "Beautiful form: dark alluring features, large kohl-lined eyes, sensuous lips, seductive smile. Natural form: harsh angular features, yellow eyes, fangs visible, wide flat nose, wild expression, then: bloody and mutilated after Lakshmana's blade — nose and ears cut, face contorted in pain and rage",
+                    "hair": "Beautiful form: long flowing black hair dramatically styled. Natural form: wild tangled dark hair, flying in all directions",
+                    "distinguishing_marks": "After mutilation: her disfigured face becomes her identifying mark — a permanent reminder of humiliation that drives the entire war, blood streaming from where her nose and ears were, fury transforms her completely"
+                },
+                "wardrobe_and_adornments": {
+                    "clothing": "Beautiful form: a sensuous dark red and gold sari, alluring drape. Natural form: rough animal-skin garments, minimal clothing",
+                    "jewelry": "Beautiful form: seductive gold jewelry, jangling anklets, bangles. Natural form: crude bone and fang necklaces, tribal Rakshasi ornaments",
+                    "weapons_carried": "Sharp claws (natural weapons), fangs, shapeshifting ability, can fly, her tongue — her words to Ravana about Sita's beauty are what trigger the abduction"
+                },
+                "audio_and_voice_characteristics": {
+                    "tone": "Shifts dramatically — seductive and sweet when trying to charm Rama, shrieking and furious when rejected, wailing in pain after mutilation, venomously persuasive when goading Ravana",
+                    "pitch": "Variable — seductive contralto when charming, shrieking harsh soprano when enraged, becomes a rasping snarling voice after mutilation",
+                    "speech_style": "Speaks seductively and persuasively when trying to charm, erupts into foul-mouthed rage when rejected, after mutilation her speech becomes a weapon of vengeance — she describes Sita's beauty to Ravana with deliberate calculated detail designed to inflame his desire",
+                    "emotional_baseline": "Desire and entitlement, volcanic rage at rejection, burning humiliation, calculated revenge — she is the match that lights the fire of the entire war"
+                },
+                "cinematic_generation_prompts": {
+                    "visual_prompt": "Dramatic cinematic split-shot of Surpanakha, age 30. LEFT: Her beautiful form — dark-copper alluring face, seductive kohl-lined eyes, flowing black hair, sensuous red and gold sari, approaching Rama in the forest with a seductive smile. RIGHT: After mutilation — natural Rakshasi form, wild tangled hair, bloodied face with nose and ears cut, yellow eyes blazing with fury and pain, shrieking. Dense dark forest background. 3D Pixar style, dramatic contrast lighting, photorealistic, 8k.",
+                    "audio_prompt": "A variable female voice — seductive contralto when charming, shrieking harsh soprano when enraged, rasping venomous tone when plotting revenge. Age approximately 30 years."
+                }
+            }
+        ]
+    }
+}

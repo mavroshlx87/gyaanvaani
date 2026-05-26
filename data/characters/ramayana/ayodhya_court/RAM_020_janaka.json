@@ -1,0 +1,69 @@
+{
+    "JANAKA": {
+        "metadata": {
+            "character_id": "RAM_020",
+            "name": "Janaka",
+            "aliases": [
+                "Raja Janaka",
+                "Videha-raja",
+                "Seeradhwaja"
+            ],
+            "epic": "Ramayana",
+            "primary_role": "King of Mithila (Videha) / Father of Sita / Philosopher-king and Rajarishi",
+            "gender": "Male",
+            "ethnicity_cultural_context": "Ancient Indian (Videha kingdom, Mithila — present-day Bihar/Nepal border)",
+            "family_relations": {
+                "father": "Hrasvaroma",
+                "mother": null,
+                "spouse": "Sunaina",
+                "siblings": [
+                    "Kushadhvaja"
+                ],
+                "children": [
+                    "Sita (found)",
+                    "Urmila"
+                ],
+                "guru": "Yajnavalkya"
+            },
+            "divine_origin": "A Rajarishi (sage-king) who attained Brahma-jnana (supreme spiritual knowledge) while ruling — famous for his equanimity",
+            "tags": [
+                "king",
+                "philosopher",
+                "sage_king",
+                "father",
+                "wise",
+                "detached"
+            ]
+        },
+        "timelines": [
+            {
+                "timeline_stage": "Philosopher-King",
+                "age_approximation": 50,
+                "context_description": "The wise king of Mithila who found baby Sita while ploughing a sacred field, and organized the Swayamvara with Shiva's bow.",
+                "physical_appearance": {
+                    "skin_tone": "Warm medium-brown complexion, healthy and radiant with the glow of a man who has mastered both worldly duties and spiritual wisdom",
+                    "height": "Medium height, upright and dignified, the composed bearing of a philosopher-king",
+                    "build": "Neither lean nor heavy — a balanced build of a man who meditates and also governs, strong hands from personally ploughing the sacred field, settled comfortable strength",
+                    "facial_features": "Serene intelligent face with large calm contemplative eyes, broad forehead of a thinker, neatly trimmed grey-flecked beard, gentle warm smile that reflects inner peace, crow's feet from years of wise smiling, the face of a man who found a daughter in a furrow and never questioned the miracle",
+                    "hair": "Silver-grey hair neatly groomed, simple royal crown resting lightly on his head",
+                    "distinguishing_marks": "His hands show the unique combination of a farmer's calluses and a scribe's ink-stains — he ploughs and philosophizes with equal dedication"
+                },
+                "wardrobe_and_adornments": {
+                    "clothing": "Simple but regal white and gold robes — less ostentatious than Ayodhya's royalty, reflecting Mithila's more intellectual culture, a philosopher's simplicity with a king's dignity",
+                    "jewelry": "A modest golden crown of Mithila (simpler than Ayodhya's grand mukut), a sacred thread, pearl necklace, simple gold earrings, a philosophical restraint in adornment",
+                    "weapons_carried": "A ceremonial scepter — symbol of office rather than a weapon, though he was trained in warfare"
+                },
+                "audio_and_voice_characteristics": {
+                    "tone": "Calm, contemplative, warm, speaks with the measured ease of a man who has resolved all inner conflicts — his voice is the voice of a teacher-king",
+                    "pitch": "Warm steady baritone — measured and unhurried, with an almost meditative quality, gentle and accessible",
+                    "speech_style": "Speaks in philosophical observations, every statement carries multiple layers of wisdom, addresses Rama with the delight of recognizing divinity, speaks of Sita with a father's tender love, uses simple words for profound truths",
+                    "emotional_baseline": "Serene equanimity, paternal love (especially for Sita), philosophical detachment that paradoxically allows deeper engagement with life"
+                },
+                "cinematic_generation_prompts": {
+                    "visual_prompt": "Warm cinematic portrait of Philosopher-King Janaka of Mithila, age 50. Medium-brown complexion with a radiant healthy glow. Serene intelligent face with calm contemplative eyes, grey-flecked beard, warm wise smile. Silver-grey hair under a modest golden crown. Wearing simple white and gold royal robes. Seated on a modest but elegant throne in the philosophical court of Mithila, with scholars and students around. Warm natural daylight, open-air court with simple elegance. 3D Pixar style, warm contemplative lighting, photorealistic, 8k.",
+                    "audio_prompt": "A warm, steady male baritone voice with meditative quality. Measured and unhurried, philosophical depth in simple words. Age approximately 50 years."
+                }
+            }
+        ]
+    }
+}

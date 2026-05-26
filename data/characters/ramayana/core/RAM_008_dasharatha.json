@@ -1,0 +1,74 @@
+{
+    "DASHARATHA": {
+        "metadata": {
+            "character_id": "RAM_008",
+            "name": "Dasharatha",
+            "aliases": [
+                "Dasharath",
+                "Nemi",
+                "Raghu-nandana",
+                "Ayodhya-pati"
+            ],
+            "epic": "Ramayana",
+            "primary_role": "King of Ayodhya / Father of Rama / Tragic figure bound by his word",
+            "gender": "Male",
+            "ethnicity_cultural_context": "Ancient Indian (Ikshvaku Dynasty, Solar Dynasty, King of Kosala)",
+            "family_relations": {
+                "father": "Aja",
+                "mother": "Indumati",
+                "spouse": [
+                    "Kausalya",
+                    "Kaikeyi",
+                    "Sumitra"
+                ],
+                "siblings": [],
+                "children": [
+                    "Sri Rama",
+                    "Bharata",
+                    "Lakshmana",
+                    "Shatrughna"
+                ],
+                "guru": "Vasishtha"
+            },
+            "divine_origin": "Descendant of the great Solar Dynasty (Suryavanshi), performed the Putrakameshti Yagna to obtain divine sons",
+            "tags": [
+                "king",
+                "father",
+                "warrior",
+                "tragic",
+                "noble",
+                "righteous"
+            ]
+        },
+        "timelines": [
+            {
+                "timeline_stage": "King / Father in Grief",
+                "age_approximation": 60,
+                "context_description": "The aging King of Ayodhya, one of the greatest warriors of his era now broken by his forced promise to Kaikeyi to exile Rama. Dies of grief after Rama's departure.",
+                "physical_appearance": {
+                    "skin_tone": "Weathered dark-golden complexion, once radiant now dulled by age and grief, skin loose and thin on a once-powerful frame",
+                    "height": "Tall but now stooped by age and sorrow, a shadow of his former warrior magnificence",
+                    "build": "Once massively powerful warrior's body now aged and diminished, broad shoulders hunched, thick arms now thin, a great king physically broken by grief",
+                    "facial_features": "Noble aged face deeply lined with sorrow, bloodshot weary eyes that once blazed with warrior fire now dim with tears, white bushy eyebrows, sunken cheeks, trembling lower lip, a face of regal beauty destroyed by heartbreak, white beard",
+                    "hair": "Completely white long hair, thin and wispy, worn under a heavy crown that seems too large for his diminished head",
+                    "distinguishing_marks": "Hands that once drew the mightiest bow now tremble constantly, the great king who could fight battles blindfolded now cannot see through his tears"
+                },
+                "wardrobe_and_adornments": {
+                    "clothing": "Magnificent but ill-fitting royal robes — the saffron and gold silks hang loose on his diminished frame, as if the clothes belong to a larger man (which they once did)",
+                    "jewelry": "The great crown of Ayodhya sits heavy on his brow, ancient royal necklaces, but all seem to weigh him down now, ancestral rings loose on thin fingers",
+                    "weapons_carried": "A ceremonial sword at his side — untouched for years, his great war bow gathering dust in the armory"
+                },
+                "audio_and_voice_characteristics": {
+                    "tone": "Broken, trembling, interspersed with choked sobs and desperate pleas, the voice of absolute authority now shattered by personal devastation",
+                    "pitch": "Once a powerful deep bass, now a wavering cracking elderly voice, breaks frequently mid-sentence",
+                    "speech_style": "Speaks in fragmented sentences broken by grief, repeats 'Rama... Rama...' endlessly, his final words are his son's name, formal royal speech dissolved into raw fatherly anguish",
+                    "emotional_baseline": "Devastating grief, guilt, the agony of a father who sent his most beloved son away, a righteous man trapped by his own word of honor"
+                },
+                "cinematic_generation_prompts": {
+                    "visual_prompt": "Heartbreaking cinematic portrait of King Dasharatha, age 60, on his deathbed in the palace of Ayodhya. Weathered dark-golden skin, completely white hair, deeply lined noble face streaming with tears. Bloodshot eyes, trembling lips whispering 'Rama.' Once-magnificent royal robes hanging loose on a diminished body. Heavy golden crown askew. Lying on a grand royal bed with silk canopies, surrounded by grieving queens. Dark moody palace interior with dying lamplight. 3D Pixar style, dramatic chiaroscuro, emotionally devastating, photorealistic, 8k.",
+                    "audio_prompt": "A wavering, cracking elderly male voice, once powerful now shattered by grief. Broken sentences, choked sobs, endlessly repeating the name 'Rama.' Age approximately 60 years."
+                }
+            }
+        ]
+    }
+}

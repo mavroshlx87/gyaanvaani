@@ -1,0 +1,68 @@
+{
+    "MANDODARI": {
+        "metadata": {
+            "character_id": "RAM_015",
+            "name": "Mandodari",
+            "aliases": [
+                "Mandodari Devi",
+                "Lanka-Lakshmi",
+                "Ravana-patni"
+            ],
+            "epic": "Ramayana",
+            "primary_role": "Chief Queen of Lanka / Wife of Ravana / Wise and virtuous woman trapped in a demon's palace",
+            "gender": "Female",
+            "ethnicity_cultural_context": "Apsara-born — daughter of Mayasura (the divine architect of demons) and Hema (an Apsara celestial dancer)",
+            "family_relations": {
+                "father": "Mayasura",
+                "mother": "Hema (Apsara)",
+                "spouse": "Ravana",
+                "siblings": [],
+                "children": [
+                    "Indrajit (Meghanada)",
+                    "Akshayakumara"
+                ],
+                "guru": null
+            },
+            "divine_origin": "Born of a celestial Apsara and the great Asura architect — possesses beauty rivaling the celestial maidens and wisdom surpassing most sages",
+            "tags": [
+                "queen",
+                "wife",
+                "wise",
+                "beautiful",
+                "tragic",
+                "counselor",
+                "mother"
+            ]
+        },
+        "timelines": [
+            {
+                "timeline_stage": "Queen / Counselor of Lanka",
+                "age_approximation": 35,
+                "context_description": "Mandodari constantly advises Ravana to return Sita and avoid war with Rama. She is considered one of the five great virtuous women (Panchakanya) in Hindu tradition. Her warnings go unheeded.",
+                "physical_appearance": {
+                    "skin_tone": "Extraordinarily beautiful — radiant fair complexion with a luminous pearl-like sheen (celestial Apsara heritage), skin that seems to glow from within",
+                    "height": "Tall and statuesque, moves with supernatural grace inherited from her Apsara mother",
+                    "build": "Perfectly proportioned feminine figure of celestial beauty, graceful and regal, her beauty is said to rival Sita's — the most beautiful woman in Lanka",
+                    "facial_features": "Stunningly beautiful face with large expressive dark eyes perpetually shadowed with worry, high cheekbones, perfect arched eyebrows, full lips often pressed in concern, a beauty that carries visible sadness — the face of a wise woman married to a doomed king",
+                    "hair": "Long lustrous black hair cascading past her waist, elaborately styled with gold pins and jeweled combs, Rakshasa-style dramatic waves and curls",
+                    "distinguishing_marks": "Despite living among demons, her bearing is entirely divine and sattvik, a visible aura of virtue that contrasts sharply with the dark energy of Lanka's court"
+                },
+                "wardrobe_and_adornments": {
+                    "clothing": "Magnificent Rakshasa-style queen's sari — deep midnight blue and silver silk with intricate demon-motif embroidery, darker and more dramatic palette than Ayodhya's warm golds, flowing cape-like pallu",
+                    "jewelry": "Lavish dark-metal and gemstone jewelry — a dramatic tiara of black gold and sapphires, heavy dark-stone necklaces, multiple armlets and bangles in both gold and dark silver, ornate waist chain, elaborate ear ornaments — beautiful but with a darker aesthetic than Ayodhya's pure gold",
+                    "weapons_carried": "None — but she commands significant magical knowledge inherited from her father Mayasura"
+                },
+                "audio_and_voice_characteristics": {
+                    "tone": "Elegant, measured, deeply intelligent, speaks truth with quiet courage even to the terrifying Ravana, her voice carries the weight of prophecy",
+                    "pitch": "Rich dramatic mezzo-soprano — beautiful and resonant, carries both queenly authority and tragic sadness, her voice is described as rivaling heavenly Gandharva music",
+                    "speech_style": "Speaks with diplomatic precision, uses prophetic warnings disguised as wifely advice, her tone is respectful but unflinching when counseling Ravana, delivers devastating truths wrapped in the silk of queenly grace",
+                    "emotional_baseline": "Tragic wisdom, helpless prescience (she sees the doom coming but cannot prevent it), deep love for Ravana mixed with horror at his choices, maternal grief for her sons going to their deaths"
+                },
+                "cinematic_generation_prompts": {
+                    "visual_prompt": "Stunning cinematic portrait of Queen Mandodari in the golden palace of Lanka, age 35. Radiant pearl-like fair complexion glowing with celestial beauty. Stunningly beautiful face with large expressive dark eyes shadowed with worry, elaborate hairstyle with gold pins. Wearing a magnificent midnight blue and silver silk sari with demon-motif embroidery. Dramatic tiara of black gold and sapphires, lavish dark-metal jewelry. Standing by a grand window looking out at the approaching war, hands clasped in worried prayer. Opulent Lanka palace interior with gold walls and exotic dark decor. 3D Pixar style, dramatic blue-gold lighting, photorealistic, 8k.",
+                    "audio_prompt": "A rich, dramatic female mezzo-soprano voice of celestial beauty and tragic wisdom. Elegant and resonant, carrying queenly authority with underlying sadness. Age approximately 35 years."
+                }
+            }
+        ]
+    }
+}

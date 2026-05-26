@@ -1,0 +1,67 @@
+{
+    "HIDIMBI": {
+        "metadata": {
+            "character_id": "MAH_101",
+            "name": "Hidimbi",
+            "aliases": [
+                "Hidimba",
+                "Hidimba Devi"
+            ],
+            "epic": "Mahabharata",
+            "primary_role": "Rakshasi princess who fell in love with Bhima / Mother of Ghatotkacha / Chose love over her demon nature",
+            "gender": "Female",
+            "ethnicity_cultural_context": "Rakshasi (demon race), forest-dwelling, sister of the demon Hidimba",
+            "family_relations": {
+                "father": null,
+                "mother": null,
+                "spouse": "Bhima",
+                "siblings": [
+                    "Hidimba (brother — killed by Bhima)"
+                ],
+                "children": [
+                    "Ghatotkacha"
+                ],
+                "guru": null
+            },
+            "divine_origin": "A Rakshasi who possessed shapeshifting abilities but chose to use her human form to approach Bhima, representing the triumph of love over demonic nature",
+            "tags": [
+                "rakshasi",
+                "mother",
+                "lover",
+                "shapeshifter",
+                "forest",
+                "gentle_demon"
+            ]
+        },
+        "timelines": [
+            {
+                "timeline_stage": "Lover / Mother of Ghatotkacha",
+                "age_approximation": 25,
+                "context_description": "Hidimbi — the Rakshasi who was sent by her brother to capture the Pandavas for food, but fell in love with Bhima at first sight, transformed into a beautiful woman, and chose love over her demonic duty.",
+                "physical_appearance": {
+                    "skin_tone": "In human form: Dark exotic beauty — deep dusky complexion with an otherworldly shimmer, more wild and primal beauty than court-bred princesses, supernatural allure. In Rakshasi form: darker, with greenish-dark undertones, more fearsome features",
+                    "height": "In human form: Tall, statuesque, imposing even in beauty — Rakshasi women are larger than human women. In Rakshasi form: much larger, towering",
+                    "build": "In human form: Full-figured and strong — more muscular and powerful than human women, wild untamed beauty, the curves and strength of a forest predator transformed into a woman. In Rakshasi form: larger, clawed, more fearsome",
+                    "facial_features": "In human form: Dark exotic beauty — large wide intense eyes, full lips, wild untamed features, a beauty that is raw and primal rather than refined, expression of awestruck love when she first sees Bhima — instant total devotion. In Rakshasi form: sharper features, slight fangs, yellow-tinged eyes",
+                    "hair": "Long wild black hair flowing freely — never tamed into braids or buns, decorated with forest flowers and leaves, a mane of untamed dark beauty",
+                    "distinguishing_marks": "Her shapeshifting is her main ability — she voluntarily maintains her beautiful human form out of love for Bhima, her son Ghatotkacha inherits this ability, she is one of the first positive Rakshasa representations in the epic"
+                },
+                "wardrobe_and_adornments": {
+                    "clothing": "Forest garments — a sari of forest-cloth and animal hides in earth tones and greens, wilder and more natural than court clothing, decorated with forest elements",
+                    "jewelry": "Natural jewelry — garlands of wildflowers, wooden and bone ornaments, forest berries and leaves woven into decorations, nothing metallic — the adornment of the wild",
+                    "weapons_carried": "Shapeshifting ability, physical strength much greater than human women (she's a Rakshasi), knowledge of forest herbs and magic"
+                },
+                "audio_and_voice_characteristics": {
+                    "tone": "Passionate and direct — the voice of raw honest emotion without court-trained restraint, speaks love and anger with equal open intensity",
+                    "pitch": "Rich warm contralto — deeper and more resonant than human women, earthy and warm, with an occasional growl that hints at her Rakshasi nature",
+                    "speech_style": "Speaks with wild directness — no court diplomacy, expresses desire and love openly, her proposal to Bhima is disarmingly honest, she adapts to Pandava culture with effort but never fully loses her wild nature",
+                    "emotional_baseline": "Raw passionate love, the fierce protective motherhood of a wild creature, the tension between her gentle human-form self and her Rakshasi power"
+                },
+                "cinematic_generation_prompts": {
+                    "visual_prompt": "Romantic cinematic shot of Hidimbi in human form, age 25. Deep dusky exotic beauty with otherworldly shimmer, large intense awestruck eyes, full lips, wild untamed features. Long wild black hair with forest flowers. Wearing forest-cloth sari in earth greens, natural flower and wood ornaments. Standing in a moonlit forest clearing, gazing at sleeping Bhima with an expression of instant total devotion. Dense ancient forest, moonlight filtering through canopy. 3D Pixar style, romantic moonlit atmosphere, photorealistic, 8k.",
+                    "audio_prompt": "A rich, warm female contralto. Deeper than human women, earthy and warm, with occasional growl. Passionately honest. Age approximately 25 years."
+                }
+            }
+        ]
+    }
+}

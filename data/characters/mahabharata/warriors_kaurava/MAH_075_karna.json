@@ -1,0 +1,103 @@
+{
+    "KARNA": {
+        "metadata": {
+            "character_id": "MAH_075",
+            "name": "Karna",
+            "aliases": [
+                "Suryaputra",
+                "Radheya",
+                "Vasusena",
+                "Angaraj",
+                "Danveer Karna",
+                "Kunti-putra"
+            ],
+            "epic": "Mahabharata",
+            "primary_role": "Son of Kunti and Surya / Abandoned at birth / Raised by a charioteer / Greatest tragic hero / Duryodhana's loyal friend / Rival of Arjuna",
+            "gender": "Male",
+            "ethnicity_cultural_context": "Ancient Indian (born a Kshatriya prince but raised as a Suta-putra — charioteer's son, made King of Anga by Duryodhana)",
+            "family_relations": {
+                "father": "Surya (divine), Adhiratha (adoptive)",
+                "mother": "Kunti (biological), Radha (adoptive)",
+                "spouse": "Vrushali",
+                "siblings": [
+                    "Yudhishthira, Bhima, Arjuna, Nakula, Sahadeva (unknown half-brothers)"
+                ],
+                "children": [
+                    "Vrishasena",
+                    "Vrishaketu"
+                ],
+                "guru": "Parashurama (under false pretenses), Drona (rejected him)"
+            },
+            "divine_origin": "Son of Surya (Sun God) — born with divine golden armor (Kavach) and earrings (Kundal) fused to his body, making him invulnerable. He donated these to Indra, choosing death over dishonor.",
+            "tags": [
+                "warrior",
+                "tragic_hero",
+                "archer",
+                "friend",
+                "generous",
+                "abandoned",
+                "sun_born",
+                "rival",
+                "complex"
+            ]
+        },
+        "timelines": [
+            {
+                "timeline_stage": "Young Warrior / The Rejected Prince",
+                "age_approximation": 20,
+                "context_description": "Young Karna at the tournament of Hastinapur — challenging Arjuna as an equal but being publicly humiliated for his low birth, then being saved and crowned King of Anga by Duryodhana.",
+                "physical_appearance": {
+                    "skin_tone": "Radiant golden-bronze complexion — literally sun-kissed, his skin glows with warm solar golden light (Surya's gift), the most distinctive complexion in the Mahabharata, warm and luminous",
+                    "height": "Tall and powerfully built — physically imposing enough to rival Arjuna immediately, broad-shouldered and commanding",
+                    "build": "Athletic and powerful — equal to Arjuna in archery skill, strong and battle-ready, his natural divine armor (Kavach-Kundal) is fused to his skin giving him an unearthly golden sheen across his chest and ears",
+                    "facial_features": "Strikingly handsome face with intense proud dark eyes burning with suppressed pain and fierce determination, strong angular jaw, a face that carries the permanent wound of rejection — beautiful but marked by the sorrow of being denied identity, expression shifts between fierce pride and vulnerable hurt, high sharp cheekbones",
+                    "hair": "Thick black hair in a warrior's topknot, simple and practical — the style of one who proves himself through skill not ornamentation",
+                    "distinguishing_marks": "His divine golden armor (Kavach) — literally fused to his skin across his chest, golden and gleaming, impossible to remove without killing him (until he donates it). His golden earrings (Kundal) — also divine and fused, giving his ears a distinctive golden glow. After donating these: visible surgical scars on his chest and ears, bleeding and vulnerable but more nobly beautiful for the sacrifice."
+                },
+                "wardrobe_and_adornments": {
+                    "clothing": "Initially simple practical warrior's clothing (he's a charioteer's son without royal wardrobe), then after Duryodhana's patronage — rich red and gold garments of the King of Anga, but always slightly simpler than true-born princes",
+                    "jewelry": "The divine Kavach (chest armor fused to skin) and Kundal (earrings fused to ears) — golden and glowing, later: the crown of Anga given by Duryodhana, gold armlets, the friendship bracelet Duryodhana ties on him",
+                    "weapons_carried": "A magnificent bow called Vijaya (obtained from Parashurama), a quiver of arrows, his archery skill equals or exceeds Arjuna's, also possesses the Shakti weapon (given by Indra in exchange for his armor) — a single-use invincible javelin"
+                },
+                "audio_and_voice_characteristics": {
+                    "tone": "Fierce, proud, deeply wounded, the voice of suppressed pain channeled into aggressive determination — carries the permanent edge of social rejection, but transforms into genuine warmth with Duryodhana, and devastating gentleness when giving charity",
+                    "pitch": "Powerful warm baritone with a solar golden quality — his voice literally carries warmth, fierce and cutting when challenged, warm when with friends, gentle and absolute when giving (he cannot refuse any request made of him — his fatal generosity)",
+                    "speech_style": "Speaks with fierce pride that masks deep hurt, challenges social hierarchy with passionate arguments, fiercely loyal and eloquent when defending Duryodhana, his response to Kunti's revelation ('You come to me NOW?') is one of the most devastating emotional scenes in literature",
+                    "emotional_baseline": "Wounded fierce pride, suppressed identity crisis, fierce loyalty to the one person who accepted him (Duryodhana), devastating generosity that he cannot control (even giving away his invulnerability), the tragic heroism of fighting on the wrong side knowingly"
+                },
+                "cinematic_generation_prompts": {
+                    "visual_prompt": "Stunning cinematic portrait of young Karna, age 20, at the tournament. Radiant golden-bronze sun-kissed skin with solar glow. Strikingly handsome face with intense proud-but-wounded dark eyes, strong jaw. Powerfully athletic build with divine golden armor (Kavach) fused to his chest, golden earrings (Kundal) glowing on his ears. Simple warrior's clothing beneath the golden armor. Drawing a magnificent bow, challenging Arjuna in the arena. Grand tournament arena, crowd staring. 3D Pixar style, dramatic warm golden lighting, photorealistic, 8k.",
+                    "audio_prompt": "A powerful, warm male baritone with solar golden quality. Fierce pride masking deep hurt. Devastatingly gentle when giving. Age approximately 20 years."
+                }
+            },
+            {
+                "timeline_stage": "War / Kurukshetra — Final Battle",
+                "age_approximation": 48,
+                "context_description": "Karna as commander of the Kaurava forces — fighting his own brothers (knowingly), using and losing the Shakti weapon on Ghatotkacha instead of Arjuna, and finally dying in battle against Arjuna with curses and misfortune stacked against him.",
+                "physical_appearance": {
+                    "skin_tone": "His golden-bronze skin now exposed and vulnerable — the divine armor donated to Indra, visible scars where the Kavach was cut from his chest, bleeding from the sacrifice, still radiating solar warmth but now mortal",
+                    "height": "Imposing battle-commander stature — carries the weight of leading an army and the knowledge that he fights against his own brothers",
+                    "build": "Battle-scarred and vulnerable without his divine armor, still powerfully muscular and deadly skilled, but fighting with every cosmic disadvantage (Parashurama's curse, his sinking chariot wheel, Indra's deception) — a man fighting fate itself",
+                    "facial_features": "Magnificent tragic face — the fierce proud eyes now carrying full knowledge of his true identity (Kunti told him), fighting his own brothers knowingly, choosing loyalty to Duryodhana over blood relation, the most heartbreaking expression in the epic — a man who chose honor and friendship over survival, visible scars where his golden earrings were cut away",
+                    "hair": "Battle-worn hair, his golden earring-glow gone — the ears now scarred and vulnerable, a warrior stripped of divine protection by his own generosity",
+                    "distinguishing_marks": "Without his divine armor he is vulnerable for the first time — visible cut-scars on his chest where the Kavach was removed, empty ear-lobes where the Kundal were cut, he fights while his chariot wheel sinks into the earth (Parashurama's curse), his bow-string snaps (another curse), everything going wrong — and he fights on regardless"
+                },
+                "wardrobe_and_adornments": {
+                    "clothing": "Battle armor provided by Duryodhana — crimson and gold war garments, the King of Anga's battle standard, but no divine protection",
+                    "jewelry": "The crown of Anga, Duryodhana's battle gifts — heavy war armor trying to compensate for lost divine protection, a sun-emblem on his breastplate honoring his father Surya",
+                    "weapons_carried": "The bow Vijaya, arrows, but critically: the Shakti weapon is already used (on Ghatotkacha instead of Arjuna) — he fights his final battle knowing he wasted his only sure-kill weapon, his archery skill remains supreme but the universe itself conspires against him"
+                },
+                "audio_and_voice_characteristics": {
+                    "tone": "Tragically heroic, fighting against fate itself, the voice of a man who chose death knowingly — speaks with the clarity of one who has accepted his destiny and fights for honor rather than survival",
+                    "pitch": "Powerful but strained baritone — his solar warmth now mixed with the cold knowledge of approaching death, hoarse from battle but magnificent in his final speeches, the most beautiful voice dying the most beautiful death",
+                    "speech_style": "Fights with calm heroic acceptance, his battle commands are precise and skilled, when his chariot wheel sinks he appeals to Arjuna's honor for a fair fight pause (which is denied, on Krishna's advice), his final moments are silent and magnificent — a warrior who has made peace with his fate",
+                    "emotional_baseline": "Tragic acceptance of cosmic injustice, fierce pride in choosing loyalty over survival, the supreme warrior dying with every disadvantage — and dying magnificently, the most sympathetic death in the entire epic"
+                },
+                "cinematic_generation_prompts": {
+                    "visual_prompt": "The most emotionally devastating battle scene — Karna at Kurukshetra, age 48. Golden-bronze skin now scarred and vulnerable (armor donated). Magnificent tragic face knowing his fate. Crimson and gold battle armor, sun-emblem breastplate. Standing on his chariot with one wheel sinking into the earth, trying to lift it with one hand while fighting with the other. Arjuna's chariot approaching. Sunset battlefield, cosmic injustice visible in the skewed odds. 3D Pixar style, tragically heroic golden-sunset lighting, photorealistic, 8k.",
+                    "audio_prompt": "A powerful but strained baritone with dying solar warmth. Hoarse from battle, magnificent in final acceptance. The most beautiful voice dying beautifully. Age approximately 48 years."
+                }
+            }
+        ]
+    }
+}

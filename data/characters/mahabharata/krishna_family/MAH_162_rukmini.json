@@ -1,0 +1,68 @@
+{
+    "RUKMINI": {
+        "metadata": {
+            "character_id": "MAH_162",
+            "name": "Rukmini",
+            "aliases": [
+                "Rukmini Devi",
+                "Sri Devi",
+                "Krishna-priya"
+            ],
+            "epic": "Mahabharata",
+            "primary_role": "Chief queen of Krishna / Avatar of Lakshmi / Princess who wrote a love letter to Krishna requesting her own rescue",
+            "gender": "Female",
+            "ethnicity_cultural_context": "Ancient Indian (Princess of Vidarbha kingdom, chief queen of Dwaraka)",
+            "family_relations": {
+                "father": "Bhishmaka (King of Vidarbha)",
+                "mother": null,
+                "spouse": "Krishna",
+                "siblings": [
+                    "Rukmi (brother)"
+                ],
+                "children": [
+                    "Pradyumna"
+                ],
+                "guru": null
+            },
+            "divine_origin": "Avatar of Goddess Lakshmi — the divine consort of Vishnu incarnated alongside Krishna, wrote the famous love-letter requesting rescue",
+            "tags": [
+                "queen",
+                "avatar",
+                "wife",
+                "divine",
+                "princess",
+                "lakshmi"
+            ]
+        },
+        "timelines": [
+            {
+                "timeline_stage": "Queen / Elopement with Krishna",
+                "age_approximation": 18,
+                "context_description": "Princess Rukmini writes a bold love letter to Krishna asking him to rescue her from a forced marriage to Shishupala, and Krishna arrives to carry her away on his chariot.",
+                "physical_appearance": {
+                    "skin_tone": "Luminous golden complexion — the divine glow of Lakshmi incarnate, radiant warmth that fills any room, skin like molten gold",
+                    "height": "Tall and graceful, regal bearing of a princess who knows exactly who she is and what she wants",
+                    "build": "Perfectly proportioned feminine figure, graceful and dignified, the living embodiment of Lakshmi's divine beauty and prosperity",
+                    "facial_features": "Breathtakingly beautiful face with large gentle eyes radiating both love and fierce intelligence, the kind of beauty that is warm rather than cold, welcoming dimpled smile, arched eyebrows, a face that inspired the most famous love-letter in Hindu mythology — she chose her own husband in an era when women did not, her expression shows both gentle devotion and fierce determination",
+                    "hair": "Long lustrous black hair adorned with fresh lotus flowers and gold ornaments, the most meticulously maintained hair reflecting her Lakshmi nature",
+                    "distinguishing_marks": "She radiates Lakshmi's aura of prosperity — wherever she goes, abundance follows, she is strategically brilliant (her love-letter is a masterpiece of emotional intelligence and tactical planning), she stands as Krishna's equal partner"
+                },
+                "wardrobe_and_adornments": {
+                    "clothing": "Magnificent crimson and gold sari of the finest Vidarbha silk, later: Dwaraka royal queen's attire — ocean-themed jewelry and fabrics reflecting the island-city",
+                    "jewelry": "The most magnificent queen's jewelry — golden crown set with diamonds, cascading gold necklaces, elaborate gold and ruby bridal ornaments, Lakshmi's signature lotus motifs throughout, armlets, bangles, waist-chain, all in pure gold",
+                    "weapons_carried": "None — her strategic intelligence is her weapon, her love-letter demonstrates more tactical brilliance than most warriors' battle plans"
+                },
+                "audio_and_voice_characteristics": {
+                    "tone": "Warm, confident, gently authoritative — the voice of a woman who chose her destiny, loving but never submissive, the equal partner of the Supreme Being",
+                    "pitch": "Rich warm mezzo-soprano — golden-toned, confident, melodious, the kind of voice that commands loyalty through warmth rather than force",
+                    "speech_style": "Speaks with quiet confidence and warm authority, her love-letter to Krishna is boldly direct yet elegantly composed, addresses Krishna as an equal, manages the enormous household of Dwaraka with efficient grace",
+                    "emotional_baseline": "Serene confident love, strategic intelligence wrapped in warmth, the quiet power of Lakshmi manifest — prosperity and devotion in perfect balance"
+                },
+                "cinematic_generation_prompts": {
+                    "visual_prompt": "Radiant cinematic portrait of Princess Rukmini, age 18. Luminous golden complexion glowing with Lakshmi's divine warmth. Breathtakingly beautiful face with gentle intelligent eyes, dimpled warm smile, lotus flowers in lustrous black hair. Magnificent crimson and gold silk sari, cascading gold and diamond jewelry. Standing in a temple, holding a love-letter in one hand, looking toward the horizon with determined hope — awaiting Krishna's arrival. Grand Vidarbha palace temple, warm golden divine lighting. 3D Pixar style, radiant divine warmth, photorealistic, 8k.",
+                    "audio_prompt": "A rich, warm female mezzo-soprano with golden tones. Confident, melodious, warmly authoritative. The voice of Lakshmi manifest. Age approximately 18 years."
+                }
+            }
+        ]
+    }
+}

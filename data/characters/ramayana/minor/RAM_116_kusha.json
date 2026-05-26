@@ -1,0 +1,65 @@
+{
+    "KUSHA": {
+        "metadata": {
+            "character_id": "RAM_116",
+            "name": "Kusha",
+            "aliases": [
+                "Kush"
+            ],
+            "epic": "Ramayana",
+            "primary_role": "Younger twin son of Rama and Sita / Raised by Valmiki / Warrior prince and singer of the Ramayana",
+            "gender": "Male",
+            "ethnicity_cultural_context": "Ancient Indian (son of Rama and Sita, raised in Valmiki's ashram)",
+            "family_relations": {
+                "father": "Sri Rama",
+                "mother": "Sita",
+                "spouse": null,
+                "siblings": [
+                    "Lava (twin)"
+                ],
+                "children": [],
+                "guru": "Valmiki"
+            },
+            "divine_origin": "Son of the avatar of Vishnu and avatar of Lakshmi — inherits divine powers from both parents",
+            "tags": [
+                "prince",
+                "twin",
+                "warrior",
+                "son",
+                "ashram_raised",
+                "divine_heir",
+                "singer"
+            ]
+        },
+        "timelines": [
+            {
+                "timeline_stage": "Young Warrior / Singer of Ramayana",
+                "age_approximation": 12,
+                "context_description": "Kusha, the slightly calmer twin, is an exceptional singer who performs the Ramayana alongside Lava at Rama's court, moving everyone to tears.",
+                "physical_appearance": {
+                    "skin_tone": "Golden-fair complexion inherited from Sita — luminous and warm, where Lava mirrors Rama's dark complexion, Kusha mirrors Sita's golden beauty",
+                    "height": "Same height as Lava, slightly more slender and graceful, bearing of a natural musician-warrior",
+                    "build": "Lean and graceful build — more the artist's physique than the warrior's, though equally skilled in combat, movements are more fluid and musical",
+                    "facial_features": "Sita's face in a boy — golden luminous features with large expressive eyes, more contemplative and sensitive expression than Lava's mischievous one, gentle warm smile, the face of a born poet and singer",
+                    "hair": "Thick black hair in a neat topknot — slightly better groomed than Lava's wild style, adorned with a small lotus",
+                    "distinguishing_marks": "Where Lava resembles Rama, Kusha resembles Sita — this duality is their defining visual mark. His singing voice is supernaturally beautiful, inheriting Sita's melodious quality"
+                },
+                "wardrobe_and_adornments": {
+                    "clothing": "Simple ashram boy's clothing similar to Lava — bark-cloth or cotton dhoti, bare-chested, but Kusha keeps his clothes slightly neater",
+                    "jewelry": "Sacred thread, a small lotus tucked behind his ear, a simple pendant from Sita — ashram simplicity with artistic touches",
+                    "weapons_carried": "A boy-sized bow and arrows, a bamboo flute (he's also a musician), small practice weapons"
+                },
+                "audio_and_voice_characteristics": {
+                    "tone": "Sweet, melodious, more thoughtful than Lava, the voice of a born singer and poet — his singing of the Ramayana makes kingdoms weep",
+                    "pitch": "Pure sweet boy-soprano — arguably the most beautiful voice in the epic, musical perfection, clear and bell-like, the singing voice that moves Rama to tears",
+                    "speech_style": "Speaks more softly and thoughtfully than Lava, his speech naturally has a musical cadence, sings rather than speaks when emotional, his recitation of the Ramayana is so beautiful that even Rama (unknowingly his father) weeps",
+                    "emotional_baseline": "Gentle thoughtful sensitivity, artistic soul, deep love for his mother and brother, the quiet confidence of one whose art is perfect"
+                },
+                "cinematic_generation_prompts": {
+                    "visual_prompt": "Tender cinematic shot of young Kusha, age 12, twin son of Sita. Luminous golden-fair complexion (identical to Sita). Expressive gentle eyes, contemplative warm face, neat black hair with a small lotus. Lean graceful build in simple ashram clothes. Singing the Ramayana before the court of Ayodhya — mouth open in song, eyes half-closed, the entire court around him in rapt emotional attention. Golden warm court interior. 3D Pixar style, warm golden musical atmosphere, photorealistic, 8k.",
+                    "audio_prompt": "A pure, sweet boy-soprano voice of supernatural beauty. Musical perfection, clear and bell-like. The singing voice that moves gods to tears. Age approximately 12 years."
+                }
+            }
+        ]
+    }
+}

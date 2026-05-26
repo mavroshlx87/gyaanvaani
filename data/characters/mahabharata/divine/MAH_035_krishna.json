@@ -1,0 +1,114 @@
+{
+    "KRISHNA": {
+        "metadata": {
+            "character_id": "MAH_035",
+            "name": "Krishna",
+            "aliases": [
+                "Vasudeva",
+                "Govinda",
+                "Madhava",
+                "Keshava",
+                "Parthasarathi",
+                "Murari",
+                "Gopala",
+                "Kanhaiya",
+                "Shyam",
+                "Dwarkadhish",
+                "Jagannath"
+            ],
+            "epic": "Mahabharata",
+            "primary_role": "Supreme Being / Eighth Avatar of Vishnu / King of Dwaraka / Arjuna's charioteer / Speaker of the Bhagavad Gita",
+            "gender": "Male",
+            "ethnicity_cultural_context": "Ancient Indian (Yadava Dynasty, born in Mathura, raised in Vrindavan, King of Dwaraka)",
+            "family_relations": {
+                "father": "Vasudeva",
+                "mother": "Devaki",
+                "spouse": [
+                    "Rukmini (chief)",
+                    "Satyabhama",
+                    "and others"
+                ],
+                "siblings": [
+                    "Balarama (elder brother)",
+                    "Subhadra (sister)"
+                ],
+                "children": [
+                    "Pradyumna",
+                    "Samba",
+                    "Aniruddha"
+                ],
+                "guru": "Sandipani"
+            },
+            "divine_origin": "The eighth avatar of Lord Vishnu — the Supreme Godhead incarnate, the speaker of the Bhagavad Gita, the cosmic puppeteer of the Mahabharata",
+            "tags": [
+                "avatar",
+                "god",
+                "king",
+                "charioteer",
+                "philosopher",
+                "strategist",
+                "divine",
+                "cosmic",
+                "protector"
+            ]
+        },
+        "timelines": [
+            {
+                "timeline_stage": "Child / Butter Thief of Vrindavan",
+                "age_approximation": 5,
+                "context_description": "Baby Krishna — the adorable, mischievous butter thief (Makhan Chor) of Vrindavan, playing with gopas and gopis, lifting Govardhan Hill, dancing on Kaliya the serpent.",
+                "physical_appearance": {
+                    "skin_tone": "Dark blue-black (Shyam-sundara — beautifully dark), the deep luminous blue-black of a fresh rain cloud, radiating a joyful golden-blue divine glow",
+                    "height": "Small child, chubby and adorable, overflowing with divine mischief and energy",
+                    "build": "Chubby baby build — round belly from all the stolen butter and milk, plump cheeks, tiny but containing infinite cosmic power, dances and runs with divine grace",
+                    "facial_features": "The most adorable face in Indian mythology — large twinkling dark eyes full of mischief and cosmic knowledge simultaneously, round chubby cheeks smeared with butter, wide infectious smile revealing tiny teeth, small flat nose, butter smeared around his mouth, dimples, the face of infinite divine joy in baby form",
+                    "hair": "Soft curly black hair adorned with a single peacock feather (Mor-pankh) — his most iconic visual element, sometimes with butter in his curls",
+                    "distinguishing_marks": "The peacock feather in his hair is his absolute identifying mark at every age, his lips are often on a bamboo flute (Bansuri), his feet have the divine marks of Vishnu, butter is perpetually on his face and hands, his smile disarms anyone including his angry mother Yashoda"
+                },
+                "wardrobe_and_adornments": {
+                    "clothing": "Simple cowherd boy's clothing — a small bright yellow silk dhoti (Pitambara) barely covering his chubby body, sometimes bare-chested, a small peacock-feather decoration",
+                    "jewelry": "Simple — a small anklet bell (ghungroo) that jingles as he runs, a tiny necklace of sacred seeds, the peacock feather, butter-smeared hands",
+                    "weapons_carried": "His bamboo flute (Bansuri) — the most famous musical instrument in Indian mythology, also his cosmic powers hidden behind a baby's form, lifted the entire Govardhan Hill on one finger"
+                },
+                "audio_and_voice_characteristics": {
+                    "tone": "Joyfully mischievous, irresistibly charming, playful and childish on the surface but with moments of cosmic revelation that leave adults stunned",
+                    "pitch": "High-pitched childish voice — giggling, chattering, the adorable babbling of a divine child, erupts in infectious laughter, but can suddenly drop into a cosmic resonance that makes mountains tremble",
+                    "speech_style": "Baby talk mixed with cosmic revelations, steals butter while philosophizing, his innocent excuses ('I didn't steal it, Mother!') are delivered with divine charm, when serious his words reveal cosmic truths that stun adults",
+                    "emotional_baseline": "Infinite divine joy expressed through childlike mischief, the supreme god playing the game of being a human baby, cosmic love disguised as a toddler's naughtiness"
+                },
+                "cinematic_generation_prompts": {
+                    "visual_prompt": "Adorable cinematic shot of baby Krishna, age 5. Deep luminous blue-black skin glowing with divine light. Round chubby face with twinkling mischievous dark eyes, butter smeared on cheeks and mouth, wide infectious dimpled smile. Curly black hair with a peacock feather. Tiny yellow silk dhoti. Sitting with a pot of stolen butter, one hand inside the pot, other hand offering butter to his friends. Vrindavan village with thatched homes, cows, sunlight. 3D Pixar style, joyful warm golden lighting, photorealistic, 8k.",
+                    "audio_prompt": "A high-pitched, adorable childish voice, giggling and chattering. Irresistibly charming. Drops into cosmic resonance momentarily. Age approximately 5 years."
+                }
+            },
+            {
+                "timeline_stage": "Charioteer / Bhagavad Gita",
+                "age_approximation": 50,
+                "context_description": "Krishna as Arjuna's charioteer at Kurukshetra — the moment of the Bhagavad Gita, revealing his cosmic form (Vishvarupa) and delivering the most important philosophical discourse in Hinduism.",
+                "physical_appearance": {
+                    "skin_tone": "Deep luminous blue-black skin now radiating full divine energy — the darkness of the cosmic void itself, shimmering with stars when his power is revealed",
+                    "height": "Perfectly proportioned, neither too tall nor imposing — the beauty of his form is in its divine perfection rather than size, moves with absolute effortless grace",
+                    "build": "Lean and perfect — the body of a god who fights only when he chooses (he vowed not to fight at Kurukshetra), a charioteer's balanced stance, every movement supremely graceful, the body radiates a warm golden-blue aura",
+                    "facial_features": "The most beautiful male face in the Mahabharata — large all-knowing dark eyes that contain entire universes (literal, during the Vishvarupa), perfect proportioned features, gentle knowing smile that suggests he already knows how everything ends (because he does), the peacock feather still in his hair even on the battlefield, a face of cosmic calm amid chaos",
+                    "hair": "Styled black hair under a simple golden crown/diadem, the peacock feather always present, well-maintained even on the battlefield",
+                    "distinguishing_marks": "The peacock feather ALWAYS present — his eternal identifying mark. His smile is his second mark — knowing, gentle, containing all of cosmic knowledge. His flute at his waist even on the battlefield. When he reveals the Vishvarupa: infinite faces, infinite arms, infinite eyes, suns and stars within his body, all of creation visible within his cosmic form — the most overwhelming visual in all of Hindu scripture."
+                },
+                "wardrobe_and_adornments": {
+                    "clothing": "Rich golden-yellow silk robes (Pitambara) even as a charioteer, a golden upper garment, the clothes of a king serving as a driver — deliberate cosmic humility",
+                    "jewelry": "A golden diadem (not a battle crown — he's a charioteer), the Kaustubha gem gleaming on his chest (his most sacred jewel), the Vaijayanti garland (garland of victory that never wilts), Sudarshana Chakra on his right hand (though he vowed not to use it), golden armlets, a flute tucked at his waist",
+                    "weapons_carried": "He vowed not to lift weapons at Kurukshetra — but carries the Sudarshana Chakra (divine discus), the Kaumodaki mace, the Sharnga bow, and the Nandaka sword, all at his waist or on his person. His most devastating weapon is the Bhagavad Gita — pure cosmic truth delivered in 700 verses."
+                },
+                "audio_and_voice_characteristics": {
+                    "tone": "Profoundly calm, all-knowing, gently amused, speaking cosmic truths with the ease of everyday conversation, can shift from gentle charm to cosmic authority that shakes reality — the most complex and versatile voice in all literature",
+                    "pitch": "Warm, rich, perfectly modulated baritone — the most beautiful male voice in the epic, resonant with cosmic undertones, when delivering the Gita his voice takes on dimensional depth as if speaking from multiple planes simultaneously",
+                    "speech_style": "Speaks the Bhagavad Gita — 700 verses of the most profound philosophy ever delivered, in a conversational yet cosmic tone, uses every rhetorical device: logic, emotion, cosmic revelation, gentle persuasion, absolute command, starts gentle and builds to the overwhelming revelation of the Vishvarupa, then returns to gentle counsel, addresses Arjuna as friend ('Sakha') and warrior ('Partha') alternately",
+                    "emotional_baseline": "Cosmic tranquility, all-knowing amusement at the play of the universe he himself orchestrated, profound love for Arjuna and humanity, the complete divine personality — simultaneously the most human and the most divine character ever written"
+                },
+                "cinematic_generation_prompts": {
+                    "visual_prompt": "The most sacred scene in Hindu scripture — Krishna delivering the Bhagavad Gita to Arjuna on the chariot at Kurukshetra, age appears 50. Deep luminous blue-black divine skin, radiant golden-blue aura. Perfectly beautiful face with all-knowing dark eyes and gentle cosmic smile, peacock feather in hair, golden diadem, Kaustubha gem on chest. Rich golden-yellow silk robes. Standing on the golden chariot, one hand on the reins, other hand raised in teaching mudra. Arjuna beside him with bow lowered. Vast battlefield stretching to the horizon, two armies facing each other. 3D Pixar style, transcendent divine lighting with golden-blue cosmic rays, photorealistic, 8k.",
+                    "audio_prompt": "A warm, profoundly beautiful male baritone with cosmic undertones. All-knowing, gently amused, speaking cosmic truths conversationally. Dimensional depth. Age appears approximately 50."
+                }
+            }
+        ]
+    }
+}

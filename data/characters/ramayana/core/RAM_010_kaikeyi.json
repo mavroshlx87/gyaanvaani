@@ -1,0 +1,66 @@
+{
+    "KAIKEYI": {
+        "metadata": {
+            "character_id": "RAM_010",
+            "name": "Kaikeyi",
+            "aliases": [
+                "Kaikeyi Devi",
+                "Bharat-mata",
+                "The Hunchback's Queen"
+            ],
+            "epic": "Ramayana",
+            "primary_role": "Second Queen of Ayodhya / Mother of Bharata / Tragic catalyst of Rama's exile",
+            "gender": "Female",
+            "ethnicity_cultural_context": "Ancient Indian (Princess of Kekaya kingdom, second Queen of Ayodhya)",
+            "family_relations": {
+                "father": "Ashwapati (King of Kekaya)",
+                "mother": null,
+                "spouse": "Dasharatha",
+                "siblings": [],
+                "children": [
+                    "Bharata"
+                ],
+                "guru": null
+            },
+            "divine_origin": null,
+            "tags": [
+                "queen",
+                "mother",
+                "catalyst",
+                "complex",
+                "warrior_queen",
+                "tragic"
+            ]
+        },
+        "timelines": [
+            {
+                "timeline_stage": "Queen / The Boons Demanded",
+                "age_approximation": 40,
+                "context_description": "Kaikeyi — once Dasharatha's most beloved queen and a fearless warrior who saved his life in battle — is manipulated by Manthara into demanding two boons: Bharata's coronation and Rama's exile.",
+                "physical_appearance": {
+                    "skin_tone": "Strikingly beautiful fair complexion, porcelain-like skin that flushed with emotion, still radiant despite age",
+                    "height": "Tall and statuesque, once a warrior princess — carries herself with military bearing",
+                    "build": "Still strong and athletic — she once rode into battle with Dasharatha, proud posture, confident physical presence, ages gracefully",
+                    "facial_features": "Stunningly beautiful face that becomes terrible in anger — large flashing dark eyes that can be loving or burning with ambition, sharp aristocratic nose, full commanding lips, defined cheekbones, expression shifts dramatically between warmth and cold calculation when Manthara's poison takes hold",
+                    "hair": "Long thick black hair with barely any grey (her vanity), elaborately styled with gold ornaments, falls in dramatic waves when loose",
+                    "distinguishing_marks": "The most physically formidable of the three queens — she has warrior's calluses on her chariot-driving hands, a battle scar on her left shoulder (from saving Dasharatha's life) that she hides beneath silk"
+                },
+                "wardrobe_and_adornments": {
+                    "clothing": "Rich elaborate saris in deep jewel tones — ruby red, emerald green, royal purple — more flashy and dramatic than Kausalya's understated elegance, heavy silk with gold and silver work",
+                    "jewelry": "The most ornately jeweled queen — heavy gold sets with precious stones, dramatic chandelier earrings, stacks of gold bangles, multiple necklaces, ornate nose ring, elaborate Maang Tikka, each piece a gift from the besotted Dasharatha",
+                    "weapons_carried": "None in the palace — but she was once a charioteer warrior and can still handle a bow"
+                },
+                "audio_and_voice_characteristics": {
+                    "tone": "Complex and emotionally volatile — ranges from charming warmth to cold steely demand, passionate and dramatic",
+                    "pitch": "Dramatic soprano — powerful and commanding, capable of sweet persuasion or cutting ice",
+                    "speech_style": "Speaks with the authority of a favored queen, can be sweetly manipulative or harshly demanding, uses emotional blackmail masterfully, her voice drops to dangerous quiet before making devastating demands",
+                    "emotional_baseline": "Conflicted — genuine love for Rama mixed with maternal ambition for Bharata, vulnerability to Manthara's manipulation, eventually devastated by guilt"
+                },
+                "cinematic_generation_prompts": {
+                    "visual_prompt": "Dramatic cinematic shot of Queen Kaikeyi in the Anger Chamber (Kopa Bhavan) of the palace, age 40. Strikingly fair porcelain complexion flushed with emotion. Beautiful fierce face with flashing dark eyes, hair dramatically loose and wild. Wearing a rich ruby-red silk sari with heavy gold work, elaborate chandelier earrings, stacks of gold bangles. Lying on the bare floor amid scattered jewelry (discarded in theatrical grief), hair disheveled, demanding the two boons from a devastated Dasharatha who kneels beside her. Dark dramatic palace chamber with silk curtains. 3D Pixar style, dramatic emotional lighting, photorealistic, 8k.",
+                    "audio_prompt": "A dramatic, powerful female soprano voice. Capable of sweet warmth or ice-cold demands. Emotionally volatile and commanding. Age approximately 40 years."
+                }
+            }
+        ]
+    }
+}

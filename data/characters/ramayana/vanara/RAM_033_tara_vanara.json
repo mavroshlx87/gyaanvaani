@@ -1,0 +1,65 @@
+{
+    "TARA_VANARA": {
+        "metadata": {
+            "character_id": "RAM_033",
+            "name": "Tara",
+            "aliases": [
+                "Tara (Vanara Queen)",
+                "Vali-patni"
+            ],
+            "epic": "Ramayana",
+            "primary_role": "Queen of Kishkindha / Wife of Vali / Wisest woman among the Vanaras / Later wife of Sugriva",
+            "gender": "Female",
+            "ethnicity_cultural_context": "Vanara (divine monkey race), Queen of Kishkindha",
+            "family_relations": {
+                "father": "Sushena (Vanara physician)",
+                "mother": null,
+                "spouse": "Vali (later Sugriva)",
+                "siblings": [],
+                "children": [
+                    "Angada"
+                ],
+                "guru": null
+            },
+            "divine_origin": "Daughter of Sushena the divine physician — blessed with medicinal knowledge and prophetic wisdom",
+            "tags": [
+                "queen",
+                "vanara",
+                "wise",
+                "mother",
+                "advisor",
+                "beautiful"
+            ]
+        },
+        "timelines": [
+            {
+                "timeline_stage": "Queen / Vali's Death",
+                "age_approximation": 35,
+                "context_description": "Tara warns Vali not to fight Sugriva again (suspecting Rama's alliance), and after Vali's death delivers one of the most powerful grief-speeches in the epic.",
+                "physical_appearance": {
+                    "skin_tone": "Soft silver-white fur with a pale golden undertone — uniquely beautiful among Vanaras, delicate and luminous",
+                    "height": "Graceful and tall for a female Vanara, elegant bearing combining queenly dignity with simian grace",
+                    "build": "Slender and graceful Vanara feminine form, strong but not bulky, graceful long arms and an elegant tail",
+                    "facial_features": "Beautiful feminine simian face with large deep wise brown eyes that see the future, delicate features for a Vanara, expression of worried wisdom before Vali's fight, devastating grief after, long eyelashes, gentle mouth",
+                    "hair": "Soft silver-white fur around her face like a pale halo, neatly groomed, longer and silkier than male Vanaras",
+                    "distinguishing_marks": "Known as the wisest of all Vanaras — her counsel was always right (Vali's fatal mistake was ignoring her), her grief over Vali's body is one of the most moving scenes in the epic"
+                },
+                "wardrobe_and_adornments": {
+                    "clothing": "Elegant queen's garments — a draped golden and white cloth, simpler than human queen's saris but distinctively regal for a Vanara",
+                    "jewelry": "A delicate golden crown, flower garlands, simple gold bangles and earrings — elegant but not ostentatious",
+                    "weapons_carried": "None — her wisdom and words are her weapons, she also possesses her father Sushena's medicinal knowledge"
+                },
+                "audio_and_voice_characteristics": {
+                    "tone": "Wise, prophetic, deeply emotional — ranges from calm sage-like counsel to devastating raw grief, one of the great tragic voices of the epic",
+                    "pitch": "Clear mezzo-soprano with unusual depth and resonance, carries prophetic authority, shatters into raw grief when Vali dies",
+                    "speech_style": "Speaks with sage-like wisdom and authority that even kings listen to, her warnings are specific and prescient, her grief-speech over Vali's body is delivered in powerful poetic verse, she addresses Rama with respectful but sharp moral questioning",
+                    "emotional_baseline": "Prophetic wisdom, deep love, devastating grief, the complex emotions of a woman who was always right but never heeded"
+                },
+                "cinematic_generation_prompts": {
+                    "visual_prompt": "Emotionally powerful cinematic shot of Vanara Queen Tara, age 35. Soft silver-white fur with golden undertone, beautiful feminine simian face with deep wise brown eyes. Delicate golden crown, flower garlands, golden garments. Kneeling over the fallen body of Vali, face contorted in devastating grief, tears streaming. Forest clearing with dramatic light. 3D Pixar style, emotionally intense, photorealistic, 8k.",
+                    "audio_prompt": "A clear female mezzo-soprano with prophetic authority. Ranges from calm sage-like wisdom to devastating raw grief. Age approximately 35 years."
+                }
+            }
+        ]
+    }
+}

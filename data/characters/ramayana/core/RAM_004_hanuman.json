@@ -1,0 +1,128 @@
+{
+    "HANUMAN": {
+        "metadata": {
+            "character_id": "RAM_004",
+            "name": "Hanuman",
+            "aliases": [
+                "Anjaneya",
+                "Maruti",
+                "Bajrangbali",
+                "Pavanputra",
+                "Kesari-nandana",
+                "Sankat Mochan",
+                "Mahavira",
+                "Vayuputra",
+                "Hanumanji"
+            ],
+            "epic": "Ramayana",
+            "primary_role": "Supreme Devotee of Rama / Vanara warrior / Son of Vayu / Symbol of devotion, strength, and humility",
+            "gender": "Male",
+            "ethnicity_cultural_context": "Vanara (divine monkey race), Son of the Wind God Vayu, Kishkindha",
+            "family_relations": {
+                "father": "Vayu (divine), Kesari (mortal)",
+                "mother": "Anjana",
+                "spouse": null,
+                "siblings": [],
+                "children": [],
+                "guru": "Surya (the Sun God)"
+            },
+            "divine_origin": "Son of Vayu (Wind God), blessed by all major deities, immortal (Chiranjivi)",
+            "tags": [
+                "devotee",
+                "warrior",
+                "divine",
+                "vanara",
+                "hero",
+                "immortal",
+                "shapeshifter",
+                "celibate"
+            ]
+        },
+        "timelines": [
+            {
+                "timeline_stage": "Child / Reaching for the Sun",
+                "age_approximation": 5,
+                "context_description": "Young Hanuman mistakes the rising sun for a ripe fruit and leaps toward it, crossing the sky. Indra strikes him with the Vajra, breaking his jaw (Hanu = jaw).",
+                "physical_appearance": {
+                    "skin_tone": "Golden-tawny fur covering a radiant copper-brown skin beneath, baby monkey with divine glow",
+                    "height": "Small child-size but with disproportionately powerful limbs even as a baby",
+                    "build": "Chubby baby monkey body but with unusually muscular legs and arms for a child, long curling tail with a golden tuft",
+                    "facial_features": "Round baby face with large expressive curious golden eyes, flat broad nose, wide open-mouthed smile showing small teeth, soft rounded chin (before Vajra injury), extremely cute and endearing expression",
+                    "hair": "Short golden-brown fur on the head, soft and fluffy, sticking up in all directions",
+                    "distinguishing_marks": "Tiny golden earrings (gift from his mother Anjana), a sacred thread already around his chest, golden divine aura — unusually bright for a child"
+                },
+                "wardrobe_and_adornments": {
+                    "clothing": "Simple loincloth (Kaupina) in bright red or saffron, befitting a child",
+                    "jewelry": "Tiny gold earrings, a small rudraksha mala around the neck given by his mother",
+                    "weapons_carried": "None — but his fists and tail are weapons enough even as a child"
+                },
+                "audio_and_voice_characteristics": {
+                    "tone": "Adorable, curious, mischievous, excitable, bursting with boundless energy and innocence",
+                    "pitch": "High-pitched childish voice, chattery and fast, full of wonder and laughter",
+                    "speech_style": "Rapid-fire questions, excited exclamations, mimics elders, talks to birds and animals, boundless curiosity expressed verbally",
+                    "emotional_baseline": "Pure unbounded joy, insatiable curiosity, childlike fearlessness, mischievous energy"
+                },
+                "cinematic_generation_prompts": {
+                    "visual_prompt": "Adorable cinematic shot of baby Hanuman, age 5, leaping toward the rising sun. Golden-tawny fur, large curious golden eyes, chubby baby monkey face with wide joyful smile. Tiny muscular limbs, long curling golden tail. Wearing a small red loincloth. Soaring through a golden dawn sky with clouds and birds, the massive orange sun filling the frame ahead. Golden divine aura streaming behind him. 3D Pixar style, vibrant warm sunrise colors, photorealistic, 8k, joyful and dynamic.",
+                    "audio_prompt": "A high-pitched, adorable childish voice bursting with curiosity and wonder. Chattery, fast, laughing, full of innocent excitement. Age approximately 5 years."
+                }
+            },
+            {
+                "timeline_stage": "Prime / Lanka Mission",
+                "age_approximation": 30,
+                "context_description": "At the peak of his power, Hanuman leaps across the ocean to Lanka to find Sita, battles Rakshasa forces single-handedly, and sets Lanka ablaze with his burning tail.",
+                "physical_appearance": {
+                    "skin_tone": "Rich golden-copper skin beneath dense tawny-golden fur that gleams in sunlight, muscular body radiating divine power",
+                    "height": "Towering and imposing — grows to enormous size at will, normally stands 7-8 feet tall, can expand to fill the sky",
+                    "build": "Massively muscular — barrel chest wider than two men, arms like tree trunks, thighs like pillars, incredibly defined musculature, his tail is thick and powerful enough to crush boulders, veins visible on his enormous arms",
+                    "facial_features": "Fierce simian face with large blazing golden eyes radiating determination and devotion, broad flat nose, powerful jaw (repaired by divine blessing), expression combines fierce warrior intensity with underlying gentle devotion, brow ridges prominent, noble bearing despite animal features",
+                    "hair": "Golden-brown mane of fur around the face and shoulders (like a lion's mane), wild and windswept from his ocean crossing",
+                    "distinguishing_marks": "His tail — enormously long, muscular, prehensile, and indestructible. When he opens his chest, the images of Rama and Sita are visible in his heart. His body cannot be permanently damaged. Faint scars from Indra's Vajra on his jaw."
+                },
+                "wardrobe_and_adornments": {
+                    "clothing": "A bright vermillion/saffron dhoti or loincloth, sometimes a battle garment wrapped warrior-style across one shoulder, leaving the massive chest bare",
+                    "jewelry": "A heavy golden mace-shaped pendant around his neck, golden armlets that strain against his biceps, a sacred thread, rudraksha mala, vermillion tilak on his forehead",
+                    "weapons_carried": "A massive golden mace (Gada) capable of shattering mountains, his fists, his tail — he rarely needs other weapons. Can uproot mountains and use them as weapons."
+                },
+                "audio_and_voice_characteristics": {
+                    "tone": "Thunderously powerful yet surprisingly gentle, booming voice that can carry across oceans, reverent and humble when speaking of Rama",
+                    "pitch": "Deep powerful bass-baritone that shakes the ground, can modulate to a gentle warm rumble when speaking to Sita",
+                    "speech_style": "Roars battle cries that terrify armies ('Jai Shri Ram!'), speaks with humble devotion and folded hands before Rama, eloquent and wise when acting as ambassador, uses formal diplomatic language when addressing Ravana",
+                    "emotional_baseline": "Absolute unwavering devotion to Rama, fierce protective fury toward evil, gentle compassion toward the innocent, humble despite his cosmic power"
+                },
+                "cinematic_generation_prompts": {
+                    "visual_prompt": "Epic cinematic shot of Hanuman at his peak, age 30, standing on a rocky outcrop overlooking the burning city of Lanka. Towering 8-foot muscular figure with golden-copper skin and tawny fur gleaming in firelight. Massive barrel chest, arms like tree trunks, powerful golden tail raised high. Fierce blazing golden eyes, golden mane of fur, vermillion tilak. Wearing saffron loincloth, golden armlets straining on massive biceps. Holding an enormous golden mace. Background: Lanka in flames, orange and red sky, ocean visible. 3D Pixar style, epic dramatic lighting, photorealistic, 8k, heroic and awe-inspiring.",
+                    "audio_prompt": "A deep, thunderously powerful male bass-baritone voice that shakes the ground. Can modulate from earth-shaking battle roars ('Jai Shri Ram!') to gentle humble devotion. Age approximately 30 years."
+                }
+            },
+            {
+                "timeline_stage": "Eternal Devotee / Chiranjivi",
+                "age_approximation": 0,
+                "context_description": "Hanuman as the eternal immortal devotee — timeless, appearing across ages wherever Rama's name is chanted. The beloved deity worshipped across India.",
+                "physical_appearance": {
+                    "skin_tone": "Ageless golden-copper radiance, fur gleaming with eternal divine light, body untouched by time",
+                    "height": "Varies at will — from normal human size to cosmic proportions that fill the universe",
+                    "build": "Eternally powerful, massively muscular but with a serene settled quality, his strength is infinite and held in perfect restraint",
+                    "facial_features": "Serene simian face showing eternal wisdom and devotion, eyes half-closed in meditation or fully blazing with devotion when hearing Rama's name, gentle knowing smile, the face of one who has witnessed all of time",
+                    "hair": "Long flowing golden mane, perfectly maintained, shimmering with divine light",
+                    "distinguishing_marks": "His chest perpetually radiating the images of Rama and Sita from within, golden divine aura constant and blazing, sitting in eternal meditation posture or standing in eternal service"
+                },
+                "wardrobe_and_adornments": {
+                    "clothing": "Rich vermillion-saffron dhoti of divine fabric, sometimes bare-chested showing the Rama-Sita images in his heart, draped in divine flowers",
+                    "jewelry": "Golden crown given by Rama himself, celestial armlets that glow with power, garlands of divine flowers that never wilt, sacred thread, rudraksha mala",
+                    "weapons_carried": "The eternal golden Gada (mace), but in this form weapons are rarely needed — his devotion itself is the ultimate force"
+                },
+                "audio_and_voice_characteristics": {
+                    "tone": "Infinitely warm and gentle, the voice of cosmic devotion, reassuring to all devotees, protective and all-encompassing",
+                    "pitch": "Deep resonant bass that echoes through dimensions, warm and rumbling like distant thunder combined with a mother's lullaby",
+                    "speech_style": "Chants Rama's name in endless melodious repetition, speaks with infinite patience and compassion to devotees, his very breath is 'Ram Ram Ram'",
+                    "emotional_baseline": "Infinite devotion, cosmic serenity, all-encompassing protection, the joy of eternal service"
+                },
+                "cinematic_generation_prompts": {
+                    "visual_prompt": "Transcendent cinematic portrait of Hanuman as the eternal devotee, ageless and divine. Golden-copper radiance with blazing divine aura. Serene simian face with half-closed eyes in deep meditation. Sitting in lotus position on a golden peak above clouds, with his chest open revealing a glowing golden image of Rama and Sita in his heart. Rich vermillion dhoti, golden crown, celestial garlands. Cosmic background with stars and divine light. 3D Pixar style, transcendent golden lighting, photorealistic, 8k, sacred and awe-inspiring.",
+                    "audio_prompt": "A deep, infinitely resonant male bass voice echoing through dimensions. Warm, rumbling, cosmic. Chants 'Ram Ram Ram' in endless melodious devotion. Ageless and eternal."
+                }
+            }
+        ]
+    }
+}

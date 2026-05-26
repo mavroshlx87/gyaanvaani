@@ -1,0 +1,64 @@
+{
+    "DHRISHTADYUMNA": {
+        "metadata": {
+            "character_id": "MAH_050",
+            "name": "Dhrishtadyumna",
+            "aliases": [
+                "Dhrishtadyumna",
+                "Panchala-putra"
+            ],
+            "epic": "Mahabharata",
+            "primary_role": "Commander-in-chief of the Pandava army / Born from fire to kill Drona / Twin brother of Draupadi",
+            "gender": "Male",
+            "ethnicity_cultural_context": "Ancient Indian (Panchala kingdom, born from sacred fire alongside Draupadi)",
+            "family_relations": {
+                "father": "Drupada",
+                "mother": "Born from fire",
+                "spouse": null,
+                "siblings": [
+                    "Draupadi (twin)"
+                ],
+                "children": [],
+                "guru": "Drona (ironically)"
+            },
+            "divine_origin": "Born from the sacred fire specifically destined to kill Dronacharya — his destiny was written at birth",
+            "tags": [
+                "warrior",
+                "commander",
+                "fire_born",
+                "destined",
+                "pandava_ally"
+            ]
+        },
+        "timelines": [
+            {
+                "timeline_stage": "Commander / Kurukshetra",
+                "age_approximation": 35,
+                "context_description": "Dhrishtadyumna, born destined to kill Drona, serves as the supreme commander of the Pandava army at Kurukshetra.",
+                "physical_appearance": {
+                    "skin_tone": "Bronze-copper complexion with a reddish-fire glow similar to Draupadi's fire-born quality, fierce and intense",
+                    "height": "Tall and imposing military bearing, broad-shouldered, the posture of a born commander",
+                    "build": "Powerful military build — trained for war since birth (literally created for war), compact dense musculature of a professional soldier, efficient and deadly",
+                    "facial_features": "Fierce determined face resembling Draupadi but masculine — sharp features, intense eyes of one born for a single purpose (killing Drona), strong jaw, permanent focused expression of military readiness",
+                    "hair": "Short practical military-cropped hair, no-nonsense warrior style",
+                    "distinguishing_marks": "His destiny is his mark — everyone knows he was born to kill Drona, including Drona himself who trained him anyway, this cosmic irony hangs over every interaction between teacher and destined-killer"
+                },
+                "wardrobe_and_adornments": {
+                    "clothing": "Practical Pandava military armor — efficient and functional rather than ornate, designed for command mobility, battle cape for identification on the field",
+                    "jewelry": "Commander's insignia, military chain of command markers, practical war gear",
+                    "weapons_carried": "A straight military sword, a shield, a bow — efficient weapons for a commander who needs to fight and direct simultaneously"
+                },
+                "audio_and_voice_characteristics": {
+                    "tone": "Direct, military, efficient — the voice of professional warfare, no philosophizing, pure tactical clarity",
+                    "pitch": "Strong commanding baritone — born for battlefield orders, cuts through noise, efficient and direct",
+                    "speech_style": "Short tactical commands, military directives, professional and efficient, addresses strategy rather than philosophy",
+                    "emotional_baseline": "Professional military focus, the burden of a destined purpose, the irony of killing one's own teacher"
+                },
+                "cinematic_generation_prompts": {
+                    "visual_prompt": "Commanding cinematic shot of Dhrishtadyumna, age 35, commander of the Pandava army. Bronze-copper complexion with fire-born glow. Fierce determined face, practical military bearing. Wearing efficient Pandava military armor, battle cape. Standing on a command chariot directing the army, pointing with a sword. Vast battlefield panorama below. 3D Pixar style, military dramatic lighting, photorealistic, 8k.",
+                    "audio_prompt": "A strong, commanding military baritone. Born for battlefield orders. Direct and efficient. Age approximately 35 years."
+                }
+            }
+        ]
+    }
+}

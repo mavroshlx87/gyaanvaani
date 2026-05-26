@@ -1,0 +1,65 @@
+{
+    "MARICHA": {
+        "metadata": {
+            "character_id": "RAM_059",
+            "name": "Maricha",
+            "aliases": [
+                "Mareech",
+                "Golden Deer"
+            ],
+            "epic": "Ramayana",
+            "primary_role": "Rakshasa who took the form of the golden deer (Mayamruga) to lure Rama away from Sita",
+            "gender": "Male",
+            "ethnicity_cultural_context": "Rakshasa (demon race), uncle of Ravana",
+            "family_relations": {
+                "father": "Sunda (Rakshasa)",
+                "mother": "Tataka",
+                "spouse": null,
+                "siblings": [
+                    "Subahu"
+                ],
+                "children": [],
+                "guru": null
+            },
+            "divine_origin": null,
+            "tags": [
+                "rakshasa",
+                "shapeshifter",
+                "deer",
+                "deceiver",
+                "pawn",
+                "tragic"
+            ]
+        },
+        "timelines": [
+            {
+                "timeline_stage": "Golden Deer / The Deception",
+                "age_approximation": 50,
+                "context_description": "Maricha is forced by Ravana to take the form of a magical golden deer to lure Rama away from Sita. Despite knowing it means his death, he obeys Ravana's command. When Rama's arrow strikes him, he cries out in Rama's voice 'Ha Lakshmana! Ha Sita!' — the cry that draws Sita to send Lakshmana away.",
+                "physical_appearance": {
+                    "skin_tone": "In Rakshasa form: Aged dark-green complexion, weathered and fearful, the look of one who knows he goes to his death. In Golden Deer form: Impossibly beautiful — skin of liquid gold with dappled silver spots, shimmering and otherworldly",
+                    "height": "Rakshasa form: Medium height, stooped with age and fear. Deer form: Graceful, perfect proportions of a magical deer",
+                    "build": "Rakshasa form: Thin, aged, once-powerful body now diminished by years and the fear of crossing Rama again. Deer form: Perfectly formed golden deer, every movement enchanting and alluring",
+                    "facial_features": "Rakshasa form: Aged weathered face with haunted fearful eyes (he fought Rama before and was nearly killed), lined and weary, expression of resigned doom. Deer form: Beautiful large innocent brown eyes with golden irises, delicate graceful face with a moist black nose, an impossibly enchanting creature",
+                    "hair": "Rakshasa form: Thinning grey-green hair, unkempt. Deer form: Golden fur covering the head, tiny golden antlers with gem-like tips",
+                    "distinguishing_marks": "In deer form: His entire body shimmers with magical light — gold and silver spots that seem to move, hooves that leave golden prints, the most beautiful animal ever seen — specifically designed to be irresistible to Sita. The tragedy is visible in his eyes if you look closely — a knowing doom."
+                },
+                "wardrobe_and_adornments": {
+                    "clothing": "Rakshasa form: Simple dark robes, aged and worn. Deer form: Natural golden fur — the most magnificent animal hide imaginable",
+                    "jewelry": "Rakshasa form: None significant. Deer form: Natural golden antlers with crystal-like tips, golden hooves",
+                    "weapons_carried": "His shapeshifting ability and his voice-mimicry — he can perfectly mimic Rama's voice, which becomes his final devastating weapon"
+                },
+                "audio_and_voice_characteristics": {
+                    "tone": "Rakshasa form: Fearful, resigned, quietly tragic — a man going knowingly to his death. Deer form: The enchanting sounds of a magical creature — tinkling bell-like sounds",
+                    "pitch": "Rakshasa form: Worn elderly bass, tired and afraid. In death: A perfect imitation of Rama's voice screaming for help — this is his most dangerous power",
+                    "speech_style": "Rakshasa form: Speaks to Ravana with terrified warnings about Rama's power, resigned acceptance of his death mission, philosophical about fate. Dying moment: Screams 'Ha Lakshmana! Ha Sita!' in Rama's exact voice — the most devastating deception in the epic",
+                    "emotional_baseline": "Resigned fatalism, tragic awareness, fear of death mixed with acceptance, the complex emotions of a villain who knows he's a pawn"
+                },
+                "cinematic_generation_prompts": {
+                    "visual_prompt": "Cinematic split-scene of Maricha. Golden Deer form: An impossibly beautiful golden deer with shimmering liquid-gold fur and silver spots, large innocent brown-gold eyes, tiny crystal antlers. Prancing through a sunlit forest glade, enchanting Sita who watches with wonder. Golden magical particles trailing its movements. Then: the moment of transformation as Rama's arrow strikes — golden deer form dissolving to reveal the dying Rakshasa beneath. 3D Pixar style, magical golden lighting, photorealistic, 8k.",
+                    "audio_prompt": "In Rakshasa form: a worn, fearful elderly bass. In death: a perfect imitation of Rama's voice screaming for help — devastatingly convincing."
+                }
+            }
+        ]
+    }
+}

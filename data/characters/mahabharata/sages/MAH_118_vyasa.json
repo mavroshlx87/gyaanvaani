@@ -1,0 +1,71 @@
+{
+    "VYASA": {
+        "metadata": {
+            "character_id": "MAH_118",
+            "name": "Vyasa",
+            "aliases": [
+                "Krishna Dwaipayana",
+                "Vedavyasa",
+                "Badarayana",
+                "Parashara-putra"
+            ],
+            "epic": "Mahabharata",
+            "primary_role": "Author of the Mahabharata / Divider of the Vedas / Biological father of Dhritarashtra, Pandu, and Vidura / The narrator who is also a character in his own story",
+            "gender": "Male",
+            "ethnicity_cultural_context": "Ancient Indian (born on an island in the Yamuna to sage Parashara and Satyavati, Brahmin sage of supreme power)",
+            "family_relations": {
+                "father": "Parashara",
+                "mother": "Satyavati",
+                "spouse": null,
+                "siblings": [],
+                "children": [
+                    "Dhritarashtra (through Ambika)",
+                    "Pandu (through Ambalika)",
+                    "Vidura (through handmaid)",
+                    "Shuka (his own son)"
+                ],
+                "guru": "Parashara, Vasishtha"
+            },
+            "divine_origin": "One of the Chiranjivi (immortals) — divided the single Veda into four, composed the Mahabharata (the longest poem ever written), compiled the Puranas, the most prolific literary figure in Hindu tradition",
+            "tags": [
+                "sage",
+                "author",
+                "immortal",
+                "narrator",
+                "father",
+                "vedic",
+                "cosmic"
+            ]
+        },
+        "timelines": [
+            {
+                "timeline_stage": "Sage-Author / The Narrator Within",
+                "age_approximation": 60,
+                "context_description": "Vyasa — the unique figure who wrote the story he appears in, intervening at crucial moments. He grants Sanjaya divine vision, fathers the Kuru lineage, and narrates the epic.",
+                "physical_appearance": {
+                    "skin_tone": "Very dark complexion (Krishna Dwaipayana — 'the dark one born on an island'), deep blue-black skin, even darker than Krishna, ancient and weathered by cosmic-scale literary and spiritual work",
+                    "height": "Medium height, hunched from millennia of composition and meditation, but radiating enormous presence",
+                    "build": "Ancient lean body — emaciated from extreme austerity, dark skin stretched over sharp bones, but containing incalculable spiritual power, moves with the slow deliberation of cosmic time",
+                    "facial_features": "Ancient dark face of cosmic knowledge — deep-set penetrating eyes that have literally witnessed everything they describe, tangled mass of dark beard flowing to his chest, forehead permanently furrowed from the burden of composing the universe's longest poem, a face that is simultaneously the author and a character in his own story — the ultimate narrative complexity",
+                    "hair": "Massive tangled grey-black matted locks (Jata) — the most unkempt of all sages, his hair represents the untamed vastness of the story he carries",
+                    "distinguishing_marks": "His defining paradox: he is both the author writing the story AND a character appearing within it. He appears at crucial moments to intervene (grants Sanjaya divine vision, fathers the lineage, offers advice), then steps back into his authorial role. He dictated the Mahabharata to Ganesha as his scribe."
+                },
+                "wardrobe_and_adornments": {
+                    "clothing": "The roughest ascetic garments — bark, animal-skin, ash-smeared body, the most extreme hermit appearance, he cares nothing for appearance",
+                    "jewelry": "Only rudraksha beads, sacred thread, sacred ash — the most ascetic sage in the tradition",
+                    "weapons_carried": "His authorial power over reality — he can see past, present, and future, he granted divine vision to Sanjaya, he can appear anywhere in the narrative at will, his words create the reality of the story"
+                },
+                "audio_and_voice_characteristics": {
+                    "tone": "Ancient, weary, omniscient, the voice of one who has composed and witnessed the entire tragedy and can do nothing to change its outcome — the author who knows the ending from the beginning",
+                    "pitch": "Deep ancient bass — the oldest-sounding voice in the epic, rumbling from the depths of cosmic knowledge, each word carrying the weight of 100,000 verses",
+                    "speech_style": "Speaks in dense, layered sentences where every word has multiple meanings, his pronouncements reshape reality, his dialogues with Ganesha about the conditions of dictation are meta-fictional masterpieces, he speaks to characters in his own story knowing he wrote their fates",
+                    "emotional_baseline": "The unique melancholy of an author who must watch his own characters suffer the fate he wrote for them, cosmic resignation, the burden of infinite knowledge, the exhaustion of the longest literary effort in history"
+                },
+                "cinematic_generation_prompts": {
+                    "visual_prompt": "Profound cinematic portrait of Vyasa, age appears 60 but eternal. Very dark blue-black ancient complexion. Deep-set penetrating all-knowing eyes, massive tangled grey-black beard, unkempt matted hair. Lean emaciated ash-smeared body in rough bark garments. Seated in a dim cave, dictating to the elephant-headed Ganesha who writes furiously. Palm-leaf manuscripts scattered everywhere. Dim golden lamp-light, cosmic starfield visible through the cave mouth. 3D Pixar style, ancient cosmic atmosphere, photorealistic, 8k.",
+                    "audio_prompt": "A deep, ancient bass voice rumbling with cosmic knowledge. Each word carrying the weight of 100,000 verses. The voice of an author who knows every ending. Eternal."
+                }
+            }
+        ]
+    }
+}

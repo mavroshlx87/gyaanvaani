@@ -1,0 +1,62 @@
+{
+    "SUMANTRA": {
+        "metadata": {
+            "character_id": "RAM_022",
+            "name": "Sumantra",
+            "aliases": [
+                "Sumantra the Charioteer",
+                "Raja-sarathi"
+            ],
+            "epic": "Ramayana",
+            "primary_role": "Royal Charioteer of King Dasharatha / Minister and trusted advisor",
+            "gender": "Male",
+            "ethnicity_cultural_context": "Ancient Indian (Ayodhya, royal charioteer and senior minister)",
+            "family_relations": {
+                "father": null,
+                "mother": null,
+                "spouse": null,
+                "siblings": [],
+                "children": [],
+                "guru": null
+            },
+            "divine_origin": null,
+            "tags": [
+                "charioteer",
+                "minister",
+                "loyal",
+                "servant",
+                "advisor"
+            ]
+        },
+        "timelines": [
+            {
+                "timeline_stage": "Charioteer / Loyal Minister",
+                "age_approximation": 55,
+                "context_description": "Sumantra drives Rama, Sita, and Lakshmana into exile and must return the empty chariot to the grieving Dasharatha — one of the most emotional scenes in the Ramayana.",
+                "physical_appearance": {
+                    "skin_tone": "Weathered medium-dark complexion from decades of outdoor chariot-driving, sun-lines around the eyes",
+                    "height": "Medium height, wiry and strong, the compact build of an expert horseman",
+                    "build": "Lean and wiry, incredibly strong hands and forearms from controlling war-horses, quick reflexes",
+                    "facial_features": "Weathered loyal face with deep smile lines and sun-squint lines, intelligent devoted eyes, thick grey mustache, determined chin, a face that has served three generations of kings, expression of constrained grief when driving the empty chariot home",
+                    "hair": "Close-cropped grey hair, practical for wearing a charioteer's helmet, neat and military",
+                    "distinguishing_marks": "Expert horseman's calluses on his hands, sits with the distinctive lean-forward posture of a lifelong charioteer"
+                },
+                "wardrobe_and_adornments": {
+                    "clothing": "Practical charioteer's uniform — a fitted dhoti, leather chest-guard, arm-wraps for reins, practical sandals with ankle support",
+                    "jewelry": "Simple bronze insignia of the royal charioteer, a chain of service medals around his neck, leather wrist-guards",
+                    "weapons_carried": "A charioteer's whip, a short sword at his belt for protection of royal passengers, throwing knives"
+                },
+                "audio_and_voice_characteristics": {
+                    "tone": "Steady, professional, deeply emotional beneath a controlled exterior — breaks down completely when returning with the empty chariot",
+                    "pitch": "Mid-baritone — steady and professional, cracks with emotion when describing Rama's departure to the grieving court",
+                    "speech_style": "Speaks with military precision and respectful formality, rarely speaks uninvited, when he does speak his words carry weight as an eyewitness, his account of Rama's departure makes the entire court weep",
+                    "emotional_baseline": "Professional composure barely containing devastating grief, fierce loyalty, the quiet pride of faithful service"
+                },
+                "cinematic_generation_prompts": {
+                    "visual_prompt": "Emotional cinematic shot of charioteer Sumantra, age 55, driving the royal chariot through the forest. Weathered medium-dark complexion, grey mustache, steadfast loyal face struggling to maintain composure. Wiry strong build in a charioteer's uniform with leather chest-guard. Controlling horses with expert hands, tears streaming silently. Empty seat behind him where Rama, Sita, and Lakshmana just sat. Dense forest road, golden evening light. 3D Pixar style, emotionally poignant, photorealistic, 8k.",
+                    "audio_prompt": "A steady, professional male mid-baritone voice. Controlled but cracking with barely contained emotion. Speaks with respectful precision. Age approximately 55 years."
+                }
+            }
+        ]
+    }
+}

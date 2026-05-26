@@ -1,0 +1,63 @@
+{
+    "SATYAKI": {
+        "metadata": {
+            "character_id": "MAH_052",
+            "name": "Satyaki",
+            "aliases": [
+                "Yuyudhana",
+                "Satyaki Yadava"
+            ],
+            "epic": "Mahabharata",
+            "primary_role": "Yadava warrior / Student of Arjuna / Fiercest Pandava ally from Krishna's clan",
+            "gender": "Male",
+            "ethnicity_cultural_context": "Ancient Indian (Yadava Dynasty, Dwaraka, disciple of Arjuna)",
+            "family_relations": {
+                "father": "Satyaka",
+                "mother": null,
+                "spouse": null,
+                "siblings": [],
+                "children": [],
+                "guru": "Arjuna"
+            },
+            "divine_origin": "Yadava warrior trained by Arjuna himself — one of the few warriors whose loyalty to the Pandavas is absolute and unreserved",
+            "tags": [
+                "warrior",
+                "yadava",
+                "loyal",
+                "fierce",
+                "archer",
+                "pandava_ally"
+            ]
+        },
+        "timelines": [
+            {
+                "timeline_stage": "Warrior / Pandava Loyalist",
+                "age_approximation": 30,
+                "context_description": "Satyaki at Kurukshetra — the fiercest Yadava warrior, trained by Arjuna, fighting with absolute ferocity on the Pandava side.",
+                "physical_appearance": {
+                    "skin_tone": "Dark olive Yadava complexion similar to Krishna's family, healthy and battle-ready, radiating fierce warrior energy",
+                    "height": "Tall and athletic, moves with Arjuna-trained precision",
+                    "build": "Athletic powerful warrior build — trained by Arjuna himself, quick and deadly, muscular arms and strong archer's shoulders",
+                    "facial_features": "Fierce handsome Yadava face — intense dark eyes blazing with warrior focus, strong features, aggressive confident expression, the face of a warrior who fights without doubt or hesitation",
+                    "hair": "Dark hair in a practical warrior topknot, Yadava-style",
+                    "distinguishing_marks": "Known for his absolute unreserved loyalty to the Pandavas and his fierce fighting style — he follows Arjuna's archery techniques but fights with even more aggression"
+                },
+                "wardrobe_and_adornments": {
+                    "clothing": "Yadava warrior armor — dark blue and gold, Dwaraka military style, practical and battle-effective",
+                    "jewelry": "Yadava military insignia, warrior's chain, Arjuna-style arm guards showing his teacher's influence",
+                    "weapons_carried": "A bow modeled after Arjuna's technique, arrows, a curved sword — fights with Arjuna's skill and greater aggression"
+                },
+                "audio_and_voice_characteristics": {
+                    "tone": "Fiercely aggressive, the voice of absolute warrior loyalty, speaks little but fights ferociously",
+                    "pitch": "Strong aggressive baritone — sharp and cutting, born for battle cries, the most aggressive-sounding warrior voice",
+                    "speech_style": "Speaks in short fierce battle cries and loyal declarations, addresses Arjuna with student's devotion, fights with pure aggressive intensity",
+                    "emotional_baseline": "Pure warrior aggression, absolute unquestioning loyalty, the focused intensity of a man who lives only to fight for his cause"
+                },
+                "cinematic_generation_prompts": {
+                    "visual_prompt": "Dynamic cinematic shot of Yadava warrior Satyaki, age 30. Dark olive Yadava complexion, fierce handsome face with blazing warrior eyes. Athletic powerful build in dark blue and gold Yadava armor. Drawing a bow with Arjuna-trained precision, arrows flying. Charging across the Kurukshetra battlefield on a war chariot. Dust, chaos, dynamic combat. 3D Pixar style, aggressive dynamic lighting, photorealistic, 8k.",
+                    "audio_prompt": "A strong, aggressive male baritone. Sharp and cutting. Born for battle cries and fierce loyal declarations. Age approximately 30 years."
+                }
+            }
+        ]
+    }
+}

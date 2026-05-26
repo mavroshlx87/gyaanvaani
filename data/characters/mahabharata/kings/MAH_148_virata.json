@@ -1,0 +1,65 @@
+{
+    "KING_VIRATA": {
+        "metadata": {
+            "character_id": "MAH_148",
+            "name": "Virata",
+            "aliases": [
+                "Raja Virata",
+                "Matsya-raja"
+            ],
+            "epic": "Mahabharata",
+            "primary_role": "King of Matsya (Virata) kingdom / Sheltered the disguised Pandavas during their 13th year of incognito exile",
+            "gender": "Male",
+            "ethnicity_cultural_context": "Ancient Indian (Matsya kingdom, Virata city — the kingdom where the Pandavas hid in disguise)",
+            "family_relations": {
+                "father": null,
+                "mother": null,
+                "spouse": "Sudeshna",
+                "siblings": [],
+                "children": [
+                    "Uttara (son)",
+                    "Uttaraa (daughter — married Abhimanyu)"
+                ],
+                "guru": null
+            },
+            "divine_origin": null,
+            "tags": [
+                "king",
+                "ally",
+                "shelter",
+                "matsya",
+                "pandava_ally"
+            ]
+        },
+        "timelines": [
+            {
+                "timeline_stage": "King / Sheltering the Pandavas",
+                "age_approximation": 50,
+                "context_description": "King Virata — the unsuspecting king who employed the disguised Pandavas in his court during their final year of exile. Yudhishthira was his dice-companion, Bhima his cook, Arjuna his dance teacher, etc.",
+                "physical_appearance": {
+                    "skin_tone": "Warm tanned complexion, healthy and prosperous, the look of a good-natured king in a comfortable kingdom",
+                    "height": "Medium height, slightly portly from comfortable living, the easy bearing of a minor king",
+                    "build": "Comfortable build — neither warrior-lean nor obese, the physique of a king who enjoys good food (especially after Bhima becomes his cook)",
+                    "facial_features": "Good-natured round face with warm eyes, easy smile, thick mustache, the pleasant expression of a benevolent but somewhat naïve ruler, surprised and overwhelmed when the Pandavas reveal their identities",
+                    "hair": "Grey-flecked hair under a modest crown, well-maintained",
+                    "distinguishing_marks": "A good but minor king — easily impressed, somewhat gullible (doesn't recognize the Pandavas despite their fame), genuinely kind-hearted, his court becomes central to the epic almost by accident"
+                },
+                "wardrobe_and_adornments": {
+                    "clothing": "Comfortable regional royal garments — not as magnificent as Hastinapur's, well-made but modest, reflecting a prosperous minor kingdom",
+                    "jewelry": "A modest regional crown, comfortable gold jewelry, pleasant but unspectacular royal adornment",
+                    "weapons_carried": "A ceremonial sword — King Virata is not a great warrior, relies on his generals, his kingdom is his weapon"
+                },
+                "audio_and_voice_characteristics": {
+                    "tone": "Good-natured, comfortable, slightly bumbling, the voice of a minor king who suddenly finds himself at the center of cosmic events — bewildered but well-meaning",
+                    "pitch": "Warm mid-baritone — comfortable and pleasant, the voice of a man used to giving mild orders and enjoying dinners, not commanding armies",
+                    "speech_style": "Speaks with friendly informality, treats his servants (the disguised Pandavas) well, his amazement when identities are revealed is genuinely comic, addresses greater kings with humble respect",
+                    "emotional_baseline": "Good-natured bewilderment, honest hospitality, the comfortable confusion of a minor king thrust into major events"
+                },
+                "cinematic_generation_prompts": {
+                    "visual_prompt": "Warm cinematic portrait of King Virata, age 50, in his modest but prosperous court. Warm tanned complexion, good-natured round face, thick mustache, easy smile. Slightly portly build in comfortable regional royal garments, modest crown. Seated at a dinner table enjoying food prepared by his excellent cook (disguised Bhima). Pleasant warm palace interior. 3D Pixar style, warm comfortable lighting, photorealistic, 8k.",
+                    "audio_prompt": "A warm, comfortable male mid-baritone. Pleasant, good-natured, slightly bewildered. The voice of a kindly minor king. Age approximately 50 years."
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "NARADA": {
+        "metadata": {
+            "character_id": "RAM_088",
+            "name": "Narada",
+            "aliases": [
+                "Narada Muni",
+                "Devarishi Narada",
+                "Triloka-sanchari"
+            ],
+            "epic": "Ramayana",
+            "primary_role": "Divine sage / Celestial messenger and traveler / Storyteller who narrates the story of Rama to Valmiki",
+            "gender": "Male",
+            "ethnicity_cultural_context": "Celestial (Deva-rishi, travels freely between all three worlds — heaven, earth, underworld)",
+            "family_relations": {
+                "father": "Brahma",
+                "mother": null,
+                "spouse": null,
+                "siblings": [],
+                "children": [],
+                "guru": "Vishnu"
+            },
+            "divine_origin": "Mind-born son of Brahma, eternal celibate, supreme devotee of Vishnu, cosmic journalist who carries news between worlds",
+            "tags": [
+                "sage",
+                "divine",
+                "messenger",
+                "musician",
+                "storyteller",
+                "traveler",
+                "devotee"
+            ]
+        },
+        "timelines": [
+            {
+                "timeline_stage": "Celestial Sage / Storyteller",
+                "age_approximation": 0,
+                "context_description": "Narada is the cosmic sage who narrates the story of Rama to Valmiki (inspiring the Ramayana) and appears at critical moments throughout both epics as a divine messenger and sometimes mischief-maker.",
+                "physical_appearance": {
+                    "skin_tone": "Radiant golden-fair celestial complexion that literally glows with divine light, ageless and unworldly, skin shimmering with celestial energy",
+                    "height": "Tall and lean, moves with extraordinary lightness — seems to float rather than walk, effortless grace of a being who flies between worlds",
+                    "build": "Lean ethereal build, no physical bulk — his power is entirely spiritual and divine, long graceful limbs, appears almost weightless",
+                    "facial_features": "Ageless beautiful face of a celestial being — large bright twinkling eyes full of mischief and cosmic knowledge, prominent high forehead, a knowing smile that suggests he always knows more than he reveals, sharp handsome features, expression shifts between cosmic seriousness and playful mischief, clean-shaven and eternally youthful",
+                    "hair": "Top-knot of short black hair, neat and distinctive — the classic Narada style, occasionally with a small peacock feather or lotus tucked in",
+                    "distinguishing_marks": "Always carries his Veena (stringed instrument) and perpetually chants 'Narayana Narayana!' — these two things are his absolute identifying marks, he appears and disappears at will, often stirring up necessary cosmic trouble"
+                },
+                "wardrobe_and_adornments": {
+                    "clothing": "Simple celestial white dhoti and uttariya, luminous and pristine as if woven from moonlight, occasionally a saffron upper cloth, always impeccable and unwrinkled despite his constant travels",
+                    "jewelry": "Minimal but refined — a small Vishnu tilak on his forehead, Tulsi mala around his neck, small earrings, no heavy jewelry — a celestial sage's simplicity",
+                    "weapons_carried": "His mahati Veena (named instrument — his most famous possession), his words and knowledge (he has information about everything happening in all three worlds), his ability to appear anywhere instantly"
+                },
+                "audio_and_voice_characteristics": {
+                    "tone": "Melodious, enthusiastic, mischievous, musical, always on the verge of revealing cosmic secrets or stirring up necessary trouble — the universe's premier gossip with divine purpose",
+                    "pitch": "Light melodious tenor — musical and lilting, his speaking voice naturally flows into song, bright and carrying, the cheerful clear voice of an eternal optimist",
+                    "speech_style": "Speaks with musical lilting cadence, naturally breaks into song and verse, peppers speech with 'Narayana Narayana!', knows everyone's secrets, delivers cosmic news with a storyteller's dramatic flair, his mischief always serves divine purpose",
+                    "emotional_baseline": "Eternal cheerful devotion, cosmic mischief for divine purposes, the joy of one who knows all stories and loves telling them, playful wisdom"
+                },
+                "cinematic_generation_prompts": {
+                    "visual_prompt": "Ethereal cinematic shot of Narada Muni, ageless celestial sage. Radiant golden-fair glowing complexion, ageless beautiful face with bright twinkling eyes and knowing smile. Lean graceful build in luminous white celestial robes. Playing his mahati Veena while floating on clouds between heaven and earth. Small peacock feather in his topknot. Cosmic background with stars, celestial palaces, and divine light. 3D Pixar style, ethereal luminous lighting, photorealistic, 8k.",
+                    "audio_prompt": "A light, melodious male tenor voice that naturally flows into song. Musical and lilting, perpetually chanting 'Narayana Narayana!' Cheerful, mischievous, ageless."
+                }
+            }
+        ]
+    }
+}

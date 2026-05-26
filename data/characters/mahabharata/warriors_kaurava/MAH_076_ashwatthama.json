@@ -1,0 +1,64 @@
+{
+    "ASHWATTHAMA": {
+        "metadata": {
+            "character_id": "MAH_076",
+            "name": "Ashwatthama",
+            "aliases": [
+                "Drona-putra",
+                "Chiranjivi Ashwatthama"
+            ],
+            "epic": "Mahabharata",
+            "primary_role": "Son of Drona / Possessor of the Brahma-gem / Cursed to wander immortally for his war crimes",
+            "gender": "Male",
+            "ethnicity_cultural_context": "Ancient Indian (Brahmin-Kshatriya, son of Dronacharya)",
+            "family_relations": {
+                "father": "Dronacharya",
+                "mother": "Kripi",
+                "spouse": null,
+                "siblings": [],
+                "children": [],
+                "guru": "Drona"
+            },
+            "divine_origin": "Born with a divine gem (Mani) embedded in his forehead granting him power over all beings lower than humans, cursed by Krishna to wander the earth immortally with a festering wound — the only Chiranjivi (immortal) who is cursed rather than blessed",
+            "tags": [
+                "warrior",
+                "cursed",
+                "immortal",
+                "brahmin",
+                "war_criminal",
+                "gem_bearer",
+                "son"
+            ]
+        },
+        "timelines": [
+            {
+                "timeline_stage": "Warrior / Night Massacre",
+                "age_approximation": 30,
+                "context_description": "Ashwatthama after the war — driven mad by his father Drona's death, he attacks the Pandava camp at night while they sleep, massacring Draupadi's five sons and using the Brahmastra against the unborn Parikshit in Uttaraa's womb.",
+                "physical_appearance": {
+                    "skin_tone": "Pale intense complexion with a reddish flush of permanent rage, the face of a man driven beyond sanity by grief for his father",
+                    "height": "Medium-tall, intense, movements jerky and agitated — a warrior whose precision has been destroyed by grief-madness",
+                    "build": "Lean powerful warrior build — trained by the greatest teacher, his father — now wasted by sleeplessness and the consuming fire of revenge",
+                    "facial_features": "Haunted face — bloodshot wild eyes with the glowing divine gem (Mani) embedded in his forehead radiating an eerie reddish-gold light, face contorted by grief and madness, hollow cheeks, a face that was once handsome now ravaged by vengeance, after the curse: a festering wound where the gem was torn out, permanent suffering",
+                    "hair": "Wild disheveled dark hair, matted with blood and unwashed from days of grief-madness",
+                    "distinguishing_marks": "The forehead gem (Mani) — a divine jewel embedded since birth, glowing with supernatural power, when Krishna rips it from his forehead as punishment, it leaves a permanent festering wound that never heals — the mark of his eternal curse. After the curse: he wanders forever, immortal but suffering, the wound oozing perpetually."
+                },
+                "wardrobe_and_adornments": {
+                    "clothing": "Battle-damaged armor from the night raid, dark clothing — the garb of a night-assassin, not a fair warrior, blood-stained beyond recognition",
+                    "jewelry": "The forehead gem (Mani) — glowing and then ripped away, the remains of warrior's armor, no more noble adornment",
+                    "weapons_carried": "The Brahmastra (used against the unborn Parikshit), a sword used in the night massacre, his father's teachings turned to darkness"
+                },
+                "audio_and_voice_characteristics": {
+                    "tone": "Grief-maddened, savage, beyond reason — the voice of a man whose world ended with his father's death, alternating between howling grief and cold killing calm",
+                    "pitch": "Harsh strained tenor — cracking with grief-madness, the voice of a man who has crossed every moral line and knows it, high-pitched and unstable",
+                    "speech_style": "Speaks in fragmented sentences driven by grief, justifies the night massacre with twisted logic, howls his father's name, when confronted by Krishna his voice drops to defeated resignation as the gem and his humanity are ripped away",
+                    "emotional_baseline": "Grief-madness, berserker vengeance, the horror of becoming the thing you hate most, ultimate moral degradation leading to eternal punishment"
+                },
+                "cinematic_generation_prompts": {
+                    "visual_prompt": "Disturbing cinematic shot of Ashwatthama, age 30, during the night massacre. Pale face with bloodshot wild eyes, the forehead gem (Mani) glowing eerie reddish-gold. Wild blood-matted hair, grief-contorted face. Dark blood-stained armor. Moving through the sleeping Pandava camp at night with a drawn sword, torchlight and shadows. Camp tents and sleeping figures. Then: Krishna ripping the gem from his forehead, blood gushing. 3D Pixar style, dark horror-atmosphere, photorealistic, 8k.",
+                    "audio_prompt": "A harsh, strained male tenor cracking with grief-madness. Alternating between howling grief and cold killing calm. Unstable and haunted. Age approximately 30 years."
+                }
+            }
+        ]
+    }
+}

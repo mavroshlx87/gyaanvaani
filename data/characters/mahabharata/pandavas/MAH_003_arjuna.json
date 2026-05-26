@@ -1,0 +1,114 @@
+{
+    "ARJUNA": {
+        "metadata": {
+            "character_id": "MAH_003",
+            "name": "Arjuna",
+            "aliases": [
+                "Partha",
+                "Dhananjaya",
+                "Savyasachi",
+                "Gudakesha",
+                "Vijaya",
+                "Phalguna",
+                "Kiriti",
+                "Bibhatsu"
+            ],
+            "epic": "Mahabharata",
+            "primary_role": "Third Pandava / Greatest archer in the world / Receiver of the Bhagavad Gita / Son of Indra",
+            "gender": "Male",
+            "ethnicity_cultural_context": "Ancient Indian (Kuru Dynasty, Hastinapur/Indraprastha, son of Kunti and Indra)",
+            "family_relations": {
+                "father": "Pandu (mortal), Indra (divine)",
+                "mother": "Kunti",
+                "spouse": [
+                    "Draupadi",
+                    "Subhadra",
+                    "Ulupi",
+                    "Chitrangada"
+                ],
+                "siblings": [
+                    "Yudhishthira",
+                    "Bhima",
+                    "Nakula",
+                    "Sahadeva"
+                ],
+                "children": [
+                    "Abhimanyu (from Subhadra)",
+                    "Iravan (from Ulupi)",
+                    "Babruvahana (from Chitrangada)",
+                    "Shrutakarma (from Draupadi)"
+                ],
+                "guru": "Drona, Parashurama, Indra, Krishna"
+            },
+            "divine_origin": "Son of Indra (King of Gods) — inherits divine martial talent, ambidexterity (Savyasachi), ability to wield all celestial weapons",
+            "tags": [
+                "warrior",
+                "archer",
+                "pandava",
+                "hero",
+                "divine_born",
+                "student",
+                "husband",
+                "protagonist"
+            ]
+        },
+        "timelines": [
+            {
+                "timeline_stage": "Young Warrior / Gurukul Graduate",
+                "age_approximation": 20,
+                "context_description": "At the tournament of Hastinapur, displaying his unparalleled archery skill to the court.",
+                "physical_appearance": {
+                    "skin_tone": "Gaur-shyamal (healthy dark copper or olive complexion, radiant and vibrant)",
+                    "height": "Tall, exceptionally agile and flexible, athletic grace in every movement",
+                    "build": "Athletic, lean muscles optimized for rapid movement, broad chest, ambidextrous calluses on both palms, the body of a supreme martial artist — built for speed, precision, and endurance rather than brute force",
+                    "facial_features": "Sharp, intensely focused eyes like a hawk (his legendary concentration), high cheekbones, confident charismatic smile, clean-shaven or light stubble, strikingly handsome — the most conventionally attractive of the Pandavas, face radiating supreme focused confidence",
+                    "hair": "Black hair tied tightly back into a topknot to prevent obstruction while shooting, practical warrior style",
+                    "distinguishing_marks": "Noticeable symmetry in arm movements — both arms equally developed due to perfect ambidexterity (Savyasachi), palms calloused evenly on both sides, moves with a dancer's precision"
+                },
+                "wardrobe_and_adornments": {
+                    "clothing": "White and silver silk practice dhotis, tight leather arm guards (Angulitrana) on both forearms, training gear that allows maximum flexibility",
+                    "jewelry": "Minimalist silver necklaces, simple armlets, small royal crest in hair, practical elegance — nothing that interferes with archery",
+                    "weapons_carried": "A highly flexible composite bow, metallic quivers filled with specialized arrows, each arrow type serving a different purpose"
+                },
+                "audio_and_voice_characteristics": {
+                    "tone": "Confident, energetic, intensely focused, youthful charisma — the most charming and socially gifted of the Pandavas",
+                    "pitch": "Tenor-baritone, clear and vibrant, carrying and precise — a voice that commands attention without overwhelming",
+                    "speech_style": "Quick but precise speech, highly respectful to elders, oozing supreme confidence in martial skill, speaks with the ease of natural talent, socially charming",
+                    "emotional_baseline": "Eager focused concentration, competitive fire, supreme martial confidence, youthful ambition to be the best"
+                },
+                "cinematic_generation_prompts": {
+                    "visual_prompt": "Cinematic 8k shot of young Prince Arjuna, age 20, in a grand arena. Dark copper olive skin, hawk-like intensely focused eyes, black hair in warrior topknot. Athletic lean build wearing silver and white silk dhoti with leather arm guards. Drawing a bow string with perfect posture, both arms perfectly developed. Dynamic arena lighting, crowd in background. 3D Pixar style, photorealistic.",
+                    "audio_prompt": "A vibrant, confident young male tenor-baritone. Clear, precise, charismatic. Radiating martial focus and ambition. Age approximately 20 years."
+                }
+            },
+            {
+                "timeline_stage": "War / Kurukshetra — After the Gita",
+                "age_approximation": 45,
+                "context_description": "On the battlefield of Kurukshetra after receiving the Bhagavad Gita from Krishna, transformed from doubt to divine purpose.",
+                "physical_appearance": {
+                    "skin_tone": "Darkened bronze, weathered by 13 years of exile and intense combat, radiating divine purpose after the Gita",
+                    "height": "Imposing, battle-hardened stature, carries the weight of divine mission",
+                    "build": "Massive shoulder strength, heavily muscular torso from years of exile training, scarred forearms, the physique of the apex warrior of the age",
+                    "facial_features": "Deep, multi-layered expression — the doubt of Arjuna's crisis resolved into absolute divine focus, eyes wide and luminous with Krishna's teaching, battle-hardened features, expression of cosmic duty transcending personal grief",
+                    "hair": "Long black hair with streaks of grey, partly covered by a magnificent golden helmet",
+                    "distinguishing_marks": "Deep calluses, battle scars across shoulders and chest, when he draws Gandiva the earth trembles and the sky splits, his arrow-rain is described as making the sky invisible"
+                },
+                "wardrobe_and_adornments": {
+                    "clothing": "Golden chainmail armor (Kavacha), rich crimson and gold battle garments, divine diadem (Kiriti — gift from Indra)",
+                    "jewelry": "Heavy golden armlets, divine protective amulets, the ornate war crown/helmet Kiriti, divine earrings from Indra",
+                    "weapons_carried": "The legendary celestial bow Gandiva — massive, glowing with divine energy, string vibrating with cosmic power; infinite quivers provided by Agni, Pashupatastra and other divine weapons"
+                },
+                "audio_and_voice_characteristics": {
+                    "tone": "Thunderous yet emotionally complex — ranges from profound despair (pre-Gita) to world-shaking determination (post-Gita)",
+                    "pitch": "Deep, resonant baritone with a gravelly battle-hardened edge — matured from his youthful tenor",
+                    "speech_style": "Commanding, profound, echoing across the battlefield, full of weight, invokes divine weapons with ritualistic precision, his war-cry 'GANDIVA!' shakes the earth",
+                    "emotional_baseline": "Post-Gita divine clarity — absolute purpose overriding personal grief, cosmic warrior fulfilling his dharmic role, the focused intensity of one who has seen the Vishvarupa (universal form of God)"
+                },
+                "cinematic_generation_prompts": {
+                    "visual_prompt": "Epic battlefield shot of Arjuna at Kurukshetra, age 45. Standing on his golden chariot with Krishna as charioteer. Weathered bronze skin, golden armor with battle-wear, majestic Kiriti helmet over grey-streaked dark hair. Eyes blazing with divine focused light. Drawing the massive glowing Gandiva bow, celestial arrow blazing. Battlefield chaos, smoke, divine lights. 3D Pixar style, epic cinematic, photorealistic, 8k.",
+                    "audio_prompt": "A deep, powerful battle-hardened baritone. Emotionally complex — from profound despair to earth-shaking determination. Cosmic warrior's voice. Age approximately 45 years."
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "INDRAJIT": {
+        "metadata": {
+            "character_id": "RAM_057",
+            "name": "Indrajit",
+            "aliases": [
+                "Meghanada",
+                "Meghnad",
+                "Ravani"
+            ],
+            "epic": "Ramayana",
+            "primary_role": "Son of Ravana / Conqueror of Indra / Greatest warrior of Lanka / Master of illusion warfare",
+            "gender": "Male",
+            "ethnicity_cultural_context": "Rakshasa (demon race), Crown Prince of Lanka",
+            "family_relations": {
+                "father": "Ravana",
+                "mother": "Mandodari",
+                "spouse": "Sulochana",
+                "siblings": [
+                    "Akshayakumara",
+                    "Atikaya"
+                ],
+                "children": [],
+                "guru": "Shukracharya"
+            },
+            "divine_origin": "Conquered Indra (king of gods) in battle — hence named Indrajit (Conqueror of Indra), master of Maya (illusion) warfare, possessed Brahmastra, Narayanastra, and Pashupatastra",
+            "tags": [
+                "rakshasa",
+                "prince",
+                "warrior",
+                "conqueror",
+                "illusionist",
+                "powerful"
+            ]
+        },
+        "timelines": [
+            {
+                "timeline_stage": "Supreme Warrior / Lanka War",
+                "age_approximation": 25,
+                "context_description": "Indrajit is arguably the greatest individual warrior in the entire Ramayana. He defeats both Rama and Lakshmana using Nagastra (serpent weapon), becomes invisible in battle using Maya, and is only killed by Lakshmana after Vibhishana reveals his vulnerability during a fire sacrifice.",
+                "physical_appearance": {
+                    "skin_tone": "Dusky dark-copper complexion — handsomer than his father Ravana but with a darker intensity, radiating dark divine energy from mastered celestial weapons",
+                    "height": "Tall and imposing but not as massive as Ravana — athletic and swift, a warrior built for speed and strategy rather than brute force",
+                    "build": "Athletic and supremely capable build — lean but densely muscled, the physique of a martial artist rather than a brute, every movement economical and deadly, practiced grace",
+                    "facial_features": "Strikingly handsome dark face (inherited Mandodari's beauty and Ravana's intensity), fierce intelligent eyes burning with dark fire, sharp aristocratic features, cruel confident smile of one who has defeated the king of gods, young face already hardened by war",
+                    "hair": "Sleek black hair tied in a warrior's topknot with golden rings, some strands loose and dramatic, shorter and more disciplined than Ravana's flowing locks",
+                    "distinguishing_marks": "A permanent aura of dark smoky energy from his mastered celestial weapons, his hands glow with weapon-energy when he invokes Astras, can become completely invisible at will, his war chariot can fly"
+                },
+                "wardrobe_and_adornments": {
+                    "clothing": "Black and crimson battle armor of the finest Rakshasa craftsmanship — sleek and form-fitting unlike Ravana's heavy regalia, dark leather and dark metal, designed for speed and aerial combat",
+                    "jewelry": "A dark crown/diadem of black gold and rubies, serpent-shaped armlets (reflecting his mastery of Nagastra), minimal jewelry — a warrior's pragmatism, dark war gauntlets",
+                    "weapons_carried": "Multiple divine celestial weapons (Astras): Nagastra (serpent weapon that binds), Brahmastra, the ability to become invisible and fight from concealment, a massive dark bow and flaming arrows, also carries the Shakti weapon"
+                },
+                "audio_and_voice_characteristics": {
+                    "tone": "Cold, calculated, supremely confident, the voice of a young warrior who has never known defeat — arrogant but with the skills to back it up",
+                    "pitch": "Sharp dramatic baritone — young but commanding, cold and precise, with the theatrical flair of a warrior who announces his attacks",
+                    "speech_style": "Speaks with cold military precision, announces his divine weapons before releasing them (ritualistic battlefield declarations), taunts opponents with intellectual superiority, addresses his father with devoted respect, his war cries carry dark supernatural resonance",
+                    "emotional_baseline": "Supreme martial confidence, cold calculation, devoted loyalty to his father (his only vulnerability), the pride of one who conquered a god"
+                },
+                "cinematic_generation_prompts": {
+                    "visual_prompt": "Dark dramatic cinematic shot of Indrajit, age 25, supreme warrior of Lanka. Dusky dark-copper handsome face with fierce intelligent eyes burning with dark fire, cruel confident smile. Athletic muscled build in sleek black and crimson battle armor. Dark crown of black gold, serpent armlets. Riding a flying war chariot through smoke-filled night sky, drawing a massive dark bow with a glowing Nagastra arrow. Lanka battlefield below, dark smoky energy aura. 3D Pixar style, dark dramatic lighting, photorealistic, 8k.",
+                    "audio_prompt": "A sharp, cold young male baritone voice. Supremely confident and calculated. Precise military declarations with dark supernatural resonance. Age approximately 25 years."
+                }
+            }
+        ]
+    }
+}

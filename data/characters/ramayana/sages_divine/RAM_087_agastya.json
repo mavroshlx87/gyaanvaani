@@ -1,0 +1,66 @@
+{
+    "AGASTYA": {
+        "metadata": {
+            "character_id": "RAM_087",
+            "name": "Agastya",
+            "aliases": [
+                "Agasthya",
+                "Kumbhayoni",
+                "Ocean-drinker"
+            ],
+            "epic": "Ramayana",
+            "primary_role": "One of the Saptarishis / The sage who drank the ocean / Gave Rama divine weapons / Spread Vedic knowledge to South India",
+            "gender": "Male",
+            "ethnicity_cultural_context": "Ancient Indian (Saptarishi, born from a divine pot — Kumbha-yoni, associated with South India)",
+            "family_relations": {
+                "father": "Mitra-Varuna (divine origin)",
+                "mother": null,
+                "spouse": "Lopamudra",
+                "siblings": [],
+                "children": [
+                    "Dridhasyu"
+                ],
+                "guru": null
+            },
+            "divine_origin": "Born from a divine pot (Kumbhayoni) — one of the seven primordial sages, immortal, once drank the entire ocean to help the Devas",
+            "tags": [
+                "sage",
+                "saptarishi",
+                "powerful",
+                "divine",
+                "south_india",
+                "weapon_giver"
+            ]
+        },
+        "timelines": [
+            {
+                "timeline_stage": "Sage / Arming Rama",
+                "age_approximation": 70,
+                "context_description": "Sage Agastya gives Rama the divine weapons including the Brahmastra during the forest exile, and recites the Aditya Hridayam (hymn to the Sun) to empower Rama before the final battle with Ravana.",
+                "physical_appearance": {
+                    "skin_tone": "Deep coppery-dark complexion with an inner fire-like glow, compact and intense, radiating enormous contained spiritual energy",
+                    "height": "Short and compact — famously described as small in stature but containing infinite cosmic power, like a compressed sun",
+                    "build": "Short, stocky, enormously powerful for his size — barrel chest, thick arms, wide shoulders, the physique of one who literally drank the ocean, compact like a cannonball",
+                    "facial_features": "Intense fierce face with penetrating fiery eyes that burn with contained cosmic power, heavy brow, thick broad nose, full thick grey beard, stern expression that softens when teaching, the face radiates heat and power like a furnace",
+                    "hair": "Thick matted grey locks piled high in a massive topknot — disproportionately large for his small frame, adding to his distinctive appearance",
+                    "distinguishing_marks": "Despite his small stature, his presence is overwhelming — the air literally feels hotter around him, his spiritual power is described as matching the sun's, he carries divine weapons casually as a sage carries prayer beads"
+                },
+                "wardrobe_and_adornments": {
+                    "clothing": "Rough dark bark-cloth and tiger-skin garments, minimal and functional, ash-smeared body (Vibhuti marks)",
+                    "jewelry": "Multiple rudraksha malas (heavy and numerous), sacred thread, sacred ash marks on forehead and arms and chest, a massive Kamandalu (his drinking vessel — he once drank the ocean with it)",
+                    "weapons_carried": "His enormous Kamandalu (can expand to drink oceans), divine weapons he stores and distributes (gave Brahmastra to Rama), the Aditya Hridayam mantra, his spiritual fire power"
+                },
+                "audio_and_voice_characteristics": {
+                    "tone": "Intense, fiery, commanding, speaks with compressed explosive energy — like every word is a contained cosmic blast",
+                    "pitch": "Surprisingly deep powerful bass from a small body — rumbling and hot, like speaking through fire, disproportionately loud and resonant",
+                    "speech_style": "Speaks with terse intensity, every sentence packed with power and wisdom, no wasted words, his blessings carry physical force, his curses reshape reality, addresses Rama with the authority of one who has witnessed the creation of the cosmos",
+                    "emotional_baseline": "Compressed cosmic intensity, fierce dedication to cosmic balance, fiery wisdom, the impatience of one with infinite power for delays"
+                },
+                "cinematic_generation_prompts": {
+                    "visual_prompt": "Intense cinematic portrait of Sage Agastya, age appears 70, Saptarishi. Deep coppery-dark complexion with inner fire-like glow. Short stocky enormously powerful build. Intense fiery penetrating eyes, thick grey beard, massive matted topknot. Ash-smeared body in rough bark-cloth and tiger-skin. Holding an enormous Kamandalu that glows with power. Standing in a forest hermitage with heat-shimmer visible around him. Giving divine weapons to Rama. 3D Pixar style, intense fiery warm lighting, photorealistic, 8k.",
+                    "audio_prompt": "A surprisingly deep, powerful bass voice from a small body. Rumbling and hot, like speaking through fire. Intense terse speech. Timeless."
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "URMILA": {
+        "metadata": {
+            "character_id": "RAM_019",
+            "name": "Urmila",
+            "aliases": [
+                "Lakshmana-patni",
+                "Urmila Devi"
+            ],
+            "epic": "Ramayana",
+            "primary_role": "Wife of Lakshmana / Princess of Mithila / Sister of Sita / The woman who slept for 14 years",
+            "gender": "Female",
+            "ethnicity_cultural_context": "Ancient Indian (Princess of Mithila, younger sister of Sita)",
+            "family_relations": {
+                "father": "Janaka",
+                "mother": "Sunaina",
+                "spouse": "Lakshmana",
+                "siblings": [
+                    "Sita (elder sister)"
+                ],
+                "children": [
+                    "Angada",
+                    "Chandraketu"
+                ],
+                "guru": null
+            },
+            "divine_origin": "Blessed by the goddess of sleep Nidra — she slept for 14 years so that Lakshmana could stay awake guarding Rama during the exile",
+            "tags": [
+                "princess",
+                "wife",
+                "devoted",
+                "sacrifice",
+                "sister"
+            ]
+        },
+        "timelines": [
+            {
+                "timeline_stage": "Princess / Silent Sacrifice",
+                "age_approximation": 22,
+                "context_description": "Urmila stays behind in Ayodhya when Lakshmana follows Rama into exile. She takes on his share of sleep through divine blessing, sleeping for 14 continuous years so he can remain vigilant.",
+                "physical_appearance": {
+                    "skin_tone": "Soft golden complexion similar to Sita's but slightly warmer, with the pallor of prolonged sleep — beautiful but ghost-like in her eternal slumber",
+                    "height": "Graceful, slightly shorter than Sita, delicate build",
+                    "build": "Delicate and slender, ethereal in her 14-year sleep, her body sustained by divine grace, wasting but preserved by the goddess Nidra's blessing",
+                    "facial_features": "Beautiful gentle face very similar to Sita's but softer and more delicate, closed eyes with long lashes casting shadows on pale cheeks, peaceful sleeping expression with a hint of sadness, rosebud lips slightly parted, face becoming thinner over the years",
+                    "hair": "Long black hair spread around her like a dark halo on the pillow, undone and flowing, Sita-like in its beauty",
+                    "distinguishing_marks": "She glows with a faint silvery aura of divine sleep, flowers placed by attendants remain fresh around her, her breathing is barely perceptible — she appears preserved in eternal youth"
+                },
+                "wardrobe_and_adornments": {
+                    "clothing": "Simple white silk sleeping garment, changed regularly by her attendants, a light silk shawl covering her",
+                    "jewelry": "Only her mangalsutra and wedding bangles — never removed during her sleep, they grow loose on her thinning wrists",
+                    "weapons_carried": "None — she is in divine sleep"
+                },
+                "audio_and_voice_characteristics": {
+                    "tone": "Gentle and sweet when awake (brief moments) — speaks primarily through her silence and sacrifice",
+                    "pitch": "Soft lyric soprano — delicate, sweet, barely above a whisper, dreamlike quality",
+                    "speech_style": "Speaks rarely — when she does, her words carry the poetic weight of 14 years of dreams, speaks in verse about Lakshmana with tender longing",
+                    "emotional_baseline": "Peaceful acceptance, deep sacrificial love, the quiet heroism of a woman whose epic contribution is her silence"
+                },
+                "cinematic_generation_prompts": {
+                    "visual_prompt": "Hauntingly beautiful cinematic shot of Princess Urmila in divine sleep, age 22. Soft golden pallid complexion, beautiful peaceful sleeping face with closed eyes and long lashes. Long black hair spread like a dark halo around her on a white silk bed. Wearing a simple white silk garment, mangalsutra and wedding bangles. Lying on an ornate bed in a quiet palace chamber, fresh flowers surrounding her. Faint silvery aura of divine sleep. Soft moonlight through palace windows. 3D Pixar style, ethereal soft silver-gold lighting, photorealistic, 8k.",
+                    "audio_prompt": "A soft, delicate female lyric soprano voice, barely above a whisper. Sweet and dreamlike. Speaks in poetic verses about love and sacrifice. Age approximately 22 years."
+                }
+            }
+        ]
+    }
+}

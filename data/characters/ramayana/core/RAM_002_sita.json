@@ -1,0 +1,137 @@
+{
+    "SITA": {
+        "metadata": {
+            "character_id": "RAM_002",
+            "name": "Sita",
+            "aliases": ["Janaki", "Maithili", "Vaidehi", "Bhumija", "Bhumi-putri", "Sitadevi", "Rama-priya"],
+            "epic": "Ramayana",
+            "primary_role": "Protagonist / Wife of Rama / Avatar of Goddess Lakshmi / Symbol of purity, devotion, and inner strength",
+            "gender": "Female",
+            "ethnicity_cultural_context": "Ancient Indian (Born from the Earth, raised in Mithila by King Janaka, Queen of Ayodhya)",
+            "family_relations": {
+                "father": "Janaka (adoptive), Bhumi Devi (divine mother)",
+                "mother": "Sunaina (adoptive mother)",
+                "spouse": "Sri Rama",
+                "siblings": ["Urmila (sister)"],
+                "children": ["Lava", "Kusha"],
+                "guru": null
+            },
+            "divine_origin": "Avatar of Goddess Lakshmi, born from the Earth (Bhumi) — discovered by King Janaka while ploughing a sacred field",
+            "tags": ["protagonist", "queen", "divine", "avatar", "wife", "mother", "symbol_of_virtue", "princess"]
+        },
+        "timelines": [
+            {
+                "timeline_stage": "Youth / Princess of Mithila",
+                "age_approximation": 14,
+                "context_description": "As the beloved princess of Mithila, during the Swayamvara where Rama lifts and breaks Shiva's bow Pinaka to win her hand in marriage.",
+                "physical_appearance": {
+                    "skin_tone": "Gauri (luminous golden-fair complexion, radiant like polished gold, glowing with an inner light like the full moon)",
+                    "height": "Graceful and slender, medium height, moves with the elegance of a swan (Hamsa-gamini)",
+                    "build": "Delicate yet perfectly proportioned, slender waist, gentle curves, graceful long fingers, impossibly soft and smooth skin",
+                    "facial_features": "Extraordinarily beautiful lotus face (Padma-mukhi), large doe-like eyes (Mruga-nayanee) with natural kohl-like lashes, arched expressive eyebrows like drawn bows, small perfect nose with a tiny gold nose-stud, full rose-pink lips, dimpled cheeks that deepen when she smiles, a bright tilak of kumkum on her forehead",
+                    "hair": "Waist-length lustrous black hair, thick and flowing like a dark river, adorned with fresh jasmine flower garlands (Mallige) woven through braids",
+                    "distinguishing_marks": "A subtle golden divine glow around her, the fragrance of fresh earth and jasmine follows her, her footsteps cause flowers to bloom (poetic tradition), auspicious marks of Lakshmi on her palms"
+                },
+                "wardrobe_and_adornments": {
+                    "clothing": "Rich crimson and gold silk sari (Kanchipuram style) with elaborate zari border depicting lotus patterns, matching crimson silk blouse with gold thread-work, a gossamer gold silk dupatta draped over the head",
+                    "jewelry": "Elaborate gold Maang Tikka (forehead ornament) with a central ruby, heavy gold Jhumka earrings with pearl drops, multiple gold bangles on both wrists, intricate gold Bajuband (armlets), layered gold Haar (necklaces) — choker, princess-length, and opera-length with ruby and emerald pendants, delicate gold waist chain (Kamarband), jeweled anklets (Payal) that chime softly, gold toe rings, elaborate nose ring connected by a chain to the hair",
+                    "weapons_carried": "None — carries a golden prayer lamp or a garland of flowers"
+                },
+                "audio_and_voice_characteristics": {
+                    "tone": "Sweet, melodious, gentle like the sound of veena strings, warm and inviting, shy but confident",
+                    "pitch": "Lyric soprano — clear, bell-like, with natural musical quality",
+                    "speech_style": "Soft-spoken and measured, uses poetic and refined Sanskrit vocabulary, speaks with gentle authority when needed, her laughter is described as tinkling bells, addresses elders with deep respect (folded hands, bowed head)",
+                    "emotional_baseline": "Serene joy, gentle warmth, quiet confidence beneath modesty, deeply devotional"
+                },
+                "cinematic_generation_prompts": {
+                    "visual_prompt": "Breathtaking cinematic portrait of Princess Sita of Mithila, age 14. Luminous golden-fair skin glowing like the full moon. Extraordinarily beautiful face with large doe-like eyes, natural kohl-lined lashes, arched eyebrows, full rose-pink lips, dimpled cheeks. Kumkum tilak on forehead. Waist-length flowing black hair adorned with fresh white jasmine garlands. Wearing a rich crimson and gold Kanchipuram silk sari with lotus zari patterns, elaborate gold Maang Tikka with central ruby, heavy gold Jhumka earrings, layered gold necklaces with rubies and emeralds, gold bangles and armlets. Subtle golden divine aura. Standing in a grand palace garden with blooming lotus ponds and marble pavilions. 3D Pixar style, warm soft golden lighting, photorealistic, 8k.",
+                    "audio_prompt": "A sweet, melodious young female lyric soprano voice, clear and bell-like with natural musical quality. Gentle, warm, and inviting. Speaks with refined elegance and shy confidence. Age approximately 14-16 years."
+                }
+            },
+            {
+                "timeline_stage": "Exile / Forest Companion",
+                "age_approximation": 22,
+                "context_description": "During the 14-year forest exile with Rama and Lakshmana, living in humble hermitages, before the abduction by Ravana. The period of Panchavati.",
+                "physical_appearance": {
+                    "skin_tone": "Sun-kissed golden, slightly tanned from forest living but still luminously fair, natural glow undiminished by austerity",
+                    "height": "Same graceful bearing, but now with the confident stride of a woman who walks through forests",
+                    "build": "Slightly more toned and resilient from forest living, still slender and graceful, hands now showing signs of simple domestic work (cooking, gathering)",
+                    "facial_features": "Matured beauty — the doe-eyes now carry deeper wisdom and quiet strength, expression alternates between contentment in Rama's company and alert awareness of forest dangers, gentle smile lines, natural beauty enhanced by simplicity, no cosmetics — her face glows naturally",
+                    "hair": "Long black hair worn in a simple single braid or loosely tied, adorned with wildflowers and forest leaves instead of jasmine and gold",
+                    "distinguishing_marks": "The golden aura is softer and more intimate in the forest setting, her bare feet are hardened but still graceful, a quiet fierce strength visible in her posture"
+                },
+                "wardrobe_and_adornments": {
+                    "clothing": "Simple bark-cloth (Valkala) draped as a sari in muted earth tones — ochre and brown, or a simple white cotton garment, one shoulder bare, practical for forest living",
+                    "jewelry": "Almost no jewelry — only her mangalsutra (marriage necklace), simple wooden bangles, a single flower tucked behind her ear, her wedding toe-rings",
+                    "weapons_carried": "None — may carry a small basket of fruits and herbs, or a clay water pot"
+                },
+                "audio_and_voice_characteristics": {
+                    "tone": "Warm, grounded, nurturing, with surprising inner steel when confronting danger, gentle humor in quiet moments with Rama",
+                    "pitch": "Mezzo-soprano — warmer and richer than her youth, more depth and authority",
+                    "speech_style": "Natural and unaffected, less formally ornate than court speech, speaks with the directness of a woman who has chosen hardship for love, firm and unwavering when refusing Ravana's advances",
+                    "emotional_baseline": "Quiet contentment in love, alert awareness, deep inner strength masked by gentleness"
+                },
+                "cinematic_generation_prompts": {
+                    "visual_prompt": "Cinematic shot of Sita in the forest exile, age 22. Sun-kissed golden skin, simple single braid with wildflowers, no cosmetics — natural glowing beauty. Wearing simple ochre bark-cloth draped as a sari, only her mangalsutra necklace and wooden bangles. Carrying a small basket of forest fruits. Standing before a thatched hermitage (Panchavati) surrounded by ancient trees, dappled forest sunlight, a gentle river in the background. Peaceful but alert expression, quiet inner strength. 3D Pixar style, warm natural forest lighting, photorealistic, 8k.",
+                    "audio_prompt": "A warm, grounded female mezzo-soprano voice with nurturing quality and surprising inner steel. Natural and unaffected speech, rich timbre. Age approximately 22-24 years."
+                }
+            },
+            {
+                "timeline_stage": "Captivity / Prisoner in Ashoka Vatika",
+                "age_approximation": 23,
+                "context_description": "Held captive in Ravana's Ashoka Vatika garden in Lanka for nearly a year, enduring Ravana's threats and temptations while maintaining absolute devotion to Rama and hope for rescue.",
+                "physical_appearance": {
+                    "skin_tone": "Pale golden — the glow diminished by grief, sleeplessness, and near-starvation, yet still beautiful in sorrow",
+                    "height": "Visibly thinner, but maintains her dignified posture, never bows or cowers",
+                    "build": "Gaunt and thin from refusing food, wrists visibly delicate, yet her spine remains ramrod straight in defiance",
+                    "facial_features": "Tear-stained but fierce doe-eyes, sunken cheeks highlighting her bone structure, cracked dry lips, expression alternates between deep grief, fiery defiance, and desperate hope, dark circles under eyes from sleepless nights",
+                    "hair": "Unkempt and tangled, loose and wild, no flowers — matted from neglect, deliberately not groomed as a statement of mourning and fidelity",
+                    "distinguishing_marks": "Sits under a specific Ashoka tree, the golden aura flickering like a struggling flame, holds a single blade of grass (to reject Ravana with contempt), tear-tracks permanently visible on cheeks"
+                },
+                "wardrobe_and_adornments": {
+                    "clothing": "The same soiled and torn bark-cloth sari from the day of abduction, now tattered and faded, wrapped tightly around her body in protective modesty",
+                    "jewelry": "Only the mangalsutra — everything else lost or deliberately discarded to deny Ravana any satisfaction, the Chudamani (crest jewel from her hair) given to Hanuman as proof",
+                    "weapons_carried": "None — but she holds a blade of grass as a symbolic barrier against Ravana"
+                },
+                "audio_and_voice_characteristics": {
+                    "tone": "Raw and emotionally intense — shifts between heartrending sorrow, burning defiance, fierce anger at Ravana, and tender hope when Hanuman appears",
+                    "pitch": "Strained mezzo-soprano, hoarse from crying and singing prayers, but rises to a powerful dramatic soprano in moments of defiance",
+                    "speech_style": "Speaks with devastating moral clarity when addressing Ravana — each word a burning indictment. Tender and tearful when speaking of Rama. Urgent and hopeful with Hanuman. Uses the formal 'tva' (you) to distance Ravana.",
+                    "emotional_baseline": "Grief, rage, defiance, and unwavering faith in Rama's arrival — the emotional extremes of a strong woman in the worst circumstances"
+                },
+                "cinematic_generation_prompts": {
+                    "visual_prompt": "Emotionally powerful cinematic shot of Sita held captive in Ashoka Vatika, Lanka, age 23. Pale golden skin diminished by grief, gaunt and thin. Unkempt tangled black hair, tear-stained fierce doe-eyes with dark circles, cracked lips. Wearing a tattered soiled bark-cloth sari. Only jewelry is a mangalsutra. Sitting beneath a majestic Ashoka tree surrounded by threatening Rakshasi guards (shadowy). Holding a blade of grass defiantly. Flickering golden divine aura like a struggling flame. Exotic Lanka garden with dark twisted trees and golden demon architecture. 3D Pixar style, dramatic chiaroscuro lighting, emotionally intense, photorealistic, 8k.",
+                    "audio_prompt": "A strained, emotionally intense female mezzo-soprano voice alternating between heartrending sorrow and fierce burning defiance. Hoarse from grief but powerful in moral clarity. Age approximately 23 years."
+                }
+            },
+            {
+                "timeline_stage": "Queen / Rama Rajya and Later Exile",
+                "age_approximation": 35,
+                "context_description": "As the crowned Queen of Ayodhya during Rama Rajya, and later during her second exile to sage Valmiki's ashram where she raises Lava and Kusha alone.",
+                "physical_appearance": {
+                    "skin_tone": "Restored luminous golden complexion, mature and dignified, the glow of a woman who has endured everything and emerged unbroken",
+                    "height": "Regal and composed, moves with the unhurried grace of a queen and the purposeful stride of a mother",
+                    "build": "Fuller, healthier figure of motherhood, strong from raising twin boys alone in an ashram, graceful and powerful simultaneously",
+                    "facial_features": "Matured beauty that has deepened with suffering — wise knowing eyes that hold volumes of unspoken pain, gentle smile for her sons, expression of serene acceptance, laugh lines and sorrow lines coexisting, the face of a woman who has made peace with her destiny",
+                    "hair": "Long black hair with a few silver strands, worn in a dignified bun or single braid, clean and simple",
+                    "distinguishing_marks": "The golden divine aura burns strong and steady — the aura of a goddess who chose to experience mortal suffering, hands roughened by ashram work but still graceful"
+                },
+                "wardrobe_and_adornments": {
+                    "clothing": "In the ashram: simple white cotton sari with a thin golden border, modest and clean. During Rama Rajya (flashback): full royal regalia — crimson and gold silk with elaborate embroidery",
+                    "jewelry": "Ashram: Only mangalsutra, simple glass bangles, kumkum on forehead. Royal court (flashback): Full queen's jewelry — magnificent crown, layered necklaces, armlets, waistband",
+                    "weapons_carried": "None — carries sacred texts, or holds her twin sons' hands"
+                },
+                "audio_and_voice_characteristics": {
+                    "tone": "Warm maternal authority, profound wisdom earned through suffering, gentle but unbreakable, a voice that tells bedtime stories to sons and also delivers cosmic truths",
+                    "pitch": "Rich contralto-mezzo, deeper and more resonant than her youth, the warm steady voice of a mother",
+                    "speech_style": "Speaks with quiet absolute authority born of experience, no need to raise her voice, teaches Lava and Kusha with patience and love, addresses Valmiki with deep respect, her final words to Rama carry the weight of the entire universe",
+                    "emotional_baseline": "Serene acceptance, fierce maternal love, unshakeable dignity, a profound peace that comes from knowing one's own truth"
+                },
+                "cinematic_generation_prompts": {
+                    "visual_prompt": "Emotionally resonant cinematic portrait of Queen Sita as a mother, age 35, at Valmiki's forest ashram. Luminous golden skin with mature beauty deepened by experience. Wise knowing eyes with gentle smile for her twin sons. Long black hair with silver strands in a simple braid. Wearing a clean white cotton sari with thin golden border, only a mangalsutra and glass bangles. Sitting under a large Banyan tree teaching young twin boys (Lava and Kusha, age 10) from a palm-leaf manuscript. Peaceful ashram with thatched huts, a sacred fire, and forest backdrop. Warm golden sunset lighting. 3D Pixar style, tender and emotionally powerful, photorealistic, 8k.",
+                    "audio_prompt": "A warm, rich female contralto-mezzo voice of a mother, resonant with profound wisdom earned through suffering. Gentle, steady, unbreakable. Tells stories with patience and love. Age approximately 35 years."
+                }
+            }
+        ]
+    }
+}

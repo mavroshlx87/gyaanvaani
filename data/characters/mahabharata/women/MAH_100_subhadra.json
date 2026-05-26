@@ -1,0 +1,69 @@
+{
+    "SUBHADRA": {
+        "metadata": {
+            "character_id": "MAH_100",
+            "name": "Subhadra",
+            "aliases": [
+                "Subhadra Devi",
+                "Krishna-anuja",
+                "Arjuna-patni"
+            ],
+            "epic": "Mahabharata",
+            "primary_role": "Sister of Krishna and Balarama / Wife of Arjuna / Mother of Abhimanyu",
+            "gender": "Female",
+            "ethnicity_cultural_context": "Ancient Indian (Yadava Dynasty, Dwaraka, sister of Krishna)",
+            "family_relations": {
+                "father": "Vasudeva",
+                "mother": "Rohini (some traditions) or Devaki",
+                "spouse": "Arjuna",
+                "siblings": [
+                    "Krishna",
+                    "Balarama"
+                ],
+                "children": [
+                    "Abhimanyu"
+                ],
+                "guru": null
+            },
+            "divine_origin": "Sister of the Supreme Godhead Krishna — inherits divine Yadava beauty and the fierce spirit of the Yadava warrior women",
+            "tags": [
+                "princess",
+                "wife",
+                "mother",
+                "sister",
+                "warrior_princess",
+                "yadava"
+            ]
+        },
+        "timelines": [
+            {
+                "timeline_stage": "Princess-Wife / Mother of Abhimanyu",
+                "age_approximation": 25,
+                "context_description": "Subhadra — the spirited Yadava princess who eloped with Arjuna (with Krishna's help), a trained warrior in her own right who drives Arjuna's chariot during their elopement, and later the grieving mother of Abhimanyu.",
+                "physical_appearance": {
+                    "skin_tone": "Warm dark-olive Yadava complexion — similar to Krishna's but lighter, radiant with health and vitality, the distinctive Yadava beauty",
+                    "height": "Medium height, strong and athletic — a Yadava princess trained in self-defense and chariot-driving",
+                    "build": "Athletic and strong — Yadava women are warriors, she drives a war chariot during the elopement chase, fit and capable, not a delicate princess",
+                    "facial_features": "Beautiful spirited face with bright intelligent eyes sparkling with life and humor (Krishna's sister shares his mischief), strong Yadava features, confident wide smile, a face that shows both joy and fierce determination, resembles Krishna enough to be recognizable as his sister",
+                    "hair": "Long thick black hair, styled in the Yadava manner — different from the Hastinapur style, often decorated with shells and ocean-motifs (Dwaraka is a coastal city)",
+                    "distinguishing_marks": "She is visually linked to Krishna — the same Yadava features are recognizable, she drives a chariot with skilled confidence during the elopement, her grief at Abhimanyu's death is one of the most powerful maternal scenes"
+                },
+                "wardrobe_and_adornments": {
+                    "clothing": "Yadava princess attire — rich blue and coral sari (ocean-influenced colors of Dwaraka), different from Hastinapur's fashion, a warrior's practical garments beneath when needed",
+                    "jewelry": "Yadava-style jewelry — coral and pearl necklaces (ocean influence), gold shell-motif earrings, blue gem bangles, distinctive from the ruby-gold style of Hastinapur",
+                    "weapons_carried": "Can drive a war chariot expertly, carries a small dagger (Yadava women's tradition), trained in self-defense by Krishna"
+                },
+                "audio_and_voice_characteristics": {
+                    "tone": "Bright, spirited, passionate — the voice of a woman who chose her own husband against her family's wishes, fierce in love and fierce in grief",
+                    "pitch": "Bright warm mezzo-soprano — lively and spirited in joy, rising to fierce determination in crisis, devastating in maternal grief",
+                    "speech_style": "Speaks with Yadava directness and warmth, none of the formal restraint of Hastinapur's women, expresses emotions openly, her wit shows Krishna's influence, her grief for Abhimanyu is expressed without restraint",
+                    "emotional_baseline": "Spirited independent joy, passionate love, the fierce grief of a mother who loses her only son to a rigged battle"
+                },
+                "cinematic_generation_prompts": {
+                    "visual_prompt": "Vibrant cinematic shot of Princess Subhadra, age 25, Yadava princess. Warm dark-olive Yadava complexion, bright spirited eyes, confident smile. Athletic build. Wearing rich blue and coral Yadava-style sari with pearl and coral jewelry. Driving a war chariot at speed during the elopement, reins expertly held, hair flying in the wind, looking over her shoulder with a bold smile. Coastal Yadava landscape with golden cliffs and ocean. 3D Pixar style, adventurous dynamic lighting, photorealistic, 8k.",
+                    "audio_prompt": "A bright, warm female mezzo-soprano. Lively, spirited, passionately expressive. Yadava directness and warmth. Age approximately 25 years."
+                }
+            }
+        ]
+    }
+}

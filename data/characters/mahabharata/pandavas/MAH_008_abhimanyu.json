@@ -1,0 +1,67 @@
+{
+    "ABHIMANYU": {
+        "metadata": {
+            "character_id": "MAH_008",
+            "name": "Abhimanyu",
+            "aliases": [
+                "Arjuna-putra",
+                "Subhadra-nandana",
+                "Soubhadri"
+            ],
+            "epic": "Mahabharata",
+            "primary_role": "Son of Arjuna and Subhadra / The young warrior who entered the Chakravyuha but could not escape / Tragic hero",
+            "gender": "Male",
+            "ethnicity_cultural_context": "Ancient Indian (Kuru-Yadava lineage — Pandava father, Krishna's clan mother)",
+            "family_relations": {
+                "father": "Arjuna",
+                "mother": "Subhadra (Krishna's sister)",
+                "spouse": "Uttaraa",
+                "siblings": [],
+                "children": [
+                    "Parikshit (posthumous)"
+                ],
+                "guru": "Arjuna, Pradyumna"
+            },
+            "divine_origin": "Son of Arjuna (son of Indra) and Subhadra (Krishna's sister) — inherits divine martial talent from both lineages, learned the Chakravyuha entry technique while in his mother's womb",
+            "tags": [
+                "warrior",
+                "young",
+                "hero",
+                "tragic",
+                "son",
+                "brave",
+                "sacrifice"
+            ]
+        },
+        "timelines": [
+            {
+                "timeline_stage": "Young Hero / The Chakravyuha",
+                "age_approximation": 16,
+                "context_description": "Abhimanyu enters the Chakravyuha (spinning wheel battle formation) knowing only how to enter but not exit. He fights alone against the entire Kaurava army inside the formation and is eventually killed by six warriors attacking simultaneously — the most tragic death in the Mahabharata.",
+                "physical_appearance": {
+                    "skin_tone": "Bright dark-copper complexion combining Arjuna's olive and Subhadra's Yadava warmth, glowing with youthful divine fire",
+                    "height": "Tall for his age, moves with Arjuna's inherited grace and speed, the bearing of a prince",
+                    "build": "Young but remarkably powerful — lean athletic build trained in warfare since childhood, a mirror of young Arjuna's physique, quick reflexes and explosive strength despite his youth",
+                    "facial_features": "Strikingly handsome young face combining Arjuna's sharp features and Subhadra's Yadava warmth — large bright determined eyes, strong young jaw, fearless expression, resembles both his father and his uncle Krishna, a face that shows both boyish youth and warrior determination, no fear visible even when trapped",
+                    "hair": "Thick black hair in Arjuna-style warrior topknot, neat and battle-ready, showing his training",
+                    "distinguishing_marks": "He fights with preternatural skill inside the Chakravyuha — cutting through warriors twice his age, his combat style is a mirror of Arjuna's but rawer and more instinctive, his chariot wheels break and he fights on foot with a chariot wheel as a shield (one of the most famous images in the epic)"
+                },
+                "wardrobe_and_adornments": {
+                    "clothing": "Silver and blue battle armor fitted to his young frame — lighter and more agile than his father's heavy golden armor, a blue war cape",
+                    "jewelry": "A prince's silver diadem, armlets inscribed with Kuru symbols, minimal but elegant warrior jewelry",
+                    "weapons_carried": "A bow (modeled after Arjuna's style), a sword, and famously — a broken chariot wheel used as both shield and weapon in his last stand"
+                },
+                "audio_and_voice_characteristics": {
+                    "tone": "Brave, fierce, young, fearless — the voice of pure warrior courage without the wisdom to temper it, burning bright and dying young",
+                    "pitch": "Clear young tenor-baritone — bright and cutting like a blade, fierce and unafraid, carrying his father's vocal quality but rawer and more urgent",
+                    "speech_style": "Speaks with the boundless courage of youth — challenges warriors three times his age without hesitation, his battle cries carry Arjuna's technique, in his last moments fights silently with pure grim determination, never calls for help",
+                    "emotional_baseline": "Pure warrior courage, fierce pride in his lineage, the tragic absence of fear that leads him into a trap he cannot escape, dying defiance"
+                },
+                "cinematic_generation_prompts": {
+                    "visual_prompt": "Heartbreaking cinematic shot of young Abhimanyu, age 16, in the Chakravyuha. Bright dark-copper skin, handsome young face fierce with determination. Silver and blue armor, battle-worn. Fighting alone against multiple attackers — using a broken chariot wheel as a shield in one hand, sword in the other. Surrounded by the circular formation of enemies. Arrows embedded in his armor, blood on his face, but still fighting. Dramatic battlefield lighting, dust and chaos. 3D Pixar style, tragically heroic, photorealistic, 8k.",
+                    "audio_prompt": "A clear, bright young male tenor-baritone. Fierce, unafraid, burning with warrior courage. Never calls for help. Age approximately 16 years."
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,101 @@
+{
+    "LAKSHMANA": {
+        "metadata": {
+            "character_id": "RAM_003",
+            "name": "Lakshmana",
+            "aliases": [
+                "Lakshman",
+                "Saumitri",
+                "Ramanuja",
+                "Shesha-avatara",
+                "Lakshmana Swami"
+            ],
+            "epic": "Ramayana",
+            "primary_role": "Deuteragonist / Rama's devoted younger brother / Avatar of Shesha Naga",
+            "gender": "Male",
+            "ethnicity_cultural_context": "Ancient Indian (Ikshvaku Dynasty, Ayodhya, Twin of Shatrughna)",
+            "family_relations": {
+                "father": "Dasharatha",
+                "mother": "Sumitra",
+                "spouse": "Urmila",
+                "siblings": [
+                    "Sri Rama",
+                    "Bharata",
+                    "Shatrughna"
+                ],
+                "children": [
+                    "Angada",
+                    "Chandraketu"
+                ],
+                "guru": "Vasishtha"
+            },
+            "divine_origin": "Avatar of Adi Shesha (the divine serpent on whom Vishnu rests)",
+            "tags": [
+                "warrior",
+                "brother",
+                "devotee",
+                "protector",
+                "prince",
+                "avatar"
+            ]
+        },
+        "timelines": [
+            {
+                "timeline_stage": "Youth / Prince of Ayodhya",
+                "age_approximation": 15,
+                "context_description": "Growing up as Rama's inseparable companion, training together under sage Vishwamitra.",
+                "physical_appearance": {
+                    "skin_tone": "Gaura (fair golden-wheat complexion, lighter than Rama, glowing with youthful energy)",
+                    "height": "Tall, almost matching Rama in height, athletic build",
+                    "build": "Lean and wiry but powerfully built, extremely quick reflexes, broad shoulders, long arms like Rama",
+                    "facial_features": "Sharp angular features with piercing intense eyes (Ugra-netra), hawk-like gaze always scanning for threats, strong jawline, determined expression, high cheekbones, slight frown of concentration",
+                    "hair": "Thick black hair tied in a tight warrior's topknot, shorter than Rama's, practical combat style",
+                    "distinguishing_marks": "Alert posture — always positioned slightly behind and to Rama's right, always armed, intense protective energy radiating from him"
+                },
+                "wardrobe_and_adornments": {
+                    "clothing": "White and gold silk dhotis, slightly simpler than Rama's — befitting a younger prince, matching uttariya",
+                    "jewelry": "Silver and gold crown smaller than Rama's, silver armlets, minimal necklaces, practical leather wrist-guards over jewelry",
+                    "weapons_carried": "A powerful composite bow and twin quivers, a sharp straight sword always at hand, throwing daggers at his belt"
+                },
+                "audio_and_voice_characteristics": {
+                    "tone": "Intense, fierce, passionately protective, sharp-edged with restrained anger, deeply respectful to Rama",
+                    "pitch": "Tenor — bright, sharp, cutting, rising to a fierce shout when angered",
+                    "speech_style": "Quick and direct, fewer diplomatic words than Rama, speaks with fierce clarity, fiery retorts to perceived disrespect toward Rama, uses colloquial speech when angry",
+                    "emotional_baseline": "Fierce protectiveness bordering on aggression, absolute devotion to Rama, restrained anger always simmering beneath the surface"
+                },
+                "cinematic_generation_prompts": {
+                    "visual_prompt": "Cinematic shot of young Prince Lakshmana, age 15, loyal companion of Rama. Fair golden-wheat complexion, sharp angular features, piercing hawk-like eyes with intense protective gaze. Thick black hair in a tight warrior topknot. Lean muscular athletic build. Wearing white and gold silk dhoti, silver crown, leather wrist-guards. Armed with a composite bow, twin quivers, and a straight sword. Standing alertly beside Rama in a grand palace training yard. 3D Pixar style, dynamic lighting, photorealistic, 8k.",
+                    "audio_prompt": "A bright, sharp young male tenor voice, intense and fiercely protective. Quick direct speech with restrained anger. Passionately devoted. Age approximately 15-16 years."
+                }
+            },
+            {
+                "timeline_stage": "Exile / Warrior-Guardian",
+                "age_approximation": 24,
+                "context_description": "During the 14-year forest exile, Lakshmana serves as Rama and Sita's unwavering protector. He draws the famous Lakshman Rekha to protect Sita.",
+                "physical_appearance": {
+                    "skin_tone": "Sun-darkened fair (golden wheat now deeply tanned, hardened by forest elements)",
+                    "height": "Tall and imposing, moves like a coiled spring ready to strike",
+                    "build": "Battle-hardened, lean muscular physique optimized for speed and combat, scarred forearms from countless battles with forest demons, powerful sword arm",
+                    "facial_features": "Weathered sharp features, permanently alert eyes with visible fatigue lines (he barely sleeps to guard Rama), short rough beard, intense expression that softens only when looking at Rama, deep furrow between brows",
+                    "hair": "Matted hair in a functional ascetic knot, shorter and more practical than Rama's jata",
+                    "distinguishing_marks": "Visible scars from Rakshasa encounters, eyes are slightly reddened from sleepless nights of guarding, hands calloused from constant weapon readiness"
+                },
+                "wardrobe_and_adornments": {
+                    "clothing": "Tree-bark garments (Valkala) wrapped functionally for quick movement, leather arm-wraps, animal-hide sandals",
+                    "jewelry": "No ornaments — only the sacred thread (Yajnopavita) and rough wooden beads around one wrist",
+                    "weapons_carried": "A heavy war bow, twin quivers strapped for quick draw, a long-bladed sword sharpened daily, a hand-axe for camp work"
+                },
+                "audio_and_voice_characteristics": {
+                    "tone": "Razor-sharp, fiercely intense, explodes with controlled fury when threats appear, speaks with absolute protective authority",
+                    "pitch": "Cutting tenor rising to a powerful dramatic voice in combat, voice carries a permanent edge of readiness",
+                    "speech_style": "Short commands, tactical directives, speaks only when necessary in the forest, erupts in fierce passionate speeches when Rama's honor is questioned, legendary outbursts of protective anger",
+                    "emotional_baseline": "Hyper-vigilant, sleep-deprived but razor-alert, absolute self-sacrificing devotion, barely contained fury at the injustice of Rama's exile"
+                },
+                "cinematic_generation_prompts": {
+                    "visual_prompt": "Epic cinematic shot of warrior Lakshmana in dense ancient forest, age 24. Sun-darkened fair skin, sharp weathered features, permanently alert reddened eyes, short rough beard, matted hair in practical knot. Lean muscular build with battle scars on forearms. Wearing functional bark garments with leather arm-wraps. Drawing a heavy war bow with intense protective fury. Standing guard before a forest hermitage at night, firelight casting dramatic shadows. 3D Pixar style, intense dramatic lighting, photorealistic, 8k.",
+                    "audio_prompt": "A razor-sharp male tenor voice with a permanent edge of combat readiness. Erupts in fierce passionate outbursts when protecting loved ones. Controlled fury. Age approximately 24 years."
+                }
+            }
+        ]
+    }
+}

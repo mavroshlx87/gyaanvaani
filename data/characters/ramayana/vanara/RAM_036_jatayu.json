@@ -1,0 +1,66 @@
+{
+    "JATAYU": {
+        "metadata": {
+            "character_id": "RAM_036",
+            "name": "Jatayu",
+            "aliases": [
+                "Jataayu",
+                "Gridhraj",
+                "King of Vultures"
+            ],
+            "epic": "Ramayana",
+            "primary_role": "King of Vultures / Friend of Dasharatha / Gave his life fighting Ravana to protect Sita",
+            "gender": "Male",
+            "ethnicity_cultural_context": "Divine eagle-vulture (Garuda's lineage), friend of King Dasharatha",
+            "family_relations": {
+                "father": "Aruna",
+                "mother": "Shyeni",
+                "spouse": null,
+                "siblings": [
+                    "Sampati"
+                ],
+                "children": [],
+                "guru": null
+            },
+            "divine_origin": "Descended from Garuda — divine bird lineage, friend of Dasharatha from the previous generation",
+            "tags": [
+                "eagle",
+                "hero",
+                "martyr",
+                "protector",
+                "noble",
+                "sacrifice"
+            ]
+        },
+        "timelines": [
+            {
+                "timeline_stage": "Hero / Battle with Ravana",
+                "age_approximation": 55,
+                "context_description": "The great eagle-king Jatayu intercepts Ravana's flying chariot as he abducts Sita, fighting heroically despite being old and outmatched. Ravana cuts his wings and he dies in Rama's arms after telling him the direction Ravana fled.",
+                "physical_appearance": {
+                    "skin_tone": "Rich tawny-golden to brown plumage streaked with grey-white of age, magnificent but fading, massive wingspan",
+                    "height": "Enormous eagle — 15-foot wingspan (before amputation), as tall as a tall man when standing, massive and imposing",
+                    "build": "Powerful eagle build — thick muscular legs with razor-sharp talons, broad deep chest, enormous wings (before battle), the build of a apex predator, showing age but still formidable",
+                    "facial_features": "Noble raptor face with large fierce amber-golden eyes burning with righteous fury during the battle, sharply curved golden beak, the expression of an old warrior fighting his last and greatest battle, proud and defiant despite mortal wounds",
+                    "hair": "Magnificent golden-brown head crest feathers, now battle-torn and blood-stained during the fight, a regal crown of feathers",
+                    "distinguishing_marks": "During the battle: wing feathers sliced and bloodied by Ravana's sword, deep slashing wounds across his body, blood-soaked but still fighting. Dying scene: lying with severed wings, blood pooling, but eyes still alive with the urgency to tell Rama about Sita"
+                },
+                "wardrobe_and_adornments": {
+                    "clothing": "Natural plumage — eagles wear no garments, his magnificent feathers are his clothing, now torn and bloodied",
+                    "jewelry": "A worn golden neck-ring — ancient mark of his status as king of the birds, gift from Dasharatha's era",
+                    "weapons_carried": "Razor-sharp talons — each as long as a dagger, powerful beak capable of tearing metal, his wings as battering weapons against Ravana's chariot"
+                },
+                "audio_and_voice_characteristics": {
+                    "tone": "Noble, urgent, fierce in battle, tender and dying when speaking to Rama — the voice of a loyal friend spending his last breath",
+                    "pitch": "Hoarse piercing eagle-cry in battle — sharp and cutting, transitioning to a weak trembling rasp as he dies, each word costing enormous effort",
+                    "speech_style": "Battle cries and eagle shrieks during the fight, fierce challenges to Ravana, dying words are delivered with desperate urgency ('Rama... Ravana... took Sita... southward... Lanka...'), calls Rama 'son' as a friend of his father",
+                    "emotional_baseline": "Noble heroic sacrifice, fierce protective fury, dying urgency to convey vital information, the pride of a warrior who chose the right death"
+                },
+                "cinematic_generation_prompts": {
+                    "visual_prompt": "Heartbreaking cinematic battle scene of Jatayu fighting Ravana to protect Sita. Magnificent eagle with tawny-golden plumage, 15-foot wingspan, attacking Ravana's flying chariot with razor talons and beak. Blood-stained feathers, fierce amber eyes blazing. Sita visible in the chariot crying. Dramatic aerial combat against a fiery sky. Then: dying scene — Jatayu on the ground with severed wings, blood pooling, Rama kneeling beside him in anguish. 3D Pixar style, epic dramatic lighting, photorealistic, 8k.",
+                    "audio_prompt": "A hoarse, piercing eagle-cry in battle transitioning to a weak, trembling rasp. Fierce to dying. Each word costing enormous effort. Noble and urgent."
+                }
+            }
+        ]
+    }
+}

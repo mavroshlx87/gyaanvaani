@@ -1,0 +1,65 @@
+{
+    "SHIKHANDI": {
+        "metadata": {
+            "character_id": "MAH_051",
+            "name": "Shikhandi",
+            "aliases": [
+                "Shikhandini",
+                "Amba reborn"
+            ],
+            "epic": "Mahabharata",
+            "primary_role": "Reincarnation of Amba / Born female, became male / The one who stood before Bhishma enabling his fall",
+            "gender": "Male (born female)",
+            "ethnicity_cultural_context": "Ancient Indian (Panchala kingdom, reincarnation of Princess Amba)",
+            "family_relations": {
+                "father": "Drupada",
+                "mother": null,
+                "spouse": null,
+                "siblings": [
+                    "Dhrishtadyumna",
+                    "Draupadi"
+                ],
+                "children": [],
+                "guru": null
+            },
+            "divine_origin": "Reincarnation of Princess Amba who was wronged by Bhishma — born female (Shikhandini), obtained male body through a Yaksha's blessing, destined to be the cause of Bhishma's fall",
+            "tags": [
+                "warrior",
+                "reborn",
+                "transgender",
+                "avenger",
+                "catalyst"
+            ]
+        },
+        "timelines": [
+            {
+                "timeline_stage": "Avenger / Bhishma's Fall",
+                "age_approximation": 30,
+                "context_description": "Shikhandi at Kurukshetra — standing before Bhishma's chariot, knowing Bhishma will not fight because he was born female. Arjuna shoots from behind Shikhandi.",
+                "physical_appearance": {
+                    "skin_tone": "Medium complexion with an androgynous quality — features that suggest both the female Amba origin and the male warrior identity, unique and striking",
+                    "height": "Medium height, lean warrior build — not the most physically imposing but carries fierce determination",
+                    "build": "Lean androgynous warrior build — strong and capable but with a grace that hints at the original female birth, trained warrior's musculature",
+                    "facial_features": "Strikingly androgynous face — features that are beautiful rather than conventionally masculine, fierce determined eyes carrying lifetimes (literally) of accumulated vengeance against Bhishma, a face that makes Bhishma lower his bow because he sees Amba in it, strong jawline developing over the male years, haunted expression of one who has died and been reborn for a single purpose",
+                    "hair": "Long dark hair — worn in a warrior's style but longer and more flowing than typical male warriors, the hair of Amba remade",
+                    "distinguishing_marks": "The defining moment: standing on the battlefield facing Bhishma, who lowers his bow because he sees the reborn Amba — this single moment of cosmic karma enables Bhishma's fall, Shikhandi is the living weapon of Amba's vendetta across lifetimes"
+                },
+                "wardrobe_and_adornments": {
+                    "clothing": "Panchala warrior armor — similar to Dhrishtadyumna's but slightly lighter, a distinctive sash or banner marking their identity on the battlefield",
+                    "jewelry": "Mixed jewelry showing dual heritage — some feminine elements retained, combined with warrior's practical gear",
+                    "weapons_carried": "A bow and arrows, a sword — skilled but not the archer who actually fells Bhishma (Arjuna shoots from behind Shikhandi's cover)"
+                },
+                "audio_and_voice_characteristics": {
+                    "tone": "Complex, carrying the weight of two lifetimes, the voice of justice delayed but inevitable, a unique quality that reflects both Amba's feminine fury and Shikhandi's male warrior resolve",
+                    "pitch": "Unique voice — tenor with soprano undertones, carrying echoes of both Amba's feminine fury and Shikhandi's masculine determination, unlike any other voice in the epic",
+                    "speech_style": "Speaks of Bhishma with cold concentrated vengeance accumulated over two lifetimes, addresses self with the confidence of one who has earned their identity, speaks of Amba in third person sometimes and first person other times ('She was wronged / I was wronged')",
+                    "emotional_baseline": "Cold focused vengeance perfected over two lifetimes, the resolution of cosmic karma, the complex identity of one who has been both genders and chosen their purpose across both"
+                },
+                "cinematic_generation_prompts": {
+                    "visual_prompt": "Haunting cinematic shot of Shikhandi, age 30, facing Bhishma at Kurukshetra. Medium androgynous complexion, strikingly beautiful-fierce face carrying lifetimes of vengeance. Long dark warrior's hair flowing. Wearing Panchala armor. Standing directly before Bhishma's chariot, Bhishma's face visible — lowering his bow in recognition of Amba. Arjuna visible behind Shikhandi, bow drawn. Dramatic charged battlefield moment. 3D Pixar style, intense karmic atmosphere, photorealistic, 8k.",
+                    "audio_prompt": "A unique voice — tenor with soprano undertones, carrying echoes of both lifetimes. Cold focused vengeance and complex identity. Age approximately 30 years."
+                }
+            }
+        ]
+    }
+}

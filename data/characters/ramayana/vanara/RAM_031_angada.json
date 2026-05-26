@@ -1,0 +1,63 @@
+{
+    "ANGADA": {
+        "metadata": {
+            "character_id": "RAM_031",
+            "name": "Angada",
+            "aliases": [
+                "Angad",
+                "Vali-putra"
+            ],
+            "epic": "Ramayana",
+            "primary_role": "Son of Vali / Crown Prince of Kishkindha / Brave Vanara warrior and Rama's messenger to Ravana",
+            "gender": "Male",
+            "ethnicity_cultural_context": "Vanara (divine monkey race), Kishkindha, son of the mighty Vali",
+            "family_relations": {
+                "father": "Vali",
+                "mother": "Tara",
+                "spouse": null,
+                "siblings": [],
+                "children": [],
+                "guru": null
+            },
+            "divine_origin": "Son of Vali (son of Indra) — inherits his father's divine strength",
+            "tags": [
+                "vanara",
+                "prince",
+                "warrior",
+                "messenger",
+                "young",
+                "brave"
+            ]
+        },
+        "timelines": [
+            {
+                "timeline_stage": "Young Warrior / Messenger to Ravana",
+                "age_approximation": 18,
+                "context_description": "Angada serves as Rama's defiant messenger to Ravana's court, planting his foot so firmly that no Rakshasa could move it — a famous test of strength.",
+                "physical_appearance": {
+                    "skin_tone": "Bright golden fur lighter than his father Vali's, copper-bronze skin beneath, gleaming with youthful vitality and divine heritage",
+                    "height": "Tall for a young Vanara, athletic and proud, carries himself with the confidence of Vali's son",
+                    "build": "Young and powerfully muscular — not yet as massive as his father but already exceptionally strong, lithe and agile, long powerful arms, a warrior in his physical prime",
+                    "facial_features": "Young handsome simian face with large fierce golden eyes (inherited from Vali), determined jaw, expression of proud defiance and youthful courage, a face that shows both his father's warrior nature and his mother Tara's intelligence",
+                    "hair": "Thick bright golden fur around the face, shorter and neater than older Vanaras, groomed with warrior's pride",
+                    "distinguishing_marks": "Moves with the explosive power of Vali's bloodline, his foot-plant in Ravana's court (Angada's challenge) is legendary — when he plants his foot, it cannot be moved by any force"
+                },
+                "wardrobe_and_adornments": {
+                    "clothing": "Royal Kishkindha warrior garments — a rich red and gold waist-cloth, golden chest band, arm-guards for combat",
+                    "jewelry": "Crown prince's golden diadem (smaller than a king's crown), golden armlets inscribed with Vali's clan symbols, warrior's wrist guards",
+                    "weapons_carried": "A heavy war mace and a battle staff — both oversized for dramatic effect, reflecting his inherited strength"
+                },
+                "audio_and_voice_characteristics": {
+                    "tone": "Bold, proud, defiant, youthfully aggressive, unafraid to challenge anyone — speaks to Ravana with contemptuous bravery",
+                    "pitch": "Strong bright tenor — young and carrying, bold and challenging, projects confidence beyond his years",
+                    "speech_style": "Speaks with proud defiance, direct challenges delivered with warrior's bravado, addresses Ravana without fear ('I dare any of you to move my foot!'), respectful but fierce when addressing Rama",
+                    "emotional_baseline": "Proud warrior courage, defiant spirit, the energy of a young prince proving himself, fierce loyalty to Rama who killed his father but earned his respect"
+                },
+                "cinematic_generation_prompts": {
+                    "visual_prompt": "Dynamic cinematic shot of young Vanara warrior Angada, age 18, in Ravana's court. Bright golden fur, fierce golden eyes, proud defiant expression. Young powerfully muscular build. Wearing red and gold warrior garments, golden diadem, golden armlets. Standing defiantly with one foot planted firmly on the golden floor of Lanka's throne room, challenging all comers. Ravana's court of Rakshasas around him. 3D Pixar style, bold dramatic lighting, photorealistic, 8k.",
+                    "audio_prompt": "A strong, bold young male tenor voice projecting defiance and warrior courage. Direct and challenging. Age approximately 18 years."
+                }
+            }
+        ]
+    }
+}

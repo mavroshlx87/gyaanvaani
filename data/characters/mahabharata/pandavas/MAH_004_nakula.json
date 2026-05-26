@@ -1,0 +1,69 @@
+{
+    "NAKULA": {
+        "metadata": {
+            "character_id": "MAH_004",
+            "name": "Nakula",
+            "aliases": [
+                "Pandava-chaturtha"
+            ],
+            "epic": "Mahabharata",
+            "primary_role": "Fourth Pandava / Most handsome man in the world / Expert horseman and swordsman / Son of one of the Ashvini Kumars",
+            "gender": "Male",
+            "ethnicity_cultural_context": "Ancient Indian (Kuru Dynasty, Hastinapur, son of Madri and Ashvini Kumar)",
+            "family_relations": {
+                "father": "Pandu (mortal), Ashvini Kumar (divine)",
+                "mother": "Madri",
+                "spouse": "Draupadi",
+                "siblings": [
+                    "Yudhishthira",
+                    "Bhima",
+                    "Arjuna",
+                    "Sahadeva (twin)"
+                ],
+                "children": [
+                    "Shatanika"
+                ],
+                "guru": "Drona"
+            },
+            "divine_origin": "Son of Ashvini Kumar (divine physician twin — associated with beauty and health)",
+            "tags": [
+                "pandava",
+                "handsome",
+                "horseman",
+                "swordsman",
+                "twin",
+                "healer"
+            ]
+        },
+        "timelines": [
+            {
+                "timeline_stage": "Warrior / Horseman",
+                "age_approximation": 25,
+                "context_description": "Nakula — the most handsome man in the epic, expert in horse warfare and swordsmanship, and knowledgeable in Ayurvedic medicine.",
+                "physical_appearance": {
+                    "skin_tone": "Luminous fair-golden complexion — the most radiant and beautiful skin among the Pandavas, almost glowing with divine health and beauty",
+                    "height": "Tall, perfectly proportioned, moves with the grace of a dancer or a horseman",
+                    "build": "Perfectly proportioned athletic build — neither too bulky nor too lean, the ideal masculine physique, every muscle defined with aesthetic perfection, a horseman's strong legs and flexible core",
+                    "facial_features": "The most handsome face in the Mahabharata — large luminous almond eyes, perfectly symmetrical features, straight nose, full lips, defined jawline, high cheekbones, an almost divine beauty that makes everyone who sees him stare, perpetual confident gentle smile, clean-shaven to highlight his features",
+                    "hair": "Thick lustrous black hair, perfectly groomed and styled, the most well-maintained hair among the brothers",
+                    "distinguishing_marks": "His physical beauty is his defining mark — he is described as the most beautiful man ever born, also carries a horseman's easy balanced posture, always near horses which he trains with almost supernatural affinity"
+                },
+                "wardrobe_and_adornments": {
+                    "clothing": "Elegant well-fitted royal garments in rich peacock blue and silver, always impeccably dressed, the most fashionable Pandava",
+                    "jewelry": "Refined silver and sapphire jewelry — tastefully chosen to complement his features, an aesthetic sense his brothers lack, a sapphire-studded crown",
+                    "weapons_carried": "An elegant curved sword (his specialty), a horseman's lance, skilled with a bow but prefers melee combat"
+                },
+                "audio_and_voice_characteristics": {
+                    "tone": "Elegant, charming, smooth, the most socially polished voice among the Pandavas, speaks with natural charisma",
+                    "pitch": "Smooth warm tenor — melodious and pleasant, the most aesthetically pleasing voice to listen to",
+                    "speech_style": "Speaks with natural charm and social ease, elegant vocabulary, comfortable in any social setting, speaks kindly and gently to horses and animals, can be surprisingly fierce in combat",
+                    "emotional_baseline": "Gentle confident charm, pride in appearance without vanity, deep love for his twin Sahadeva, the comfortable confidence of one blessed with beauty"
+                },
+                "cinematic_generation_prompts": {
+                    "visual_prompt": "Stunning cinematic portrait of Nakula, age 25, most handsome man in the world. Luminous fair-golden complexion, divinely beautiful face with perfect symmetrical features, luminous almond eyes, defined jawline. Perfectly proportioned athletic build. Wearing elegant peacock blue and silver royal garments, sapphire crown. Standing beside a magnificent white stallion, one hand on the horse's neck. Grand royal stables. 3D Pixar style, radiant golden lighting, photorealistic, 8k.",
+                    "audio_prompt": "A smooth, warm male tenor voice. Melodious, charming, socially polished. Natural charisma. Age approximately 25 years."
+                }
+            }
+        ]
+    }
+}

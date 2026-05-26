@@ -1,0 +1,69 @@
+{
+    "DHRITARASHTRA": {
+        "metadata": {
+            "character_id": "MAH_016",
+            "name": "Dhritarashtra",
+            "aliases": [
+                "Dhritaraashtra",
+                "The Blind King"
+            ],
+            "epic": "Mahabharata",
+            "primary_role": "Blind King of Hastinapur / Father of 100 Kauravas / His inability to control his sons caused the war",
+            "gender": "Male",
+            "ethnicity_cultural_context": "Ancient Indian (Kuru Dynasty, Hastinapur, born blind — son of Vyasa and Ambika)",
+            "family_relations": {
+                "father": "Vyasa (biological), Vichitravirya (legal)",
+                "mother": "Ambika",
+                "spouse": "Gandhari",
+                "siblings": [
+                    "Pandu (half-brother)",
+                    "Vidura (half-brother)"
+                ],
+                "children": [
+                    "100 Kauravas",
+                    "Dushala"
+                ],
+                "guru": "Bhishma"
+            },
+            "divine_origin": "Born blind because his mother Ambika closed her eyes in fear when she saw Vyasa — inherits massive physical strength (when he embraces the iron statue of Bhima he crushes it)",
+            "tags": [
+                "king",
+                "blind",
+                "father",
+                "weak",
+                "tragic",
+                "powerful_body"
+            ]
+        },
+        "timelines": [
+            {
+                "timeline_stage": "King / The Blind Father",
+                "age_approximation": 65,
+                "context_description": "Dhritarashtra the blind king — a man of enormous physical strength but devastating emotional weakness, unable to control his son Duryodhana, hearing the war's events through Sanjaya's divine narration.",
+                "physical_appearance": {
+                    "skin_tone": "Pale golden complexion, healthy and well-fed from a lifetime of royal comfort, but carrying visible tension",
+                    "height": "Tall and massively built — despite being blind he possesses the strength of ten thousand elephants (demonstrated when he crushes the iron Bhima statue)",
+                    "build": "Enormously powerful physically — massive broad shoulders, thick powerful arms capable of crushing iron, the ironic contrast between his physical power and his emotional weakness is his defining characteristic",
+                    "facial_features": "Sightless eyes — large, pale, unfocused, perpetually open but seeing nothing (no blindfold unlike Gandhari), noble aged face showing the anguish of a father who cannot control his sons, heavy lined features, expression alternating between helpless grief and delusional hope",
+                    "hair": "Thinning grey-white hair, poorly maintained — a king who doesn't see his own reflection, simple crown often askew",
+                    "distinguishing_marks": "His blind eyes are his defining mark — large, pale, and sightless, they somehow convey more emotion than seeing eyes, his enormous hands betray his physical power — when emotional his grip unconsciously tightens on whatever he holds (arms of throne, Sanjaya's arm), the iron Bhima incident reveals his hidden terrifying strength"
+                },
+                "wardrobe_and_adornments": {
+                    "clothing": "Rich but carelessly worn royal robes — the finest silk but often rumpled, a king who cannot see his own appearance and whose attendants are too afraid of his moods to correct him",
+                    "jewelry": "A heavy but crooked crown, royal chains, rings — all slightly off-center or poorly arranged because he cannot see them",
+                    "weapons_carried": "His terrifying physical strength — when he embraces the iron statue of Bhima (thinking it's real Bhima), he crushes it flat, demonstrating strength that could have killed all five Pandavas if unleashed"
+                },
+                "audio_and_voice_characteristics": {
+                    "tone": "Wavering, emotional, alternating between denial and grief — the voice of a father who loves his sons too much to discipline them, pathetically asking 'What is happening?' during the war",
+                    "pitch": "Deep trembling bass — powerful vocal cords from a powerful body, but the voice constantly wavers with emotion, powerful when angry but quickly subsiding into helpless grief",
+                    "speech_style": "Constantly asks 'Tell me, Sanjaya, what happened then?' — his most famous repeated line, speaks with the pitiful authority of a king who commands but cannot enforce, alternates between blaming the Pandavas and privately knowing his sons are wrong",
+                    "emotional_baseline": "Helpless love, willful blindness (metaphorical and literal), the tragic weakness of a powerful man who cannot use his power wisely"
+                },
+                "cinematic_generation_prompts": {
+                    "visual_prompt": "Tragic cinematic portrait of blind King Dhritarashtra, age 65, on the throne of Hastinapur. Pale golden complexion, massive powerful build, sightless pale open eyes, aged anguished face. Rich rumpled royal robes, crooked heavy crown. Sitting on the throne gripping the armrests with enormous powerful hands, leaning toward Sanjaya who narrates the war. Expression of helpless anguish. Dark palace interior, firelight flickering. 3D Pixar style, moody dramatic lighting, photorealistic, 8k.",
+                    "audio_prompt": "A deep, trembling male bass. Powerful vocal cords but constantly wavering with emotion. Helpless authority. 'Tell me, Sanjaya...' Age approximately 65 years."
+                }
+            }
+        ]
+    }
+}

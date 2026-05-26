@@ -1,0 +1,62 @@
+{
+    "SANJAYA": {
+        "metadata": {
+            "character_id": "MAH_028",
+            "name": "Sanjaya",
+            "aliases": [
+                "Gavalgana",
+                "The Narrator"
+            ],
+            "epic": "Mahabharata",
+            "primary_role": "Charioteer and secretary of Dhritarashtra / Granted divine vision by Vyasa to narrate the war",
+            "gender": "Male",
+            "ethnicity_cultural_context": "Ancient Indian (Kuru Dynasty, Hastinapur, charioteer's son, secretary to the blind king)",
+            "family_relations": {
+                "father": "Gavalgana",
+                "mother": null,
+                "spouse": null,
+                "siblings": [],
+                "children": [],
+                "guru": "Vyasa (granted divine vision)"
+            },
+            "divine_origin": "Granted Divya Drishti (divine vision) by Vyasa to see the entire battlefield from Hastinapur and narrate events in real-time to the blind Dhritarashtra",
+            "tags": [
+                "narrator",
+                "secretary",
+                "divine_vision",
+                "charioteer",
+                "witness"
+            ]
+        },
+        "timelines": [
+            {
+                "timeline_stage": "Narrator / Divine Vision",
+                "age_approximation": 40,
+                "context_description": "Sanjaya with divine vision, narrating the entire Kurukshetra war to the blind Dhritarashtra — he is the human camera through which we see the Bhagavad Gita and the entire battle.",
+                "physical_appearance": {
+                    "skin_tone": "Medium complexion — ordinary-looking man elevated by divine gift, but his eyes now permanently carry the luminous glow of Divya Drishti (divine sight)",
+                    "height": "Medium height, unassuming build — he was chosen for his honesty and neutrality, not for physical impressiveness",
+                    "build": "Modest unremarkable build of a secretary — thin but strong from chariot service, his body occasionally trembles with the intensity of the visions he must convey",
+                    "facial_features": "Ordinary but honest face transformed by divine vision — his eyes glow with supernatural sight, wide and luminous, seeing events hundreds of miles away, expression alternates between the awe of witnessing cosmic events (the Vishvarupa of Krishna) and the horror of narrating carnage to the blind father of the losing side, tears streaming constantly from divine-sight-overloaded eyes",
+                    "hair": "Simple dark hair, neat and practical, unremarkable",
+                    "distinguishing_marks": "His glowing eyes are his defining mark — they are focused on distant events no one else can see, he speaks to the air as if watching a screen, he sometimes covers his eyes in horror at what he witnesses, his body shakes when narrating especially devastating events"
+                },
+                "wardrobe_and_adornments": {
+                    "clothing": "Simple secretary's garments — clean but unremarkable white and light brown robes, practical for sitting beside the king for days",
+                    "jewelry": "Minimal — a secretary's writing implements, a simple chain, no warrior's adornment",
+                    "weapons_carried": "His divine vision and his words — he is the living broadcast of the greatest war ever fought, his narration is the Mahabharata itself"
+                },
+                "audio_and_voice_characteristics": {
+                    "tone": "Alternates between awed wonder and horrified urgency — the voice of a man seeing things beyond human comprehension and trying to convey them, occasionally cracking with emotion",
+                    "pitch": "Clear expressive tenor — designed for long narration, shifts effortlessly between reportorial neutrality and emotional intensity, must convey battle, philosophy, and horror in the same sentence",
+                    "speech_style": "Narrates in vivid real-time reportage — 'Now, O King, Arjuna raises Gandiva...', his descriptions are cinematic in their detail, breaks into the Bhagavad Gita narration with awestruck reverence, occasionally editorializes with emotional reactions to especially devastating events",
+                    "emotional_baseline": "Awed witness, the burden of seeing everything and reporting truthfully, emotional overwhelm at cosmic events, professional duty to narrate neutrally while personally devastated"
+                },
+                "cinematic_generation_prompts": {
+                    "visual_prompt": "Cinematic shot of Sanjaya narrating the war, age 40. Medium complexion, ordinary face transformed by glowing luminous divine-sight eyes focused on distant events. Simple white robes. Seated beside blind Dhritarashtra on the palace terrace. Eyes wide with supernatural vision, one hand gesturing at invisible distant events, mouth open in vivid narration. Dhritarashtra leaning toward him with anguish. Dramatic night lighting with distant fire-glow. 3D Pixar style, supernatural luminous lighting, photorealistic, 8k.",
+                    "audio_prompt": "A clear, expressive male tenor designed for narration. Shifts between reportorial neutrality and awed emotional intensity. The living broadcast of war. Age approximately 40 years."
+                }
+            }
+        ]
+    }
+}

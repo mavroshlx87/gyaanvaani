@@ -1,0 +1,64 @@
+{
+    "VALMIKI": {
+        "metadata": {
+            "character_id": "RAM_086",
+            "name": "Valmiki",
+            "aliases": [
+                "Adi Kavi",
+                "Ratnakara",
+                "Maharishi Valmiki"
+            ],
+            "epic": "Ramayana",
+            "primary_role": "Author of the Ramayana / First poet (Adi Kavi) / Former robber turned sage / Shelter for exiled Sita",
+            "gender": "Male",
+            "ethnicity_cultural_context": "Ancient Indian (former highway robber named Ratnakara who became a Maharishi through penance)",
+            "family_relations": {
+                "father": "Prachetasa (some traditions)",
+                "mother": null,
+                "spouse": null,
+                "siblings": [],
+                "children": [],
+                "guru": "Narada"
+            },
+            "divine_origin": "A mortal who achieved sagehood through intense penance — his transformation from robber to poet-sage is one of the great redemption stories",
+            "tags": [
+                "sage",
+                "poet",
+                "author",
+                "teacher",
+                "reformed",
+                "guru"
+            ]
+        },
+        "timelines": [
+            {
+                "timeline_stage": "Sage-Poet / Composing the Ramayana",
+                "age_approximation": 50,
+                "context_description": "Valmiki as the sage-poet, composing the Ramayana after witnessing the killing of a Krauncha bird (which inspired the first shloka of poetry ever composed), and later sheltering Sita and raising Lava and Kusha.",
+                "physical_appearance": {
+                    "skin_tone": "Dark earthy-brown complexion reflecting his humble origins, weathered by decades of forest penance, now radiant with spiritual achievement",
+                    "height": "Medium height, lean and upright, the disciplined posture of a reformed man",
+                    "build": "Lean and wiry — once a robber's muscular build now refined into an ascetic's sinewy strength, strong hands that once held weapons now hold a stylus for writing",
+                    "facial_features": "Intense inspired face — large luminous eyes that see beyond the physical (the eyes of a poet), broad forehead furrowed in thought and creative inspiration, salt-and-pepper beard, expression alternates between deep contemplative sadness and the ecstasy of poetic composition, the face of a man who has lived two completely different lives",
+                    "hair": "Grey-brown matted locks in a sage's topknot, neither too wild nor too groomed — the practical style of a working sage",
+                    "distinguishing_marks": "His hands are constantly in motion — writing, gesturing, composing. His eyes sometimes go distant as he 'sees' scenes of the Ramayana play out. He radiates the dual energy of a former warrior (sharp awareness) and a current poet (creative sensitivity)"
+                },
+                "wardrobe_and_adornments": {
+                    "clothing": "Simple white cotton or bark-cloth robes, a deerskin for sitting, prayer shawl over one shoulder",
+                    "jewelry": "Rudraksha mala, sacred thread, a simple Kamandalu, a writing stylus tucked behind his ear or in his belt",
+                    "weapons_carried": "His words are his weapons now — the verses of the Ramayana which he composes and teaches to Lava and Kusha, also carries a sage's staff"
+                },
+                "audio_and_voice_characteristics": {
+                    "tone": "Passionate, inspired, deeply emotional — the voice of the first poet, capable of making listeners weep with the beauty and sorrow of his verses",
+                    "pitch": "Warm rich baritone — the voice of a natural storyteller, rises and falls with dramatic cadence, musical quality when reciting verses",
+                    "speech_style": "Speaks in verse — naturally falls into poetic rhythm, his prose is more eloquent than other sages' poetry, dramatically performs the Ramayana to the court, addresses Lava and Kusha as both teacher and surrogate grandfather",
+                    "emotional_baseline": "Creative ecstasy balanced with deep empathy for his characters, the reformed soul's gratitude for second chances, paternal love for Lava and Kusha, the poet's unique pain of writing tragedy"
+                },
+                "cinematic_generation_prompts": {
+                    "visual_prompt": "Cinematic portrait of Sage Valmiki, age 50, composing the Ramayana. Dark earthy-brown weathered complexion, intense inspired luminous eyes, salt-and-pepper beard. Lean upright build in simple white robes. Sitting cross-legged in a peaceful forest ashram, a palm-leaf manuscript before him, stylus in hand, eyes gazing into the distance as he 'sees' the epic unfold. Twin boys Lava and Kusha listening nearby. Sacred fire burning, ancient trees, river flowing. 3D Pixar style, warm golden-green forest light, photorealistic, 8k.",
+                    "audio_prompt": "A warm, rich male baritone voice of a natural storyteller. Rises and falls with dramatic poetic cadence. Musical quality, deeply emotional. Age approximately 50 years."
+                }
+            }
+        ]
+    }
+}

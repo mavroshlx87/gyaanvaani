@@ -1,0 +1,65 @@
+{
+    "KAUSALYA": {
+        "metadata": {
+            "character_id": "RAM_009",
+            "name": "Kausalya",
+            "aliases": [
+                "Kaushalya",
+                "Rama-mata",
+                "Kosala-devi"
+            ],
+            "epic": "Ramayana",
+            "primary_role": "Chief Queen of Ayodhya / Mother of Rama / Embodiment of maternal love and dignity",
+            "gender": "Female",
+            "ethnicity_cultural_context": "Ancient Indian (Princess of Kosala kingdom, Chief Queen of Ayodhya)",
+            "family_relations": {
+                "father": "King of South Kosala",
+                "mother": null,
+                "spouse": "Dasharatha",
+                "siblings": [],
+                "children": [
+                    "Sri Rama"
+                ],
+                "guru": null
+            },
+            "divine_origin": "Mother of the seventh avatar of Vishnu — her penance and devotion drew the divine to be born as her son",
+            "tags": [
+                "queen",
+                "mother",
+                "noble",
+                "dignified",
+                "wife"
+            ]
+        },
+        "timelines": [
+            {
+                "timeline_stage": "Queen / Mother of Rama",
+                "age_approximation": 50,
+                "context_description": "The dignified Chief Queen of Ayodhya who endures the pain of her son's exile with grace, strength, and unwavering faith in dharma.",
+                "physical_appearance": {
+                    "skin_tone": "Warm dusky-golden complexion, dignified and luminous despite age and grief, the glow of a devoted mother",
+                    "height": "Medium height, carries herself with perfect queenly grace and dignity",
+                    "build": "Graceful mature build, neither stout nor thin, the dignified bearing of a woman who has carried the weight of royal duty with poise",
+                    "facial_features": "Noble beautiful aged face, large gentle eyes perpetually moist with unshed tears but maintaining composure, soft lined features showing years of quiet suffering as the less-favored queen, kind warm expression, subtle strength in the set of her jaw",
+                    "hair": "Grey-streaked black hair neatly pulled back in a dignified bun, covered with a silk pallu",
+                    "distinguishing_marks": "Her hands are constantly in prayer mudra or reaching out in blessing, the composed exterior hiding a mother's volcanic grief"
+                },
+                "wardrobe_and_adornments": {
+                    "clothing": "Elegant white and gold silk sari befitting the chief queen — dignified but less ostentatious after Rama's exile, a simple shawl over her shoulders",
+                    "jewelry": "Dignified gold jewelry — queen's small crown, delicate necklace, bangles, but fewer and simpler than Kaikeyi's flashy ornaments",
+                    "weapons_carried": "None — carries prayer beads (Japa mala) and a small brass lamp for her daily pujas"
+                },
+                "audio_and_voice_characteristics": {
+                    "tone": "Gentle but dignified, steady voice of quiet authority, warm and nurturing, breaks only in private grief",
+                    "pitch": "Rich mezzo-soprano — warm, maternal, steady, only trembles when speaking of Rama",
+                    "speech_style": "Speaks with quiet dignity and composure, uses formal queenly address, her blessings are legendary in their tenderness, in private moments with Rama her voice cracks with raw maternal love",
+                    "emotional_baseline": "Dignified suffering, quiet strength, unwavering maternal love, faith in dharma despite personal agony"
+                },
+                "cinematic_generation_prompts": {
+                    "visual_prompt": "Emotionally powerful cinematic portrait of Queen Kausalya, age 50, in the royal temple of Ayodhya. Warm dusky-golden complexion, gentle dignified face with moist eyes maintaining composure. Grey-streaked black hair in a neat bun. Wearing an elegant white and gold silk sari, dignified gold crown and delicate jewelry. Sitting before a sacred flame, hands in prayer, a small brass lamp glowing warmly. Tears visible but composure maintained. Warm golden temple interior with carved pillars. 3D Pixar style, warm devotional lighting, photorealistic, 8k.",
+                    "audio_prompt": "A rich, warm female mezzo-soprano voice of quiet dignity and maternal authority. Steady and composed, breaking only with raw maternal emotion in private. Age approximately 50 years."
+                }
+            }
+        ]
+    }
+}

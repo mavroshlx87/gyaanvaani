@@ -1,0 +1,106 @@
+{
+    "BHIMA": {
+        "metadata": {
+            "character_id": "MAH_002",
+            "name": "Bhima",
+            "aliases": [
+                "Bhimasena",
+                "Vrikodara",
+                "Vrikodar",
+                "Bheem"
+            ],
+            "epic": "Mahabharata",
+            "primary_role": "Second Pandava / Strongest warrior in the world / Son of Vayu / The mace champion",
+            "gender": "Male",
+            "ethnicity_cultural_context": "Ancient Indian (Kuru Dynasty, Hastinapur, son of Kunti and Vayu)",
+            "family_relations": {
+                "father": "Pandu (mortal), Vayu (divine)",
+                "mother": "Kunti",
+                "spouse": [
+                    "Draupadi",
+                    "Hidimbi"
+                ],
+                "siblings": [
+                    "Yudhishthira",
+                    "Arjuna",
+                    "Nakula",
+                    "Sahadeva"
+                ],
+                "children": [
+                    "Ghatotkacha (from Hidimbi)",
+                    "Sutasoma (from Draupadi)"
+                ],
+                "guru": "Drona, Balarama (mace)"
+            },
+            "divine_origin": "Son of Vayu (Wind God) — inherits superhuman physical strength, the strength of ten thousand elephants",
+            "tags": [
+                "warrior",
+                "strongest",
+                "pandava",
+                "mace_fighter",
+                "cook",
+                "husband",
+                "brother",
+                "protector"
+            ]
+        },
+        "timelines": [
+            {
+                "timeline_stage": "Prime Warrior / Pre-Exile",
+                "age_approximation": 25,
+                "context_description": "Bhima at his physical peak — the strongest warrior in the world, known for his enormous appetite, fierce protectiveness of his brothers, and his love of cooking.",
+                "physical_appearance": {
+                    "skin_tone": "Dark bronze-copper complexion, ruddy and glowing with immense vitality, skin stretched tight over massive muscles",
+                    "height": "Enormous — the tallest and most physically imposing of all Pandavas, towers over everyone in any room, stands over 7 feet",
+                    "build": "Absolutely massive — the most muscular human being in the epic, shoulders wider than doorframes, arms thicker than most men's legs, barrel chest, tree-trunk thighs, neck like a bull, waist surprisingly narrow for his size, hands that can crush iron, the body of a living siege engine",
+                    "facial_features": "Broad fierce face with large intense dark eyes, wide strong jaw, thick bushy eyebrows perpetually set in determination or anger, broad flat nose, thick lips often curved in a fierce grin or a roaring battle face, ruggedly handsome in a massive primal way, thick curly beard",
+                    "hair": "Thick wild curly black hair, barely contained by any crown, mane-like and unruly, matching his untamed nature",
+                    "distinguishing_marks": "His sheer physical size is his mark — he literally fills rooms, his footsteps shake the ground, he eats enough for 50 men at every meal, his mace-fighting stance (legs wide, mace overhead) is iconic, his war roar is described as louder than thunder"
+                },
+                "wardrobe_and_adornments": {
+                    "clothing": "Heavy leather and bronze battle armor stretched over his massive frame, reinforced at the shoulders and chest, a deep crimson battle cloth, the armor dented from countless fights where he simply absorbed blows",
+                    "jewelry": "Thick gold armlets that look like normal bangles on his massive arms, a heavy gold chain across his vast chest, practical war bands, a crown that looks small on his enormous head",
+                    "weapons_carried": "A colossal iron mace (Gada) — his signature weapon, so heavy that no other warrior can even lift it, also devastating in unarmed combat — his fists are weapons of mass destruction, can uproot trees for improvised weapons"
+                },
+                "audio_and_voice_characteristics": {
+                    "tone": "Booming, thunderous, passionate, frequently roaring with laughter or rage, the most emotionally expressive of the Pandavas, speaks and the walls shake",
+                    "pitch": "Deep rumbling bass — the deepest human voice in the epic, ground-shaking, chest-resonating, his whisper is louder than most men's shouts",
+                    "speech_style": "Speaks with passionate directness — no diplomacy, no subtlety, says exactly what he thinks, roars battle challenges, his threats are legendary ('I will drink Dushasana's blood!'), surprisingly tender when cooking for his family or speaking to his sons",
+                    "emotional_baseline": "Volcanic protective fury, fierce love for family, enormous appetite for both food and battle, surprisingly tender underneath the ferocity"
+                },
+                "cinematic_generation_prompts": {
+                    "visual_prompt": "Massive cinematic shot of Bhima, age 25, strongest warrior in the world. Dark bronze-copper skin, enormous 7-foot muscular frame. Broad fierce face with intense eyes, thick curly beard, wild unruly black hair. Wearing heavy bronze battle armor stretched over massive shoulders, crimson battle cloth. Holding a colossal iron mace overhead in one hand. Standing in a training arena, muscles defined, battle stance wide. 3D Pixar style, powerful dramatic lighting, photorealistic, 8k.",
+                    "audio_prompt": "A deep, thunderous rumbling bass voice. Ground-shaking, passionately direct. Roars with laughter or fury. His whisper is louder than most men's shouts. Age approximately 25 years."
+                }
+            },
+            {
+                "timeline_stage": "War / Kurukshetra — Fulfilling his Vows",
+                "age_approximation": 48,
+                "context_description": "Bhima at Kurukshetra systematically fulfilling his terrible vows — killing all 100 Kauravas, breaking Duryodhana's thigh, drinking Dushasana's blood after tearing him apart.",
+                "physical_appearance": {
+                    "skin_tone": "Battle-darkened bronze, blood-splattered (both his own and enemies'), skin burning hot with battle-fury and Vayu's power",
+                    "height": "Even more terrifying on the battlefield — seems to grow larger with rage, a living mountain of destruction",
+                    "build": "Peak destructive power — muscles engorged with battle-fury, veins visible across entire body, drenched in sweat and blood, moving with unstoppable momentum",
+                    "facial_features": "A face of terrible wrathful fulfillment — bloodshot wild eyes, mouth open in perpetual battle roar, blood (of Dushasana) literally on his lips and face, the expression of righteous vengeance made flesh, magnificent and terrifying simultaneously",
+                    "hair": "Wild blood-matted hair flying in all directions, any helmet or crown long since lost in the fury of combat",
+                    "distinguishing_marks": "The most terrifying warrior on the field — enemy soldiers flee on sight, his mace-strikes create shockwaves, he systematically hunts and kills each Kaurava brother, the image of him tearing Dushasana apart and drinking his blood is the most shocking scene in the epic"
+                },
+                "wardrobe_and_adornments": {
+                    "clothing": "Battle-shattered armor barely hanging on his massive frame, most of it torn off, essentially bare-chested and blood-covered, a crimson waist-cloth soaked in battle",
+                    "jewelry": "All jewelry lost or broken in combat, only the dented remains of his armlets, battle-scars exposed across his massive body",
+                    "weapons_carried": "His enormous blood-slicked mace — now dented and gore-covered from killing 100 Kauravas, his bare hands that tore Dushasana apart, trees and chariot-wheels used as improvised clubs"
+                },
+                "audio_and_voice_characteristics": {
+                    "tone": "Roaring, terrifying, the voice of a cosmic force of vengeance — beyond human emotion, a living weapon of karma, interspersed with roars of triumph as he fulfills each vow",
+                    "pitch": "Shattering bass that physically hurts eardrums — the roar of a hurricane given voice, his battle cry scatters armies",
+                    "speech_style": "Barely speaks in words anymore — mostly battle-roars, the systematic announcement of each Kaurava he kills ('97... 98... 99... DURYODHANA!'), his vow-fulfillment dialogue is delivered while blood-soaked and terrible",
+                    "emotional_baseline": "Transcendent righteous fury, the terrifying satisfaction of vows fulfilled, a cosmic force of destruction that even his own allies find frightening"
+                },
+                "cinematic_generation_prompts": {
+                    "visual_prompt": "Terrifying cinematic shot of Bhima at Kurukshetra, age 48. Blood-soaked massive bronze figure, wild bloodshot eyes, mouth open in devastating battle roar. Essentially bare-chested, blood-drenched, massive muscles engorged with fury. Swinging a gore-covered colossal mace with devastating force. Bodies and wreckage around him. Stormy battlefield, lightning, chaos. 3D Pixar style, terrifying dramatic lightning, photorealistic, 8k.",
+                    "audio_prompt": "A shattering bass roar that physically scatters armies. Beyond human — a hurricane given voice. The terrifying sound of righteous vengeance. Age approximately 48 years."
+                }
+            }
+        ]
+    }
+}

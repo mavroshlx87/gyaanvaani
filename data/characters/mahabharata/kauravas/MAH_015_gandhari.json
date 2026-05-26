@@ -1,0 +1,70 @@
+{
+    "GANDHARI": {
+        "metadata": {
+            "character_id": "MAH_015",
+            "name": "Gandhari",
+            "aliases": [
+                "Gandhari Devi",
+                "Saubala",
+                "The Blindfolded Queen"
+            ],
+            "epic": "Mahabharata",
+            "primary_role": "Queen of Hastinapur / Mother of 100 Kauravas / Blindfolded herself for life to share her husband's blindness / Cursed Krishna",
+            "gender": "Female",
+            "ethnicity_cultural_context": "Ancient Indian (Princess of Gandhara, married to Dhritarashtra)",
+            "family_relations": {
+                "father": "Subala (King of Gandhara)",
+                "mother": null,
+                "spouse": "Dhritarashtra",
+                "siblings": [
+                    "Shakuni"
+                ],
+                "children": [
+                    "100 Kauravas (Duryodhana eldest)",
+                    "Dushala (daughter)"
+                ],
+                "guru": "Vyasa"
+            },
+            "divine_origin": "Her voluntary blindfold accumulated enormous tapas (spiritual power) over decades — enough to curse Lord Krishna himself and cause the destruction of the Yadava clan",
+            "tags": [
+                "queen",
+                "mother",
+                "blindfolded",
+                "sacrifice",
+                "powerful",
+                "tragic",
+                "curser"
+            ]
+        },
+        "timelines": [
+            {
+                "timeline_stage": "Queen / The Blindfolded Mother",
+                "age_approximation": 60,
+                "context_description": "Gandhari during and after the war — the mother who lost all 100 sons, removes her blindfold to curse Krishna, her accumulated tapas turning her gaze into a weapon.",
+                "physical_appearance": {
+                    "skin_tone": "Hidden behind her eternal blindfold — when glimpsed, pale and bloodless from decades without sunlight, almost translucent skin of an ascetic who has denied herself sight",
+                    "height": "Tall and regal, moves with supernatural precision despite being blindfolded for 40+ years — her other senses have become preternatural",
+                    "build": "Thin and austere from decades of self-denial, but carrying enormous spiritual power, her frame radiates contained fury and restrained tapas energy",
+                    "facial_features": "The blindfold IS her face for the world — a golden silk band tied permanently across her eyes, beneath it (rarely seen) — fierce pale eyes that have accumulated decades of spiritual power, a face frozen between maternal grief and righteous fury, sharp features, lips pressed in permanent restraint",
+                    "hair": "Grey-white hair pulled back severely under her veil, the ascetic simplicity of self-imposed deprivation",
+                    "distinguishing_marks": "Her defining mark is the golden blindfold she has worn since marriage — she blindfolded herself to share her husband Dhritarashtra's blindness. After 40+ years her unseen eyes have accumulated such power that when she briefly lifts the blindfold to look at Yudhishthira's toenails, they turn blue. Her curse on Krishna causes the destruction of the Yadava dynasty."
+                },
+                "wardrobe_and_adornments": {
+                    "clothing": "White widow's sari after the war — the starkest, most austere garment, before the war: white and gold royal queen's sari with the blindfold always present",
+                    "jewelry": "The golden blindfold (her most iconic adornment), minimal jewelry — she rejected ornamentation as part of her self-denial, a simple mangalsutra",
+                    "weapons_carried": "Her curse — accumulated decades of blindfolded tapas power, her gaze when unveiled can destroy or harm even divine beings, she cursed Krishna successfully"
+                },
+                "audio_and_voice_characteristics": {
+                    "tone": "Controlled, measured, devastating in her rare words — a voice that has been used sparingly for decades carries enormous weight, when she speaks the world listens in dread",
+                    "pitch": "Low controlled mezzo-contralto — deep for a woman, carrying decades of restrained emotion, her rare words fall like hammer blows",
+                    "speech_style": "Speaks minimally — decades of blindfolded silence have made her words few and devastating, when she does speak it's with surgical precision, her curse on Krishna is delivered with cold cosmic fury, her grief for 100 dead sons is expressed in a single devastating line",
+                    "emotional_baseline": "Restrained cosmic fury, maternal grief compressed to atomic density, the terrible power of decades of self-denial, righteous anger at the universe"
+                },
+                "cinematic_generation_prompts": {
+                    "visual_prompt": "Powerful cinematic shot of Queen Gandhari, age 60, after the war. Pale translucent skin, golden blindfold across her eyes, grey-white hair, austere face of restrained fury. Wearing stark white sari. Standing alone on the battlefield of Kurukshetra amid 100 dead sons, hands raised in the gesture of a devastating curse. Wind blowing her white garments. Desolate battlefield, grey sky. 3D Pixar style, cold powerful lighting, photorealistic, 8k.",
+                    "audio_prompt": "A low, controlled female mezzo-contralto. Deep, restrained, each rare word falling like a hammer blow. Decades of repressed fury. Age approximately 60 years."
+                }
+            }
+        ]
+    }
+}

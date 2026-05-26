@@ -1,0 +1,137 @@
+{
+    "SRI_RAMA": {
+        "metadata": {
+            "character_id": "RAM_001",
+            "name": "Sri Rama",
+            "aliases": ["Rama", "Raghava", "Dasharathi", "Maryada Purushottam", "Ramachandra", "Raghunath", "Kodandapani", "Sitapati"],
+            "epic": "Ramayana",
+            "primary_role": "Protagonist / Seventh Avatar of Vishnu / Prince and later King of Ayodhya",
+            "gender": "Male",
+            "ethnicity_cultural_context": "Ancient Indian (Ikshvaku Dynasty, Solar Dynasty — Suryavanshi, Kingdom of Kosala, Capital: Ayodhya)",
+            "family_relations": {
+                "father": "Dasharatha",
+                "mother": "Kausalya",
+                "spouse": "Sita",
+                "siblings": ["Lakshmana", "Bharata", "Shatrughna"],
+                "children": ["Lava", "Kusha"],
+                "guru": "Vasishtha, Vishwamitra"
+            },
+            "divine_origin": "Seventh avatar of Lord Vishnu, born to restore Dharma and destroy Ravana",
+            "tags": ["protagonist", "avatar", "warrior", "king", "archer", "divine", "hero", "prince", "husband"]
+        },
+        "timelines": [
+            {
+                "timeline_stage": "Youth / Prince of Ayodhya",
+                "age_approximation": 16,
+                "context_description": "During the breaking of Shiva's bow (Pinaka) at Sita's Swayamvara in Mithila and his early princely life in Ayodhya.",
+                "physical_appearance": {
+                    "skin_tone": "Shyamal (deep, radiant blue-black complexion like a rain-bearing cloud, megha-varnam — the color of a monsoon cloud)",
+                    "height": "Tall, well-proportioned, regal bearing even as a youth",
+                    "build": "Slender yet muscular, broad shoulders tapering to a narrow waist, exceptionally long powerful arms reaching past his knees (Ajanabahu)",
+                    "facial_features": "Lotus-shaped large eyes (Rajiva-Netra) with a gentle divine glow, calm and serene expression, high noble forehead with sandalwood tilak, aquiline royal nose, full lips curved in a gentle half-smile, clean-shaven youthful face",
+                    "hair": "Long, thick, lustrous jet-black hair, partly tied in a royal topknot (shikhara) with the rest flowing gracefully over his shoulders",
+                    "distinguishing_marks": "Radiant golden-blue divine aura visible in certain light, auspicious marks (Shrivatsa-like) on palms and soles indicating a great sovereign, naturally fragrant skin"
+                },
+                "wardrobe_and_adornments": {
+                    "clothing": "Bright saffron-yellow silk dhoti (Pitambara) with heavy gold-embroidered borders and floral patterns, matching silk uttariya (upper cloth) draped elegantly over one shoulder",
+                    "jewelry": "Magnificent golden crown (Mukut) studded with rubies and sapphires, ornate gold armlets (Keyura) on both upper arms, heavy pearl and emerald necklaces layered over the chest, polished gold dangling earrings (Kundalas), jeweled finger rings, golden waistband (Mekhala)",
+                    "weapons_carried": "A classic longbow with a golden-tipped quiver of arrows slung diagonally across the shoulder, ceremonial sword at the hip"
+                },
+                "audio_and_voice_characteristics": {
+                    "tone": "Melodious, serene, deeply respectful, radiating calm warmth and gentleness",
+                    "pitch": "Smooth baritone-tenor blend, steady and resonant without harshness",
+                    "speech_style": "Deliberate and articulate, soft-spoken yet naturally commanding deep respect, speaks in measured elegant sentences (Sanskrit-style formality), always addresses elders with folded hands",
+                    "emotional_baseline": "Tranquil, supremely confident without arrogance, deeply compassionate, joyful"
+                },
+                "cinematic_generation_prompts": {
+                    "visual_prompt": "A highly detailed cinematic portrait of a young Indian prince, Sri Rama, age 16. Deep glowing blue-black skin complexion like a monsoon rain cloud. Large luminous lotus-shaped eyes with a divine glow, gentle half-smile, high forehead with golden sandalwood tilak, long arms. Wearing a magnificent golden crown studded with rubies and sapphires, rich saffron-yellow silk dhoti with heavy gold embroidery, layered pearl and emerald necklaces, gold armlets. Holding a polished longbow. Standing in a grand marble palace courtyard with ornate pillars and blooming lotus ponds. Serene divine aura, epic mythological Indian setting, 3D Pixar style, photorealistic lighting, 8k resolution, cinematic composition.",
+                    "audio_prompt": "A calm, deeply resonant young male baritone-tenor voice speaking with profound gentleness and absolute clarity. The voice embodies peace, righteousness, and royal dignity. Measured pacing, warm timbre, no harshness. Age approximately 16-18 years, mature beyond his years."
+                }
+            },
+            {
+                "timeline_stage": "Exile / Hermit-Warrior in the Forest",
+                "age_approximation": 25,
+                "context_description": "During his 14-year vanvas (forest exile), the period of searching for Sita after her abduction, building alliances with Sugriva and Hanuman, and preparing for the war against Ravana.",
+                "physical_appearance": {
+                    "skin_tone": "Sun-bronzed shyamal (the deep blue-black now weathered and bronzed by years of forest living, with a glowing sun-kissed tan)",
+                    "height": "Imposing, tall and majestic even in ascetic garb, carries himself with the bearing of a king",
+                    "build": "Hardened and heavily muscular from intense forest living, wide barrel chest, exceptionally powerful long arms scarred from demon battles, thick wrists, sinewy legs",
+                    "facial_features": "Intensely compassionate lotus eyes now carrying visible weight of sorrow and determination, sharp angular features more pronounced from forest austerity, resolute square jawline with a short rough beard, stern yet deeply benevolent expression, furrowed brow",
+                    "hair": "Matted locks of dark hair (Jata) twisted and tied neatly on top of his head in the style of a forest-dwelling ascetic, threaded with bark fibers",
+                    "distinguishing_marks": "Multiple scars from battling Rakshasas across shoulders and forearms, a faint golden-blue divine aura that contrasts strikingly with his rugged ascetic appearance, calloused archer's fingers"
+                },
+                "wardrobe_and_adornments": {
+                    "clothing": "Rough deerskin or tree-bark garments (Valkala) wrapped around the waist and one shoulder, leaving the muscular chest and one arm bare, simple grass sandals or barefoot",
+                    "jewelry": "No gold or precious gems — simple beaded necklace made of Rudraksha seeds, rough wooden wristbands, a sacred thread (Yajnopavita) across the chest",
+                    "weapons_carried": "The mighty Kodanda bow (massive, dark wood with gold-inlaid divine inscriptions), two inexhaustible quivers strapped in an X across his back, a sharp divine sword at the waist wrapped in leather"
+                },
+                "audio_and_voice_characteristics": {
+                    "tone": "Deeply resonant and authoritative, carrying the heavy weight of responsibility, loss, and unwavering righteousness — yet completely steady and controlled",
+                    "pitch": "Full deep baritone, powerful enough to echo through a forest, with a gravelly undertone from years of austere living",
+                    "speech_style": "Firm, resolute, fearless, speaks in measured commanding sentences, projects supreme moral authority, fewer words than his princely youth — every word carries weight",
+                    "emotional_baseline": "Dignified grief mixed with absolute unyielding righteousness (Dharma), controlled anger that never erupts into chaos, protective intensity"
+                },
+                "cinematic_generation_prompts": {
+                    "visual_prompt": "Epic cinematic shot of warrior-ascetic Rama in a dense ancient Indian jungle, age 25. Weathered deep blue-black skin with sun-bronzed tan, matted dark hair tied on top in ascetic style, short rough beard. Powerful heavily muscular build with battle scars on shoulders. Wearing rough tree-bark garments leaving one muscular shoulder bare, Rudraksha bead necklace, sacred thread. Holding the massive dark Kodanda bow with two quivers crossed on his back. Intense determined lotus eyes glowing with divine light. Dense primeval forest background with dappled golden sunlight filtering through ancient trees. 3D Pixar style, dramatic volumetric lighting, photorealistic, 8k resolution.",
+                    "audio_prompt": "A deep, powerful male baritone voice carrying an undertone of dignified sorrow but sounding completely unyielding, authoritative, and righteously commanding. Slower pacing, gravelly texture, every word deliberate and weighty. Age approximately 25-27 years."
+                }
+            },
+            {
+                "timeline_stage": "War / Commander at Lanka",
+                "age_approximation": 27,
+                "context_description": "During the great war against Ravana at Lanka — leading the Vanara army, battling Indrajit, Kumbhakarna, and finally the ten-headed Ravana himself.",
+                "physical_appearance": {
+                    "skin_tone": "Battle-darkened shyamal, skin gleaming with perspiration and the glow of activated divine energy, complexion radiating fierce blue-golden light",
+                    "height": "At his most imposing — standing a head taller than other warriors, divine stature fully manifested",
+                    "build": "Peak warrior physique — massive chest, arms like iron clubs, veins visible on forearms from sustained combat, scars of the war fresh and visible",
+                    "facial_features": "Eyes blazing with focused divine fury and righteous anger (Rudra-like intensity), sharp war-paint-like tilak on forehead, clenched jaw, nostrils flared in battle concentration, face showing fatigue but absolute determination",
+                    "hair": "Matted locks now wild and partially unbound in the chaos of battle, whipping in the wind",
+                    "distinguishing_marks": "Full divine aura blazing around his body like golden flames, arrow wounds on his chest and arms bleeding but ignored, the string of his bow vibrating with cosmic energy"
+                },
+                "wardrobe_and_adornments": {
+                    "clothing": "Battle-worn bark garments reinforced with makeshift leather armor over one shoulder, a crimson battle cloth tied around the waist",
+                    "jewelry": "No ornate jewelry — only the sacred thread and a single protective amulet given by Agastya, wrists wrapped in leather archery guards",
+                    "weapons_carried": "The legendary Kodanda bow at peak divine power, glowing quivers of celestial arrows (Brahmastra, Narayanastra, Aindrastra at ready), divine sword unsheathed"
+                },
+                "audio_and_voice_characteristics": {
+                    "tone": "Thunderous and earth-shaking when commanding armies, yet controlled and measured when speaking to allies, divine resonance that causes the ground to tremble",
+                    "pitch": "Deep commanding baritone bordering on bass during battle cries, resonant and echoing supernaturally",
+                    "speech_style": "Short, decisive battle commands interspersed with rousing speeches to the Vanara army, invokes divine names before releasing celestial weapons, voice carries across the entire battlefield",
+                    "emotional_baseline": "Righteous fury controlled by perfect dharmic discipline, fierce protective love for his allies, absolute cosmic determination"
+                },
+                "cinematic_generation_prompts": {
+                    "visual_prompt": "Breathtaking cinematic battle scene of Sri Rama at the war of Lanka, age 27. Standing on a rocky outcrop above the battlefield. Deep blue-black skin blazing with golden divine aura like flames. Wild matted hair whipping in the battle wind. Heavily muscled warrior body with visible battle scars and arrow wounds. Wearing battle-worn bark garments with leather armor reinforcement. Drawing the massive glowing Kodanda bow, a celestial arrow blazing with white-golden energy. Background: massive burning golden city of Lanka, Vanara army charging, smoke and divine lights. 3D Pixar style, epic wide-angle cinematic composition, volumetric god-rays, photorealistic, 8k, dramatic.",
+                    "audio_prompt": "A thunderous, earth-shaking deep male baritone voice projecting across a vast battlefield. Righteous fury perfectly controlled. Short decisive commands mixed with rousing cosmic declarations. Voice causes visible sonic ripples. Age approximately 27 years."
+                }
+            },
+            {
+                "timeline_stage": "King / Rama Rajya",
+                "age_approximation": 40,
+                "context_description": "After the coronation in Ayodhya, during the golden age of Rama Rajya — the ideal kingdom where Dharma prevailed. Also the painful period of Sita's exile and eventual reunion with Lava and Kusha.",
+                "physical_appearance": {
+                    "skin_tone": "Restored radiant shyamal — the deep blue-black complexion now glowing with sovereign majesty and divine peace, softer and more luminous than his warrior years",
+                    "height": "Tall and stately, perfect royal posture, moves with unhurried sovereign grace",
+                    "build": "Still powerfully built but now more filled out with the settled strength of a mature king, broad shoulders, thick wrists, his warrior's body now clothed in regal comfort",
+                    "facial_features": "Wise, large lotus eyes carrying both deep contentment and a permanent undercurrent of melancholy (from Sita's exile), noble features softened by maturity, a full well-groomed royal beard, serene half-smile that doesn't always reach his eyes, slight lines of care around the eyes",
+                    "hair": "Long black hair with distinguished silver-grey streaks at the temples, immaculately groomed, adorned with the great crown of Ayodhya",
+                    "distinguishing_marks": "Old battle scars visible as silver lines on his arms, the divine golden aura is now a constant soft gentle glow rather than the fierce blaze of war, the bearing of a man who has seen everything and found peace"
+                },
+                "wardrobe_and_adornments": {
+                    "clothing": "Magnificent royal saffron-gold silk dhotis with elaborate diamond and pearl embroidery, rich cream and gold silk uttariya, gem-encrusted royal sandals",
+                    "jewelry": "The Great Crown of Ayodhya — a towering golden mukut with cascading gems, multiple heavy gold necklaces with the Kaustubha-like central gem, ornate armlets with lion-head designs, jeweled rings on every finger, golden ear ornaments, jeweled waistband",
+                    "weapons_carried": "The Kodanda bow resting beside the throne (no longer carried), a ceremonial golden sword at the hip"
+                },
+                "audio_and_voice_characteristics": {
+                    "tone": "Profoundly wise, measured, warm but with an undertone of deep private sorrow, paternally gentle when addressing subjects, absolutely just in pronouncements",
+                    "pitch": "Rich settled baritone, smooth and unhurried, the voice of absolute authority that never needs to raise itself",
+                    "speech_style": "Measured, elegant, each word carefully chosen, speaks with the gravity of cosmic duty, addresses all subjects with equal respect, philosophical and reflective in private moments",
+                    "emotional_baseline": "Serene sovereignty tinged with private melancholy, unwavering justice, paternal compassion, the contentment of duty fulfilled alongside the sorrow of personal sacrifice"
+                },
+                "cinematic_generation_prompts": {
+                    "visual_prompt": "Majestic cinematic portrait of King Rama on the golden throne of Ayodhya, age 40. Radiant blue-black skin glowing with soft divine golden aura. Distinguished silver-grey streaks in long groomed black hair under a magnificent towering golden crown studded with cascading gems. Full royal beard, wise lotus eyes carrying deep serenity and subtle melancholy. Wearing magnificent saffron-gold silk robes with diamond embroidery, heavy gold necklaces, ornate armlets. Seated on an elaborate golden throne with lion armrests, in a grand palace hall with soaring carved pillars, silk drapes, and lotus ponds. Courtiers and subjects in background. 3D Pixar style, warm golden lighting, photorealistic, 8k.",
+                    "audio_prompt": "A rich, profoundly wise male baritone voice speaking with unhurried sovereign authority. Warm yet carrying an undercurrent of deep private sorrow. Absolutely measured pacing, smooth timbre, the voice of a philosopher-king. Age approximately 40 years."
+                }
+            }
+        ]
+    }
+}

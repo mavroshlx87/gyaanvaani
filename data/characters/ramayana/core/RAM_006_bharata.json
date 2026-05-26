@@ -1,0 +1,71 @@
+{
+    "BHARATA": {
+        "metadata": {
+            "character_id": "RAM_006",
+            "name": "Bharata",
+            "aliases": [
+                "Bharat",
+                "Kaikeyi-putra",
+                "Rama-anuja"
+            ],
+            "epic": "Ramayana",
+            "primary_role": "Prince of Ayodhya / Rama's devoted younger brother / Regent of Ayodhya during Rama's exile",
+            "gender": "Male",
+            "ethnicity_cultural_context": "Ancient Indian (Ikshvaku Dynasty, Ayodhya, son of Kaikeyi)",
+            "family_relations": {
+                "father": "Dasharatha",
+                "mother": "Kaikeyi",
+                "spouse": "Mandavi",
+                "siblings": [
+                    "Sri Rama",
+                    "Lakshmana",
+                    "Shatrughna"
+                ],
+                "children": [
+                    "Taksha",
+                    "Pushkala"
+                ],
+                "guru": "Vasishtha"
+            },
+            "divine_origin": "Considered an avatar-amsha of Vishnu's divine attributes — embodies selfless sacrifice and dharmic governance",
+            "tags": [
+                "prince",
+                "devotee",
+                "brother",
+                "regent",
+                "selfless",
+                "noble"
+            ]
+        },
+        "timelines": [
+            {
+                "timeline_stage": "Regent / Nandigrama",
+                "age_approximation": 24,
+                "context_description": "Bharata rules Ayodhya as regent in Rama's name for 14 years, placing Rama's sandals on the throne and living as an ascetic at Nandigrama outside the city.",
+                "physical_appearance": {
+                    "skin_tone": "Fair wheat-golden complexion similar to his mother Kaikeyi, but pallid and thin from 14 years of ascetic grief",
+                    "height": "Medium-tall, carries himself with humility rather than princely pride",
+                    "build": "Once athletic princely build now emaciated from austere living — deliberately mortifying himself in solidarity with Rama's exile, thin arms, prominent cheekbones",
+                    "facial_features": "Handsome features perpetually etched with grief and longing, large sorrowful eyes constantly reddened from weeping, gentle expression of devoted love mixed with guilt (for his mother's actions), high forehead marked with ash instead of sandalwood",
+                    "hair": "Matted ascetic locks (Jata) despite being in Ayodhya — refuses to groom until Rama returns, threaded with sacred grass",
+                    "distinguishing_marks": "Perpetually tear-stained cheeks, wears Rama's wooden sandals (paduka) around his neck at all times, lives in a grass hut though the palace is available"
+                },
+                "wardrobe_and_adornments": {
+                    "clothing": "Bark garments (Valkala) and deerskin — refuses royal clothing while Rama is in exile, identical to what Rama wears in the forest",
+                    "jewelry": "No royal jewelry — only a sacred thread and Rama's sandals (paduka) worn as a sacred pendant, ash marks on forehead instead of tilak",
+                    "weapons_carried": "A simple bow and sword — maintains warrior readiness but never uses them for personal glory"
+                },
+                "audio_and_voice_characteristics": {
+                    "tone": "Gentle, deeply emotional, voice perpetually thick with unshed tears, earnest and passionately devoted",
+                    "pitch": "Tenor — warm but trembling with emotion, breaks frequently with grief",
+                    "speech_style": "Speaks haltingly about Rama — unable to complete sentences without choking up, addresses the paduka (sandals) as if speaking to Rama himself, administrative orders given in Rama's name ('King Rama commands...')",
+                    "emotional_baseline": "Absolute selfless devotion, perpetual grief at separation from Rama, guilt for his mother's actions, fierce determination to return the kingdom to Rama"
+                },
+                "cinematic_generation_prompts": {
+                    "visual_prompt": "Emotional cinematic portrait of Prince Bharata at Nandigrama, age 24. Fair wheat-golden complexion pallid from ascetic grief. Emaciated build in bark garments, matted ascetic hair despite being a prince. Sorrowful reddened eyes, tear-stained cheeks, ash on forehead. Rama's wooden sandals (paduka) placed reverently on a makeshift throne before him. Sitting in a simple grass hut outside the grand city of Ayodhya (visible in background). Warm but sorrowful golden-hour lighting. 3D Pixar style, emotionally powerful, photorealistic, 8k.",
+                    "audio_prompt": "A warm male tenor voice perpetually trembling with emotion and grief. Breaks frequently when speaking of his beloved brother Rama. Earnest and passionately devoted. Age approximately 24 years."
+                }
+            }
+        ]
+    }
+}

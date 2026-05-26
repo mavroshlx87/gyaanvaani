@@ -1,0 +1,110 @@
+{
+    "DRAUPADI": {
+        "metadata": {
+            "character_id": "MAH_006",
+            "name": "Draupadi",
+            "aliases": [
+                "Panchali",
+                "Krishnaa",
+                "Yajnaseni",
+                "Drupadakanya",
+                "Sakhi"
+            ],
+            "epic": "Mahabharata",
+            "primary_role": "Wife of the five Pandavas / Born from sacred fire / Queen of Indraprastha / Catalyst of the Kurukshetra war",
+            "gender": "Female",
+            "ethnicity_cultural_context": "Ancient Indian (Panchala kingdom, born from the sacred fire of King Drupada's yagna)",
+            "family_relations": {
+                "father": "Drupada",
+                "mother": "Born from fire (Agni-kanya)",
+                "spouse": [
+                    "Yudhishthira",
+                    "Bhima",
+                    "Arjuna",
+                    "Nakula",
+                    "Sahadeva"
+                ],
+                "siblings": [
+                    "Dhrishtadyumna (twin brother)"
+                ],
+                "children": [
+                    "Prativindhya",
+                    "Sutasoma",
+                    "Shrutakarma",
+                    "Shatanika",
+                    "Shrutasena"
+                ],
+                "guru": null
+            },
+            "divine_origin": "Born from the sacred fire (Agni) of a great yagna — not born of a human womb, emerged fully formed as a young woman from the flames",
+            "tags": [
+                "queen",
+                "fire_born",
+                "wife",
+                "mother",
+                "catalyst",
+                "fierce",
+                "beautiful",
+                "wronged"
+            ]
+        },
+        "timelines": [
+            {
+                "timeline_stage": "Youth / Fire-Born Princess",
+                "age_approximation": 18,
+                "context_description": "Draupadi emerges from the sacred fire fully formed, dark-skinned and extraordinarily beautiful, during her father Drupada's revenge-yagna. She is the woman for whom the greatest war will be fought.",
+                "physical_appearance": {
+                    "skin_tone": "Dark complexion (Krishnaa — 'the dark one') — deep dusky-brown skin that glows like polished dark wood, warm and luminous, her darkness is described as the most beautiful shade of skin in the epic",
+                    "height": "Tall and statuesque, commanding physical presence, moves with the confidence of fire itself",
+                    "build": "Full feminine figure — curvaceous and strong, born fully formed from fire, every proportion perfect, she radiates heat and intensity, not delicate but powerful feminine beauty",
+                    "facial_features": "Strikingly beautiful dark face with large blazing dark eyes (agni-netra — fire-eyes), high sharp cheekbones, full passionate lips, strong defined jawline, aquiline nose, a face that commands attention and memory — no one who sees her forgets her, expression of fierce intelligence and barely contained fire",
+                    "hair": "Extraordinarily long thick black hair — waist-length, luxuriant, fragrant like blue lotuses (Nila-kuvalaya gandha), considered the most beautiful hair in the epic — this hair becomes central to her story when Dushasana drags her by it",
+                    "distinguishing_marks": "She was born with a divine announcement: 'This dark, beautiful woman will be the destruction of the Kshatriya race.' Her fragrance can be smelled from a yojana (miles) away. She is said to be an avatar of Shri (divine prosperity) or a partial incarnation of several goddesses."
+                },
+                "wardrobe_and_adornments": {
+                    "clothing": "Rich dark crimson and gold silk sari with heavy embroidery, befitting a fire-born princess, the fabric seems to shimmer with inner heat",
+                    "jewelry": "Elaborate gold jewelry with dark gems (rubies, garnets) — heavy gold waist chain, layered necklaces, ornate gold jhumka earrings, armlets, bangles, Maang Tikka, nose ring — but all in warm fiery tones complementing her dark skin",
+                    "weapons_carried": "None — she carries herself as a weapon"
+                },
+                "audio_and_voice_characteristics": {
+                    "tone": "Passionate, fierce, intelligent, a voice that can charm or scorch — the most emotionally intense and articulate woman in the Mahabharata",
+                    "pitch": "Rich dramatic mezzo-soprano — warm and dark like her complexion, powerful, resonant, capable of whispered tenderness or room-shaking fury",
+                    "speech_style": "Speaks with fierce intelligence and passionate conviction, articulate and devastating in argument, her speech at the Kaurava court (when being disrobed) is the most powerful verbal indictment in the epic — she dismantles the silence of Bhishma, Drona, and all the elders with surgical precision",
+                    "emotional_baseline": "Blazing fierce pride, passionate love and anger in equal measure, the fire of a woman who was born from flames and refuses to be diminished"
+                },
+                "cinematic_generation_prompts": {
+                    "visual_prompt": "Breathtaking cinematic portrait of Princess Draupadi, age 18, emerging from sacred fire. Deep dusky-brown glowing dark skin — the most beautiful darkness. Large blazing dark fire-eyes, high cheekbones, passionate features. Extraordinarily long thick black hair flowing past her waist. Full powerful feminine figure in rich crimson and gold silk sari. Elaborate gold and ruby jewelry. Fire-glow aura around her. Sacred fire pit and yagna ceremony in background. 3D Pixar style, dramatic fiery warm lighting, photorealistic, 8k.",
+                    "audio_prompt": "A rich, dramatic female mezzo-soprano. Warm, dark, powerful. Capable of whispered tenderness or room-shaking fury. Age approximately 18 years."
+                }
+            },
+            {
+                "timeline_stage": "Humiliation / The Court Scene",
+                "age_approximation": 30,
+                "context_description": "The most pivotal scene in the Mahabharata — Draupadi is dragged by her hair into the Kaurava court by Dushasana, her sari is attempted to be removed, and she delivers the most devastating verbal indictment in the entire epic to the silent elders.",
+                "physical_appearance": {
+                    "skin_tone": "Her dark skin flushed with rage and humiliation — the dusky glow now burning hot with fury, tear-tracks on her cheeks that she refuses to acknowledge",
+                    "height": "Dragged stumbling but never falling completely — even being brutalized, she maintains a fierce upright dignity",
+                    "build": "Disheveled but unbroken — her clothes pulled and torn, her body violated by being dragged in public, but her spine remains straight with defiant fury",
+                    "facial_features": "Face of magnificent fury — blazing tear-filled eyes that burn like actual fire, lips trembling with rage, nostrils flared, hair wild and loose from being dragged by it (by Dushasana), a face that simultaneously shows the depth of violation and the height of human dignity refusing to break",
+                    "hair": "Her famous hair — now disheveled, wild, tangled from being dragged by Dushasana, loose around her face and shoulders — she vows not to tie it until it is washed in Dushasana's blood (a vow Bhima fulfills 13 years later)",
+                    "distinguishing_marks": "Her loose wild hair becomes the most iconic image — she vows it will remain untied until washed in Dushasana's blood, the miraculous infinite sari (provided by Krishna) that prevents complete disrobing"
+                },
+                "wardrobe_and_adornments": {
+                    "clothing": "Her sari — being pulled endlessly but miraculously never ending (Krishna's divine protection), torn and disheveled but supernaturally extending",
+                    "jewelry": "Jewelry scattered and broken from the dragging — broken bangles, torn earrings, the humiliation of a queen reduced to this",
+                    "weapons_carried": "Her words — the most devastating weapons in the entire Mahabharata, she systematically challenges Bhishma, Drona, Vidura, and every elder who sits in silence"
+                },
+                "audio_and_voice_characteristics": {
+                    "tone": "Raw fury, devastating moral clarity, the voice of righteous outrage that echoes through history — her questions to the court are unanswerable indictments",
+                    "pitch": "Powerful dramatic soprano — rising from wounded fury to thundering accusation, cracking with tears but never breaking, the most powerful vocal performance in the epic",
+                    "speech_style": "Delivers the devastating question: 'Did Yudhishthira lose himself before he wagered me? If he lost himself first, he had no right to wager me!' — systematically dismantles every elder's silence, addresses Bhishma directly: 'Where is your dharma now, Pitamaha?'",
+                    "emotional_baseline": "Transcendent fury, the pain of violation transformed into devastating moral power, absolute refusal to be a victim, the moment that decides the war 13 years before it happens"
+                },
+                "cinematic_generation_prompts": {
+                    "visual_prompt": "The most powerful scene in Indian mythology — Draupadi in the Kaurava court, age 30. Dark glowing skin burning with fury, blazing tear-filled eyes, wild disheveled famous hair from being dragged. Torn clothes, broken jewelry. Standing defiantly, one hand raised in accusation, pointing at the silent elders. Dushasana pulling at her sari (which extends miraculously). The great warriors Bhishma, Drona, sitting in shamed silence. Grand dark court interior, dramatic lighting. 3D Pixar style, intensely emotional, photorealistic, 8k.",
+                    "audio_prompt": "A powerful dramatic soprano rising from wounded fury to thundering accusation. Cracking with tears but never breaking. The most devastating voice of moral outrage. Age approximately 30 years."
+                }
+            }
+        ]
+    }
+}

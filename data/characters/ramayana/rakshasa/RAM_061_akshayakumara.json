@@ -1,0 +1,66 @@
+{
+    "AKSHAYAKUMARA": {
+        "metadata": {
+            "character_id": "RAM_061",
+            "name": "Akshayakumara",
+            "aliases": [
+                "Akshay Kumar",
+                "Aksha"
+            ],
+            "epic": "Ramayana",
+            "primary_role": "Young son of Ravana / Brave prince killed by Hanuman in Lanka",
+            "gender": "Male",
+            "ethnicity_cultural_context": "Rakshasa (demon race), Prince of Lanka",
+            "family_relations": {
+                "father": "Ravana",
+                "mother": "Mandodari",
+                "spouse": null,
+                "siblings": [
+                    "Indrajit",
+                    "Atikaya"
+                ],
+                "children": [],
+                "guru": null
+            },
+            "divine_origin": "Son of Ravana — inherited his father's prowess but was too young to match Hanuman's divine power",
+            "tags": [
+                "rakshasa",
+                "prince",
+                "young",
+                "brave",
+                "warrior",
+                "tragic"
+            ]
+        },
+        "timelines": [
+            {
+                "timeline_stage": "Young Prince / Battle with Hanuman",
+                "age_approximation": 16,
+                "context_description": "Young Akshayakumara bravely leads a force against Hanuman in the Ashoka Vatika. Despite being incredibly brave and skilled for his age, he is killed by Hanuman — leading to Indrajit being sent.",
+                "physical_appearance": {
+                    "skin_tone": "Youthful dark-copper complexion (lighter than Ravana, inheriting some of Mandodari's beauty), glowing with youthful energy and battle-eagerness",
+                    "height": "Tall for his age, athletic and swift, the build of a young warrior prince",
+                    "build": "Young but well-trained muscular build, quick and agile, the lean explosive strength of youth, not yet fully grown into Ravana's massive frame",
+                    "facial_features": "Young handsome face combining Ravana's intensity with Mandodari's beauty — fierce determined young eyes, sharp features still carrying youthful softness, the expression of a brave but doomed young prince eager to prove himself, no facial hair yet",
+                    "hair": "Thick black hair in a young warrior's topknot, well-groomed, a smaller version of Ravana's style",
+                    "distinguishing_marks": "His youth and bravery are his marks — fighting Hanuman despite the impossible odds, his chariot and weapons show a prince trained from birth for combat"
+                },
+                "wardrobe_and_adornments": {
+                    "clothing": "Polished dark bronze and silver armor scaled to his young frame, a royal battle cape of crimson, princely war garments",
+                    "jewelry": "A prince's dark gold diadem, silver armlets, Rakshasa royal insignia on his breastplate",
+                    "weapons_carried": "A young warrior's bow and arrows, a short sword, fights from a war chariot with trained horses"
+                },
+                "audio_and_voice_characteristics": {
+                    "tone": "Young, eager, brave to the point of recklessness, the passionate voice of a prince who wants to prove he's worthy of Ravana's bloodline",
+                    "pitch": "Young bright tenor — strong and eager but still carrying the brightness of youth, war cries more enthusiastic than terrifying",
+                    "speech_style": "Speaks with the bravado of youth, eager battle declarations, respectful to his father but desperate to prove himself, fights with skill beyond his years",
+                    "emotional_baseline": "Youthful bravery, desperate desire to prove worthy, the tragic courage of one too young and too brave for the battle he faces"
+                },
+                "cinematic_generation_prompts": {
+                    "visual_prompt": "Dynamic cinematic shot of young Prince Akshayakumara, age 16, charging toward Hanuman on a war chariot. Youthful dark-copper handsome face with fierce determined eyes, black hair in warrior topknot. Polished bronze armor, crimson battle cape, prince's diadem. Drawing a bow from a speeding chariot. Hanuman's massive figure visible ahead. Lanka's golden architecture in background. 3D Pixar style, dynamic action lighting, photorealistic, 8k.",
+                    "audio_prompt": "A young, eager male tenor voice. Brave and enthusiastic battle cries, still carrying the brightness of youth. Age approximately 16 years."
+                }
+            }
+        ]
+    }
+}

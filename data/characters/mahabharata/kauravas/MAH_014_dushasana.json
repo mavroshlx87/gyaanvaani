@@ -1,0 +1,64 @@
+{
+    "DUSHASANA": {
+        "metadata": {
+            "character_id": "MAH_014",
+            "name": "Dushasana",
+            "aliases": [
+                "Duhshasana",
+                "The One Who Dragged Draupadi"
+            ],
+            "epic": "Mahabharata",
+            "primary_role": "Second Kaurava brother / The one who dragged Draupadi by her hair and attempted to disrobe her",
+            "gender": "Male",
+            "ethnicity_cultural_context": "Ancient Indian (Kuru Dynasty, Hastinapur, second of 100 Kaurava brothers)",
+            "family_relations": {
+                "father": "Dhritarashtra",
+                "mother": "Gandhari",
+                "spouse": null,
+                "siblings": [
+                    "Duryodhana and 98 others"
+                ],
+                "children": [],
+                "guru": "Drona"
+            },
+            "divine_origin": null,
+            "tags": [
+                "kaurava",
+                "villain",
+                "cruel",
+                "warrior",
+                "brother"
+            ]
+        },
+        "timelines": [
+            {
+                "timeline_stage": "Villain / The Court Scene",
+                "age_approximation": 25,
+                "context_description": "Dushasana at the dice game court — the one who drags Draupadi by her hair and attempts to disrobe her, committing the act that ensures the Kurukshetra war and his own death at Bhima's hands.",
+                "physical_appearance": {
+                    "skin_tone": "Sickly fair complexion with a reddish flush from drink and rage, unhealthy and aggressive",
+                    "height": "Tall but less imposing than Duryodhana, carries himself with drunken arrogance",
+                    "build": "Strong but undisciplined — the physique of a warrior who relies on cruelty rather than skill, bloated from excess, thick arms used for bullying",
+                    "facial_features": "Ugly-handsome face twisted with cruelty — small mean eyes, thick lips curved in a permanent cruel sneer, heavy jaw, face flushed with drink and sadistic pleasure, expression of a bully savoring power over the helpless",
+                    "hair": "Thick unkempt dark hair, poorly groomed despite royal status, reflects his undisciplined nature",
+                    "distinguishing_marks": "His defining image is the most reviled in the epic — gripping Draupadi's hair and dragging her into the court, pulling at her sari, his other hand holding a goblet of wine — the image of entitled cruelty"
+                },
+                "wardrobe_and_adornments": {
+                    "clothing": "Rich but tasteless royal garments — overdressed in gold and red, the gaudy display of a lesser prince overcompensating, wine-stained clothing",
+                    "jewelry": "Ostentatious gold jewelry worn without taste, thick gold chains, heavy rings — displaying wealth without dignity",
+                    "weapons_carried": "A sword at his belt (more decorative than functional), relies primarily on physical bullying and numbers rather than skill"
+                },
+                "audio_and_voice_characteristics": {
+                    "tone": "Cruel, sneering, drunk with power, the voice of sadistic bullying — taunts and jeers while committing atrocities",
+                    "pitch": "Harsh grating baritone — loud and ugly, slurring slightly from wine, the most unpleasant voice in the epic, laughs cruelly",
+                    "speech_style": "Speaks in taunts and cruel jeers, his words to Draupadi during the disrobing are the most reviled dialogue in the Mahabharata, speaks with the confidence of one backed by overwhelming numbers, cowardly when challenged directly",
+                    "emotional_baseline": "Sadistic cruelty, drunken entitlement, the mean spirit of one who enjoys the suffering of others, ultimately a coward hiding behind Duryodhana's power"
+                },
+                "cinematic_generation_prompts": {
+                    "visual_prompt": "Reviled cinematic shot of Dushasana, age 25, in the Kaurava court. Sickly fair complexion flushed with drink and cruelty. Ugly sneering face, mean small eyes, cruel smile. Richly but tastelessly dressed in gaudy gold and red. One hand gripping Draupadi's long black hair, dragging her, other hand holding a wine goblet. Dark oppressive court interior, horrified silent elders in background. 3D Pixar style, dark oppressive mood, photorealistic, 8k.",
+                    "audio_prompt": "A harsh, grating male baritone. Loud, ugly, slurring with drink. Cruel taunts and jeers. The most unpleasant voice. Age approximately 25 years."
+                }
+            }
+        ]
+    }
+}

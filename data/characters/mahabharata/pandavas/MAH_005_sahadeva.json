@@ -1,0 +1,71 @@
+{
+    "SAHADEVA": {
+        "metadata": {
+            "character_id": "MAH_005",
+            "name": "Sahadeva",
+            "aliases": [
+                "Pandava-panchama",
+                "Youngest Pandava"
+            ],
+            "epic": "Mahabharata",
+            "primary_role": "Fifth (youngest) Pandava / Wisest of the brothers / Knows the future but cannot reveal it / Son of one of the Ashvini Kumars",
+            "gender": "Male",
+            "ethnicity_cultural_context": "Ancient Indian (Kuru Dynasty, Hastinapur, son of Madri and Ashvini Kumar)",
+            "family_relations": {
+                "father": "Pandu (mortal), Ashvini Kumar (divine)",
+                "mother": "Madri",
+                "spouse": "Draupadi",
+                "siblings": [
+                    "Yudhishthira",
+                    "Bhima",
+                    "Arjuna",
+                    "Nakula (twin)"
+                ],
+                "children": [
+                    "Shrutasena"
+                ],
+                "guru": "Drona"
+            },
+            "divine_origin": "Son of Ashvini Kumar (divine physician twin — associated with wisdom and knowledge of the future)",
+            "tags": [
+                "pandava",
+                "wise",
+                "prophet",
+                "swordsman",
+                "twin",
+                "youngest",
+                "astrologer"
+            ]
+        },
+        "timelines": [
+            {
+                "timeline_stage": "Wise Warrior / The One Who Knows",
+                "age_approximation": 25,
+                "context_description": "Sahadeva — the quietest, most intellectual Pandava who possesses the ability to see the future but is cursed to die if he reveals it unsolicited. He knows the outcome of Kurukshetra before it begins.",
+                "physical_appearance": {
+                    "skin_tone": "Fair complexion similar to Nakula but with a quieter, more contemplative luminosity, less radiant and more internalized",
+                    "height": "Medium-tall, quieter physical presence than his brothers, carries himself with scholarly stillness",
+                    "build": "Lean scholarly-warrior build, strong but more refined, the physique of one who spends equal time with books and swords, less conspicuous than his brothers",
+                    "facial_features": "Thoughtful contemplative face — deep knowing eyes that see more than they reveal, a permanent expression of quiet sadness (the burden of knowing the future), gentle features similar to Nakula but more introspective, a slight furrow of hidden knowledge on his brow, thin lips pressed in restraint",
+                    "hair": "Neat simple black hair, unadorned — the least attention-seeking style among the brothers",
+                    "distinguishing_marks": "His most notable trait is invisible — he KNOWS the future but cannot speak it, his eyes sometimes betray flashes of prophetic knowledge that he struggles to contain, he positions himself silently in conversations, hearing everything"
+                },
+                "wardrobe_and_adornments": {
+                    "clothing": "Simple understated royal garments in deep forest green and bronze — the most modest dresser among the Pandavas, practical and unobtrusive",
+                    "jewelry": "Minimal — a simple bronze circlet, a scholar's ring, sacred thread, a small astrological pendant hidden under his clothing",
+                    "weapons_carried": "A straight sword (his preferred weapon), knowledgeable in cattle-herding and animal husbandry (his skill during the incognito exile), also skilled in astrology"
+                },
+                "audio_and_voice_characteristics": {
+                    "tone": "Quiet, measured, carries the weight of unspoken knowledge, the most melancholic voice — burdened by foreknowledge he cannot share",
+                    "pitch": "Soft steady tenor — quiet and contained, speaks barely above a conversational level, his silence is louder than his words",
+                    "speech_style": "Speaks minimally and precisely, every word carefully chosen to avoid revealing what he knows, uses proverbs and metaphors instead of direct statements, his rare emotional outbursts are devastating because they're so unusual",
+                    "emotional_baseline": "Quiet melancholy of hidden knowledge, the pain of seeing disasters coming and being unable to warn, deep intellectual depth masked by brotherly deference"
+                },
+                "cinematic_generation_prompts": {
+                    "visual_prompt": "Contemplative cinematic portrait of Sahadeva, age 25, youngest Pandava. Fair complexion with quiet contemplative glow. Deep knowing eyes carrying hidden sadness, thoughtful face with restrained expression. Lean build in simple forest green and bronze garments. Sitting alone in a palace library surrounded by astrological scrolls, gazing at the stars through an arched window with an expression of burdened foreknowledge. Quiet intimate lighting. 3D Pixar style, contemplative mood, photorealistic, 8k.",
+                    "audio_prompt": "A soft, quiet male tenor voice. Measured, contained, carrying the weight of unspoken knowledge. His silence speaks louder than words. Age approximately 25 years."
+                }
+            }
+        ]
+    }
+}

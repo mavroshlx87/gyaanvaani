@@ -1,0 +1,64 @@
+{
+    "SUGRIVA": {
+        "metadata": {
+            "character_id": "RAM_012",
+            "name": "Sugriva",
+            "aliases": [
+                "Sugreeva",
+                "Surya-putra"
+            ],
+            "epic": "Ramayana",
+            "primary_role": "King of Kishkindha / Vanara leader / Key ally of Rama",
+            "gender": "Male",
+            "ethnicity_cultural_context": "Vanara (divine monkey race), Kishkindha kingdom",
+            "family_relations": {
+                "father": "Surya (Sun God)",
+                "mother": "Arundhati (a celestial woman)",
+                "spouse": "Ruma, Tara (after Vali's death)",
+                "siblings": [
+                    "Vali (elder brother)"
+                ],
+                "children": [],
+                "guru": null
+            },
+            "divine_origin": "Son of Surya (Sun God) — has golden-sun radiance",
+            "tags": [
+                "king",
+                "vanara",
+                "ally",
+                "warrior",
+                "sun_born"
+            ]
+        },
+        "timelines": [
+            {
+                "timeline_stage": "King / Alliance with Rama",
+                "age_approximation": 35,
+                "context_description": "Sugriva after being dethroned by his brother Vali, hiding on Rishyamukha mountain, forms an alliance with Rama to defeat Vali and then marshals the Vanara army to search for Sita.",
+                "physical_appearance": {
+                    "skin_tone": "Golden-amber fur with rich sun-warm tones, lighter and more radiant than other Vanaras — reflecting his solar parentage",
+                    "height": "Tall and imposing for a Vanara, regal bearing when confident, hunched and fearful when remembering Vali",
+                    "build": "Strong muscular Vanara build but less massive than Vali, athletic and agile, shoulders slightly hunched from years in hiding",
+                    "facial_features": "Noble simian face with large warm golden-amber eyes, broad nose, expressive mobile features that shift between hope, fear, and determination, a face that shows both leadership potential and the trauma of exile",
+                    "hair": "Thick golden-amber fur around the face forming a shorter mane than Hanuman's, well-groomed once he regains his throne",
+                    "distinguishing_marks": "A scar or mark from Vali's attacks on his body, golden solar aura that brightens significantly once he regains confidence after Rama's friendship"
+                },
+                "wardrobe_and_adornments": {
+                    "clothing": "A royal red and gold garment wrapped around the waist, golden chest plate after becoming king",
+                    "jewelry": "A golden crown of Kishkindha (after Vali's defeat), golden armlets, a sun-medallion necklace honoring his father Surya",
+                    "weapons_carried": "A sturdy Vanara war club, a short bow — prefers close combat"
+                },
+                "audio_and_voice_characteristics": {
+                    "tone": "Warm but anxious, voice carries the trauma of fraternal betrayal, gains strength and authority after Rama's support",
+                    "pitch": "Tenor-baritone — warm and golden-toned, wavers with anxiety in early encounters, strengthens into commanding authority later",
+                    "speech_style": "Initially speaks with the hesitation of a fugitive king, gains eloquence and authority after restoration, commands the Vanara army with booming directives, loyal and earnest when addressing Rama",
+                    "emotional_baseline": "Anxiety transitioning to restored confidence, gratitude and fierce loyalty to Rama, the relief of a restored king"
+                },
+                "cinematic_generation_prompts": {
+                    "visual_prompt": "Cinematic portrait of Vanara King Sugriva, age 35. Golden-amber fur gleaming with solar warmth. Noble simian face with large amber eyes showing determination. Strong athletic Vanara build with a golden chest plate and red-gold waist garment. Wearing the golden crown of Kishkindha and sun-medallion necklace. Standing on a mountain overlooking the Vanara army below. Golden sunset lighting emphasizing his solar heritage. 3D Pixar style, warm heroic lighting, photorealistic, 8k.",
+                    "audio_prompt": "A warm male tenor-baritone with golden tones. Initially anxious, strengthening into commanding authority. Earnest and loyal. Age approximately 35 years."
+                }
+            }
+        ]
+    }
+}

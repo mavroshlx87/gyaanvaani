@@ -1,0 +1,66 @@
+{
+    "SUMITRA": {
+        "metadata": {
+            "character_id": "RAM_011",
+            "name": "Sumitra",
+            "aliases": [
+                "Sumitra Devi",
+                "Lakshmana-mata",
+                "Shatrughna-mata"
+            ],
+            "epic": "Ramayana",
+            "primary_role": "Third Queen of Ayodhya / Mother of Lakshmana and Shatrughna / Embodiment of selfless wisdom",
+            "gender": "Female",
+            "ethnicity_cultural_context": "Ancient Indian (Princess, third Queen of Ayodhya)",
+            "family_relations": {
+                "father": null,
+                "mother": null,
+                "spouse": "Dasharatha",
+                "siblings": [],
+                "children": [
+                    "Lakshmana",
+                    "Shatrughna"
+                ],
+                "guru": null
+            },
+            "divine_origin": "Mother of the avatar of Adi Shesha (Lakshmana) and Sudarshana Chakra (Shatrughna)",
+            "tags": [
+                "queen",
+                "mother",
+                "wise",
+                "selfless",
+                "supportive"
+            ]
+        },
+        "timelines": [
+            {
+                "timeline_stage": "Queen / Wise Mother",
+                "age_approximation": 45,
+                "context_description": "Sumitra is the wisest of the three queens. When Rama is exiled, she is the one who encourages Lakshmana to go with Rama, saying 'Consider Rama as your father and Sita as me.'",
+                "physical_appearance": {
+                    "skin_tone": "Warm honey-gold complexion, gentle and calm, age has only added softness and wisdom to her beauty",
+                    "height": "Medium height, gentle bearing, moves with unhurried calm grace",
+                    "build": "Slender and graceful, gentle maternal build, soft and approachable",
+                    "facial_features": "Gentle kind face radiating wisdom and calm acceptance, soft warm eyes that see everything clearly, slight smile of understanding, delicate features, minimal wrinkles despite her age — inner peace preserving her beauty",
+                    "hair": "Silver-streaked black hair in a neat simple bun, always properly covered with her sari pallu",
+                    "distinguishing_marks": "Her calm presence has a soothing effect on everyone around her — she is the peacemaker among the three queens, always standing slightly back but seeing everything"
+                },
+                "wardrobe_and_adornments": {
+                    "clothing": "Simple but elegant white and pale gold sari — never competes with Kaikeyi's flashiness or Kausalya's formal regalia, a soft pashmina shawl",
+                    "jewelry": "Understated elegant gold jewelry — simple gold earrings, thin bangles, a single-strand pearl necklace, no ostentatious displays",
+                    "weapons_carried": "None — carries a small prayer book or a fruit basket for the temple"
+                },
+                "audio_and_voice_characteristics": {
+                    "tone": "Calm, wise, soothing, the voice of perspective and peace — the counselor of the royal household",
+                    "pitch": "Warm mezzo-soprano — steady, gentle, unhurried, like warm milk — the most calming voice in the palace",
+                    "speech_style": "Speaks with thoughtful measured wisdom, uses proverbs and gentle metaphors, her parting words to Lakshmana are among the most famous in the epic, never raises her voice",
+                    "emotional_baseline": "Serene acceptance, selfless wisdom, gentle strength, the quiet power of a mother who understands the cosmic purpose"
+                },
+                "cinematic_generation_prompts": {
+                    "visual_prompt": "Warm cinematic portrait of Queen Sumitra, age 45, in her private chambers. Warm honey-gold complexion, gentle wise face with soft warm eyes and slight understanding smile. Silver-streaked black hair in a neat bun. Wearing a simple elegant white and pale gold sari, understated pearl necklace. Sitting on a low cushion, hands gently blessing a kneeling young Lakshmana before his departure for exile. Warm intimate chamber with soft lamp lighting and flower garlands. 3D Pixar style, warm gentle lighting, photorealistic, 8k.",
+                    "audio_prompt": "A warm, calm female mezzo-soprano voice of gentle wisdom and maternal peace. Steady and unhurried, soothing like warm milk. Age approximately 45 years."
+                }
+            }
+        ]
+    }
+}

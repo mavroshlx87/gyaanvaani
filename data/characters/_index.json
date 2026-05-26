@@ -1,0 +1,1964 @@
+{
+  "_description": "Master index of all mythological character files in the database",
+  "_generated": true,
+  "_rebuild": "python3 data/characters/build_index.py",
+  "stats": {
+    "total": 73,
+    "ramayana": 43,
+    "mahabharata": 30,
+    "total_timelines": 91
+  },
+  "characters": [
+    {
+      "character_id": "MAH_035",
+      "key": "KRISHNA",
+      "name": "Krishna",
+      "aliases": [
+        "Vasudeva",
+        "Govinda",
+        "Madhava",
+        "Keshava",
+        "Parthasarathi",
+        "Murari",
+        "Gopala",
+        "Kanhaiya",
+        "Shyam",
+        "Dwarkadhish",
+        "Jagannath"
+      ],
+      "epic": "Mahabharata",
+      "gender": "Male",
+      "primary_role": "Supreme Being / Eighth Avatar of Vishnu / King of Dwaraka / Arjuna's charioteer / Speaker of the Bhagavad Gita",
+      "tags": [
+        "avatar",
+        "god",
+        "king",
+        "charioteer",
+        "philosopher",
+        "strategist",
+        "divine",
+        "cosmic",
+        "protector"
+      ],
+      "file": "mahabharata/divine/MAH_035_krishna.json",
+      "timeline_count": 2,
+      "timeline_stages": [
+        "Child / Butter Thief of Vrindavan",
+        "Charioteer / Bhagavad Gita"
+      ]
+    },
+    {
+      "character_id": "MAH_025",
+      "key": "BHISHMA",
+      "name": "Bhishma",
+      "aliases": [
+        "Devavrata",
+        "Ganga-putra",
+        "Pitamaha",
+        "Bhishma Pitamaha",
+        "Gangadatta"
+      ],
+      "epic": "Mahabharata",
+      "gender": "Male",
+      "primary_role": "Grand patriarch of Kuru Dynasty / The man who took the terrible vow of lifelong celibacy / The invincible warrior who chose when to die",
+      "tags": [
+        "patriarch",
+        "warrior",
+        "celibate",
+        "invincible",
+        "elder",
+        "vow_taker",
+        "tragic",
+        "divine_born"
+      ],
+      "file": "mahabharata/elders/MAH_025_bhishma.json",
+      "timeline_count": 2,
+      "timeline_stages": [
+        "Elder / Grand Patriarch",
+        "War / Bed of Arrows"
+      ]
+    },
+    {
+      "character_id": "MAH_026",
+      "key": "DRONA",
+      "name": "Drona",
+      "aliases": [
+        "Dronacharya",
+        "Guru Drona",
+        "Bharadvaja-putra"
+      ],
+      "epic": "Mahabharata",
+      "gender": "Male",
+      "primary_role": "Supreme martial teacher of both Pandavas and Kauravas / Brahmin warrior / Father of Ashwatthama",
+      "tags": [
+        "teacher",
+        "warrior",
+        "brahmin",
+        "guru",
+        "father",
+        "complex",
+        "tragic"
+      ],
+      "file": "mahabharata/elders/MAH_026_drona.json",
+      "timeline_count": 1,
+      "timeline_stages": [
+        "Guru / Supreme Teacher"
+      ]
+    },
+    {
+      "character_id": "MAH_027",
+      "key": "VIDURA",
+      "name": "Vidura",
+      "aliases": [
+        "Kshattri",
+        "Vidura Mahatma",
+        "Dharma-putra"
+      ],
+      "epic": "Mahabharata",
+      "gender": "Male",
+      "primary_role": "Half-brother of Dhritarashtra and Pandu / Prime Minister of Hastinapur / The voice of wisdom ignored",
+      "tags": [
+        "minister",
+        "advisor",
+        "wise",
+        "dharmic",
+        "half_brother",
+        "ignored_prophet",
+        "incarnation"
+      ],
+      "file": "mahabharata/elders/MAH_027_vidura.json",
+      "timeline_count": 1,
+      "timeline_stages": [
+        "Minister / The Ignored Prophet"
+      ]
+    },
+    {
+      "character_id": "MAH_028",
+      "key": "SANJAYA",
+      "name": "Sanjaya",
+      "aliases": [
+        "Gavalgana",
+        "The Narrator"
+      ],
+      "epic": "Mahabharata",
+      "gender": "Male",
+      "primary_role": "Charioteer and secretary of Dhritarashtra / Granted divine vision by Vyasa to narrate the war",
+      "tags": [
+        "narrator",
+        "secretary",
+        "divine_vision",
+        "charioteer",
+        "witness"
+      ],
+      "file": "mahabharata/elders/MAH_028_sanjaya.json",
+      "timeline_count": 1,
+      "timeline_stages": [
+        "Narrator / Divine Vision"
+      ]
+    },
+    {
+      "character_id": "MAH_013",
+      "key": "DURYODHANA",
+      "name": "Duryodhana",
+      "aliases": [
+        "Suyodhana",
+        "Kaurava Prince",
+        "Duryodhan"
+      ],
+      "epic": "Mahabharata",
+      "gender": "Male",
+      "primary_role": "Primary Antagonist / Crown Prince then King of Hastinapur / Eldest of 100 Kaurava brothers",
+      "tags": [
+        "antagonist",
+        "prince",
+        "king",
+        "mace_fighter",
+        "ambition",
+        "jealousy",
+        "warrior",
+        "leader"
+      ],
+      "file": "mahabharata/kauravas/MAH_013_duryodhana.json",
+      "timeline_count": 2,
+      "timeline_stages": [
+        "Prince / Ambition and Jealousy",
+        "War / Final Stand — Mace Duel with Bhima"
+      ]
+    },
+    {
+      "character_id": "MAH_014",
+      "key": "DUSHASANA",
+      "name": "Dushasana",
+      "aliases": [
+        "Duhshasana",
+        "The One Who Dragged Draupadi"
+      ],
+      "epic": "Mahabharata",
+      "gender": "Male",
+      "primary_role": "Second Kaurava brother / The one who dragged Draupadi by her hair and attempted to disrobe her",
+      "tags": [
+        "kaurava",
+        "villain",
+        "cruel",
+        "warrior",
+        "brother"
+      ],
+      "file": "mahabharata/kauravas/MAH_014_dushasana.json",
+      "timeline_count": 1,
+      "timeline_stages": [
+        "Villain / The Court Scene"
+      ]
+    },
+    {
+      "character_id": "MAH_015",
+      "key": "GANDHARI",
+      "name": "Gandhari",
+      "aliases": [
+        "Gandhari Devi",
+        "Saubala",
+        "The Blindfolded Queen"
+      ],
+      "epic": "Mahabharata",
+      "gender": "Female",
+      "primary_role": "Queen of Hastinapur / Mother of 100 Kauravas / Blindfolded herself for life to share her husband's blindness / Cursed Krishna",
+      "tags": [
+        "queen",
+        "mother",
+        "blindfolded",
+        "sacrifice",
+        "powerful",
+        "tragic",
+        "curser"
+      ],
+      "file": "mahabharata/kauravas/MAH_015_gandhari.json",
+      "timeline_count": 1,
+      "timeline_stages": [
+        "Queen / The Blindfolded Mother"
+      ]
+    },
+    {
+      "character_id": "MAH_016",
+      "key": "DHRITARASHTRA",
+      "name": "Dhritarashtra",
+      "aliases": [
+        "Dhritaraashtra",
+        "The Blind King"
+      ],
+      "epic": "Mahabharata",
+      "gender": "Male",
+      "primary_role": "Blind King of Hastinapur / Father of 100 Kauravas / His inability to control his sons caused the war",
+      "tags": [
+        "king",
+        "blind",
+        "father",
+        "weak",
+        "tragic",
+        "powerful_body"
+      ],
+      "file": "mahabharata/kauravas/MAH_016_dhritarashtra.json",
+      "timeline_count": 1,
+      "timeline_stages": [
+        "King / The Blind Father"
+      ]
+    },
+    {
+      "character_id": "MAH_017",
+      "key": "SHAKUNI",
+      "name": "Shakuni",
+      "aliases": [
+        "Shakuni Mama",
+        "Saubala",
+        "The Dice-Master"
+      ],
+      "epic": "Mahabharata",
+      "gender": "Male",
+      "primary_role": "Prince of Gandhara / Gandhari's brother / Master manipulator who destroyed the Kuru dynasty through dice",
+      "tags": [
+        "manipulator",
+        "villain",
+        "uncle",
+        "gambler",
+        "cunning",
+        "avenger"
+      ],
+      "file": "mahabharata/kauravas/MAH_017_shakuni.json",
+      "timeline_count": 1,
+      "timeline_stages": [
+        "Manipulator / The Dice Game"
+      ]
+    },
+    {
+      "character_id": "MAH_148",
+      "key": "KING_VIRATA",
+      "name": "Virata",
+      "aliases": [
+        "Raja Virata",
+        "Matsya-raja"
+      ],
+      "epic": "Mahabharata",
+      "gender": "Male",
+      "primary_role": "King of Matsya (Virata) kingdom / Sheltered the disguised Pandavas during their 13th year of incognito exile",
+      "tags": [
+        "king",
+        "ally",
+        "shelter",
+        "matsya",
+        "pandava_ally"
+      ],
+      "file": "mahabharata/kings/MAH_148_virata.json",
+      "timeline_count": 1,
+      "timeline_stages": [
+        "King / Sheltering the Pandavas"
+      ]
+    },
+    {
+      "character_id": "MAH_161",
+      "key": "BALARAMA",
+      "name": "Balarama",
+      "aliases": [
+        "Balabhadra",
+        "Haladhar",
+        "Sankarshana",
+        "Dauji"
+      ],
+      "epic": "Mahabharata",
+      "gender": "Male",
+      "primary_role": "Elder brother of Krishna / Avatar of Shesha Naga / Supreme mace fighter / Duryodhana's mace teacher",
+      "tags": [
+        "avatar",
+        "warrior",
+        "mace_fighter",
+        "farmer",
+        "elder_brother",
+        "plowman",
+        "divine"
+      ],
+      "file": "mahabharata/krishna_family/MAH_161_balarama.json",
+      "timeline_count": 1,
+      "timeline_stages": [
+        "Elder Brother / The Reluctant Witness"
+      ]
+    },
+    {
+      "character_id": "MAH_162",
+      "key": "RUKMINI",
+      "name": "Rukmini",
+      "aliases": [
+        "Rukmini Devi",
+        "Sri Devi",
+        "Krishna-priya"
+      ],
+      "epic": "Mahabharata",
+      "gender": "Female",
+      "primary_role": "Chief queen of Krishna / Avatar of Lakshmi / Princess who wrote a love letter to Krishna requesting her own rescue",
+      "tags": [
+        "queen",
+        "avatar",
+        "wife",
+        "divine",
+        "princess",
+        "lakshmi"
+      ],
+      "file": "mahabharata/krishna_family/MAH_162_rukmini.json",
+      "timeline_count": 1,
+      "timeline_stages": [
+        "Queen / Elopement with Krishna"
+      ]
+    },
+    {
+      "character_id": "MAH_133",
+      "key": "GHATOTKACHA",
+      "name": "Ghatotkacha",
+      "aliases": [
+        "Ghatotkacha",
+        "Hidimba-putra",
+        "Bhima-nandana"
+      ],
+      "epic": "Mahabharata",
+      "gender": "Male",
+      "primary_role": "Half-Rakshasa son of Bhima and Hidimbi / Giant warrior who fights for the Pandavas / His death saves Arjuna's life",
+      "tags": [
+        "rakshasa",
+        "warrior",
+        "half_blood",
+        "giant",
+        "sacrifice",
+        "son",
+        "shapeshifter"
+      ],
+      "file": "mahabharata/mythical/MAH_133_ghatotkacha.json",
+      "timeline_count": 1,
+      "timeline_stages": [
+        "Giant Warrior / Night Battle"
+      ]
+    },
+    {
+      "character_id": "MAH_001",
+      "key": "YUDHISHTHIRA",
+      "name": "Yudhishthira",
+      "aliases": [
+        "Dharmaraja",
+        "Ajatashatru",
+        "Pandu-putra"
+      ],
+      "epic": "Mahabharata",
+      "gender": "Male",
+      "primary_role": "Eldest Pandava / King of Indraprastha / Son of Dharma / Embodiment of truth and righteousness",
+      "tags": [
+        "king",
+        "eldest",
+        "truthful",
+        "dharmic",
+        "gambler",
+        "pandava",
+        "philosopher"
+      ],
+      "file": "mahabharata/pandavas/MAH_001_yudhishthira.json",
+      "timeline_count": 2,
+      "timeline_stages": [
+        "Youth / Prince of Hastinapur",
+        "War / Kurukshetra"
+      ]
+    },
+    {
+      "character_id": "MAH_002",
+      "key": "BHIMA",
+      "name": "Bhima",
+      "aliases": [
+        "Bhimasena",
+        "Vrikodara",
+        "Vrikodar",
+        "Bheem"
+      ],
+      "epic": "Mahabharata",
+      "gender": "Male",
+      "primary_role": "Second Pandava / Strongest warrior in the world / Son of Vayu / The mace champion",
+      "tags": [
+        "warrior",
+        "strongest",
+        "pandava",
+        "mace_fighter",
+        "cook",
+        "husband",
+        "brother",
+        "protector"
+      ],
+      "file": "mahabharata/pandavas/MAH_002_bhima.json",
+      "timeline_count": 2,
+      "timeline_stages": [
+        "Prime Warrior / Pre-Exile",
+        "War / Kurukshetra — Fulfilling his Vows"
+      ]
+    },
+    {
+      "character_id": "MAH_003",
+      "key": "ARJUNA",
+      "name": "Arjuna",
+      "aliases": [
+        "Partha",
+        "Dhananjaya",
+        "Savyasachi",
+        "Gudakesha",
+        "Vijaya",
+        "Phalguna",
+        "Kiriti",
+        "Bibhatsu"
+      ],
+      "epic": "Mahabharata",
+      "gender": "Male",
+      "primary_role": "Third Pandava / Greatest archer in the world / Receiver of the Bhagavad Gita / Son of Indra",
+      "tags": [
+        "warrior",
+        "archer",
+        "pandava",
+        "hero",
+        "divine_born",
+        "student",
+        "husband",
+        "protagonist"
+      ],
+      "file": "mahabharata/pandavas/MAH_003_arjuna.json",
+      "timeline_count": 2,
+      "timeline_stages": [
+        "Young Warrior / Gurukul Graduate",
+        "War / Kurukshetra — After the Gita"
+      ]
+    },
+    {
+      "character_id": "MAH_004",
+      "key": "NAKULA",
+      "name": "Nakula",
+      "aliases": [
+        "Pandava-chaturtha"
+      ],
+      "epic": "Mahabharata",
+      "gender": "Male",
+      "primary_role": "Fourth Pandava / Most handsome man in the world / Expert horseman and swordsman / Son of one of the Ashvini Kumars",
+      "tags": [
+        "pandava",
+        "handsome",
+        "horseman",
+        "swordsman",
+        "twin",
+        "healer"
+      ],
+      "file": "mahabharata/pandavas/MAH_004_nakula.json",
+      "timeline_count": 1,
+      "timeline_stages": [
+        "Warrior / Horseman"
+      ]
+    },
+    {
+      "character_id": "MAH_005",
+      "key": "SAHADEVA",
+      "name": "Sahadeva",
+      "aliases": [
+        "Pandava-panchama",
+        "Youngest Pandava"
+      ],
+      "epic": "Mahabharata",
+      "gender": "Male",
+      "primary_role": "Fifth (youngest) Pandava / Wisest of the brothers / Knows the future but cannot reveal it / Son of one of the Ashvini Kumars",
+      "tags": [
+        "pandava",
+        "wise",
+        "prophet",
+        "swordsman",
+        "twin",
+        "youngest",
+        "astrologer"
+      ],
+      "file": "mahabharata/pandavas/MAH_005_sahadeva.json",
+      "timeline_count": 1,
+      "timeline_stages": [
+        "Wise Warrior / The One Who Knows"
+      ]
+    },
+    {
+      "character_id": "MAH_006",
+      "key": "DRAUPADI",
+      "name": "Draupadi",
+      "aliases": [
+        "Panchali",
+        "Krishnaa",
+        "Yajnaseni",
+        "Drupadakanya",
+        "Sakhi"
+      ],
+      "epic": "Mahabharata",
+      "gender": "Female",
+      "primary_role": "Wife of the five Pandavas / Born from sacred fire / Queen of Indraprastha / Catalyst of the Kurukshetra war",
+      "tags": [
+        "queen",
+        "fire_born",
+        "wife",
+        "mother",
+        "catalyst",
+        "fierce",
+        "beautiful",
+        "wronged"
+      ],
+      "file": "mahabharata/pandavas/MAH_006_draupadi.json",
+      "timeline_count": 2,
+      "timeline_stages": [
+        "Youth / Fire-Born Princess",
+        "Humiliation / The Court Scene"
+      ]
+    },
+    {
+      "character_id": "MAH_007",
+      "key": "KUNTI",
+      "name": "Kunti",
+      "aliases": [
+        "Pritha",
+        "Kunti Devi",
+        "Pandava-mata"
+      ],
+      "epic": "Mahabharata",
+      "gender": "Female",
+      "primary_role": "Mother of the three elder Pandavas / Queen of Pandu / Possessed the Deva-invocation mantra",
+      "tags": [
+        "queen",
+        "mother",
+        "secret_keeper",
+        "wise",
+        "strong",
+        "sacrifice"
+      ],
+      "file": "mahabharata/pandavas/MAH_007_kunti.json",
+      "timeline_count": 1,
+      "timeline_stages": [
+        "Queen Mother / The Secret Bearer"
+      ]
+    },
+    {
+      "character_id": "MAH_008",
+      "key": "ABHIMANYU",
+      "name": "Abhimanyu",
+      "aliases": [
+        "Arjuna-putra",
+        "Subhadra-nandana",
+        "Soubhadri"
+      ],
+      "epic": "Mahabharata",
+      "gender": "Male",
+      "primary_role": "Son of Arjuna and Subhadra / The young warrior who entered the Chakravyuha but could not escape / Tragic hero",
+      "tags": [
+        "warrior",
+        "young",
+        "hero",
+        "tragic",
+        "son",
+        "brave",
+        "sacrifice"
+      ],
+      "file": "mahabharata/pandavas/MAH_008_abhimanyu.json",
+      "timeline_count": 1,
+      "timeline_stages": [
+        "Young Hero / The Chakravyuha"
+      ]
+    },
+    {
+      "character_id": "MAH_118",
+      "key": "VYASA",
+      "name": "Vyasa",
+      "aliases": [
+        "Krishna Dwaipayana",
+        "Vedavyasa",
+        "Badarayana",
+        "Parashara-putra"
+      ],
+      "epic": "Mahabharata",
+      "gender": "Male",
+      "primary_role": "Author of the Mahabharata / Divider of the Vedas / Biological father of Dhritarashtra, Pandu, and Vidura / The narrator who is also a character in his own story",
+      "tags": [
+        "sage",
+        "author",
+        "immortal",
+        "narrator",
+        "father",
+        "vedic",
+        "cosmic"
+      ],
+      "file": "mahabharata/sages/MAH_118_vyasa.json",
+      "timeline_count": 1,
+      "timeline_stages": [
+        "Sage-Author / The Narrator Within"
+      ]
+    },
+    {
+      "character_id": "MAH_075",
+      "key": "KARNA",
+      "name": "Karna",
+      "aliases": [
+        "Suryaputra",
+        "Radheya",
+        "Vasusena",
+        "Angaraj",
+        "Danveer Karna",
+        "Kunti-putra"
+      ],
+      "epic": "Mahabharata",
+      "gender": "Male",
+      "primary_role": "Son of Kunti and Surya / Abandoned at birth / Raised by a charioteer / Greatest tragic hero / Duryodhana's loyal friend / Rival of Arjuna",
+      "tags": [
+        "warrior",
+        "tragic_hero",
+        "archer",
+        "friend",
+        "generous",
+        "abandoned",
+        "sun_born",
+        "rival",
+        "complex"
+      ],
+      "file": "mahabharata/warriors_kaurava/MAH_075_karna.json",
+      "timeline_count": 2,
+      "timeline_stages": [
+        "Young Warrior / The Rejected Prince",
+        "War / Kurukshetra — Final Battle"
+      ]
+    },
+    {
+      "character_id": "MAH_076",
+      "key": "ASHWATTHAMA",
+      "name": "Ashwatthama",
+      "aliases": [
+        "Drona-putra",
+        "Chiranjivi Ashwatthama"
+      ],
+      "epic": "Mahabharata",
+      "gender": "Male",
+      "primary_role": "Son of Drona / Possessor of the Brahma-gem / Cursed to wander immortally for his war crimes",
+      "tags": [
+        "warrior",
+        "cursed",
+        "immortal",
+        "brahmin",
+        "war_criminal",
+        "gem_bearer",
+        "son"
+      ],
+      "file": "mahabharata/warriors_kaurava/MAH_076_ashwatthama.json",
+      "timeline_count": 1,
+      "timeline_stages": [
+        "Warrior / Night Massacre"
+      ]
+    },
+    {
+      "character_id": "MAH_050",
+      "key": "DHRISHTADYUMNA",
+      "name": "Dhrishtadyumna",
+      "aliases": [
+        "Dhrishtadyumna",
+        "Panchala-putra"
+      ],
+      "epic": "Mahabharata",
+      "gender": "Male",
+      "primary_role": "Commander-in-chief of the Pandava army / Born from fire to kill Drona / Twin brother of Draupadi",
+      "tags": [
+        "warrior",
+        "commander",
+        "fire_born",
+        "destined",
+        "pandava_ally"
+      ],
+      "file": "mahabharata/warriors_pandava/MAH_050_dhrishtadyumna.json",
+      "timeline_count": 1,
+      "timeline_stages": [
+        "Commander / Kurukshetra"
+      ]
+    },
+    {
+      "character_id": "MAH_051",
+      "key": "SHIKHANDI",
+      "name": "Shikhandi",
+      "aliases": [
+        "Shikhandini",
+        "Amba reborn"
+      ],
+      "epic": "Mahabharata",
+      "gender": "Male (born female)",
+      "primary_role": "Reincarnation of Amba / Born female, became male / The one who stood before Bhishma enabling his fall",
+      "tags": [
+        "warrior",
+        "reborn",
+        "transgender",
+        "avenger",
+        "catalyst"
+      ],
+      "file": "mahabharata/warriors_pandava/MAH_051_shikhandi.json",
+      "timeline_count": 1,
+      "timeline_stages": [
+        "Avenger / Bhishma's Fall"
+      ]
+    },
+    {
+      "character_id": "MAH_052",
+      "key": "SATYAKI",
+      "name": "Satyaki",
+      "aliases": [
+        "Yuyudhana",
+        "Satyaki Yadava"
+      ],
+      "epic": "Mahabharata",
+      "gender": "Male",
+      "primary_role": "Yadava warrior / Student of Arjuna / Fiercest Pandava ally from Krishna's clan",
+      "tags": [
+        "warrior",
+        "yadava",
+        "loyal",
+        "fierce",
+        "archer",
+        "pandava_ally"
+      ],
+      "file": "mahabharata/warriors_pandava/MAH_052_satyaki.json",
+      "timeline_count": 1,
+      "timeline_stages": [
+        "Warrior / Pandava Loyalist"
+      ]
+    },
+    {
+      "character_id": "MAH_100",
+      "key": "SUBHADRA",
+      "name": "Subhadra",
+      "aliases": [
+        "Subhadra Devi",
+        "Krishna-anuja",
+        "Arjuna-patni"
+      ],
+      "epic": "Mahabharata",
+      "gender": "Female",
+      "primary_role": "Sister of Krishna and Balarama / Wife of Arjuna / Mother of Abhimanyu",
+      "tags": [
+        "princess",
+        "wife",
+        "mother",
+        "sister",
+        "warrior_princess",
+        "yadava"
+      ],
+      "file": "mahabharata/women/MAH_100_subhadra.json",
+      "timeline_count": 1,
+      "timeline_stages": [
+        "Princess-Wife / Mother of Abhimanyu"
+      ]
+    },
+    {
+      "character_id": "MAH_101",
+      "key": "HIDIMBI",
+      "name": "Hidimbi",
+      "aliases": [
+        "Hidimba",
+        "Hidimba Devi"
+      ],
+      "epic": "Mahabharata",
+      "gender": "Female",
+      "primary_role": "Rakshasi princess who fell in love with Bhima / Mother of Ghatotkacha / Chose love over her demon nature",
+      "tags": [
+        "rakshasi",
+        "mother",
+        "lover",
+        "shapeshifter",
+        "forest",
+        "gentle_demon"
+      ],
+      "file": "mahabharata/women/MAH_101_hidimbi.json",
+      "timeline_count": 1,
+      "timeline_stages": [
+        "Lover / Mother of Ghatotkacha"
+      ]
+    },
+    {
+      "character_id": "RAM_016",
+      "key": "VASISHTHA",
+      "name": "Vasishtha",
+      "aliases": [
+        "Vashishtha",
+        "Brahmarishi Vasishtha"
+      ],
+      "epic": "Ramayana",
+      "gender": "Male",
+      "primary_role": "Royal Guru of Ayodhya / One of the Saptarishis (Seven Great Sages)",
+      "tags": [
+        "sage",
+        "guru",
+        "divine",
+        "wise",
+        "priest",
+        "saptarishi"
+      ],
+      "file": "ramayana/ayodhya_court/RAM_016_vasishtha.json",
+      "timeline_count": 1,
+      "timeline_stages": [
+        "Sage / Royal Guru"
+      ]
+    },
+    {
+      "character_id": "RAM_017",
+      "key": "VISHWAMITRA",
+      "name": "Vishwamitra",
+      "aliases": [
+        "Kaushika",
+        "Vishvamitra",
+        "Rajarishi-turned-Brahmarishi"
+      ],
+      "epic": "Ramayana",
+      "gender": "Male",
+      "primary_role": "Warrior-sage who trained young Rama and Lakshmana / Former king who became a Brahmarishi through penance",
+      "tags": [
+        "sage",
+        "warrior",
+        "guru",
+        "teacher",
+        "powerful",
+        "mentor"
+      ],
+      "file": "ramayana/ayodhya_court/RAM_017_vishwamitra.json",
+      "timeline_count": 1,
+      "timeline_stages": [
+        "Sage-Warrior / Rama's first Guru"
+      ]
+    },
+    {
+      "character_id": "RAM_018",
+      "key": "MANTHARA",
+      "name": "Manthara",
+      "aliases": [
+        "Kubja",
+        "The Hunchback"
+      ],
+      "epic": "Ramayana",
+      "gender": "Female",
+      "primary_role": "Kaikeyi's maid-servant and manipulator / Catalyst of Rama's exile",
+      "tags": [
+        "servant",
+        "manipulator",
+        "catalyst",
+        "hunchback",
+        "cunning"
+      ],
+      "file": "ramayana/ayodhya_court/RAM_018_manthara.json",
+      "timeline_count": 1,
+      "timeline_stages": [
+        "Servant / Manipulator"
+      ]
+    },
+    {
+      "character_id": "RAM_019",
+      "key": "URMILA",
+      "name": "Urmila",
+      "aliases": [
+        "Lakshmana-patni",
+        "Urmila Devi"
+      ],
+      "epic": "Ramayana",
+      "gender": "Female",
+      "primary_role": "Wife of Lakshmana / Princess of Mithila / Sister of Sita / The woman who slept for 14 years",
+      "tags": [
+        "princess",
+        "wife",
+        "devoted",
+        "sacrifice",
+        "sister"
+      ],
+      "file": "ramayana/ayodhya_court/RAM_019_urmila.json",
+      "timeline_count": 1,
+      "timeline_stages": [
+        "Princess / Silent Sacrifice"
+      ]
+    },
+    {
+      "character_id": "RAM_020",
+      "key": "JANAKA",
+      "name": "Janaka",
+      "aliases": [
+        "Raja Janaka",
+        "Videha-raja",
+        "Seeradhwaja"
+      ],
+      "epic": "Ramayana",
+      "gender": "Male",
+      "primary_role": "King of Mithila (Videha) / Father of Sita / Philosopher-king and Rajarishi",
+      "tags": [
+        "king",
+        "philosopher",
+        "sage_king",
+        "father",
+        "wise",
+        "detached"
+      ],
+      "file": "ramayana/ayodhya_court/RAM_020_janaka.json",
+      "timeline_count": 1,
+      "timeline_stages": [
+        "Philosopher-King"
+      ]
+    },
+    {
+      "character_id": "RAM_021",
+      "key": "GUHA",
+      "name": "Guha",
+      "aliases": [
+        "Nishad-raj",
+        "Nishada-raja",
+        "Sringiverapura-pati"
+      ],
+      "epic": "Ramayana",
+      "gender": "Male",
+      "primary_role": "King of the Nishadas (tribal/forest people) / Rama's devoted friend who ferried him across the Ganga",
+      "tags": [
+        "king",
+        "tribal",
+        "friend",
+        "boatman",
+        "devoted",
+        "humble"
+      ],
+      "file": "ramayana/ayodhya_court/RAM_021_guha.json",
+      "timeline_count": 1,
+      "timeline_stages": [
+        "Tribal King / Friend of Rama"
+      ]
+    },
+    {
+      "character_id": "RAM_022",
+      "key": "SUMANTRA",
+      "name": "Sumantra",
+      "aliases": [
+        "Sumantra the Charioteer",
+        "Raja-sarathi"
+      ],
+      "epic": "Ramayana",
+      "gender": "Male",
+      "primary_role": "Royal Charioteer of King Dasharatha / Minister and trusted advisor",
+      "tags": [
+        "charioteer",
+        "minister",
+        "loyal",
+        "servant",
+        "advisor"
+      ],
+      "file": "ramayana/ayodhya_court/RAM_022_sumantra.json",
+      "timeline_count": 1,
+      "timeline_stages": [
+        "Charioteer / Loyal Minister"
+      ]
+    },
+    {
+      "character_id": "RAM_023",
+      "key": "AHALYA",
+      "name": "Ahalya",
+      "aliases": [
+        "Ahalyā",
+        "The Stone Woman"
+      ],
+      "epic": "Ramayana",
+      "gender": "Female",
+      "primary_role": "Wife of sage Gautama / Cursed to become a stone / Redeemed by Rama's touch",
+      "tags": [
+        "cursed",
+        "redeemed",
+        "beautiful",
+        "sage_wife",
+        "stone",
+        "divine_creation"
+      ],
+      "file": "ramayana/ayodhya_court/RAM_023_ahalya.json",
+      "timeline_count": 1,
+      "timeline_stages": [
+        "Redemption / Freed from Stone"
+      ]
+    },
+    {
+      "character_id": "RAM_024",
+      "key": "SHABARI",
+      "name": "Shabari",
+      "aliases": [
+        "Shabari Ma",
+        "Shabri"
+      ],
+      "epic": "Ramayana",
+      "gender": "Female",
+      "primary_role": "Elderly tribal devotee / Fed Rama her pre-tasted berries / Symbol of pure bhakti (devotion)",
+      "tags": [
+        "devotee",
+        "tribal",
+        "old_woman",
+        "bhakti",
+        "humble",
+        "pure"
+      ],
+      "file": "ramayana/ayodhya_court/RAM_024_shabari.json",
+      "timeline_count": 1,
+      "timeline_stages": [
+        "Devotee / Feeding Rama"
+      ]
+    },
+    {
+      "character_id": "RAM_001",
+      "key": "SRI_RAMA",
+      "name": "Sri Rama",
+      "aliases": [
+        "Rama",
+        "Raghava",
+        "Dasharathi",
+        "Maryada Purushottam",
+        "Ramachandra",
+        "Raghunath",
+        "Kodandapani",
+        "Sitapati"
+      ],
+      "epic": "Ramayana",
+      "gender": "Male",
+      "primary_role": "Protagonist / Seventh Avatar of Vishnu / Prince and later King of Ayodhya",
+      "tags": [
+        "protagonist",
+        "avatar",
+        "warrior",
+        "king",
+        "archer",
+        "divine",
+        "hero",
+        "prince",
+        "husband"
+      ],
+      "file": "ramayana/core/RAM_001_sri_rama.json",
+      "timeline_count": 4,
+      "timeline_stages": [
+        "Youth / Prince of Ayodhya",
+        "Exile / Hermit-Warrior in the Forest",
+        "War / Commander at Lanka",
+        "King / Rama Rajya"
+      ]
+    },
+    {
+      "character_id": "RAM_002",
+      "key": "SITA",
+      "name": "Sita",
+      "aliases": [
+        "Janaki",
+        "Maithili",
+        "Vaidehi",
+        "Bhumija",
+        "Bhumi-putri",
+        "Sitadevi",
+        "Rama-priya"
+      ],
+      "epic": "Ramayana",
+      "gender": "Female",
+      "primary_role": "Protagonist / Wife of Rama / Avatar of Goddess Lakshmi / Symbol of purity, devotion, and inner strength",
+      "tags": [
+        "protagonist",
+        "queen",
+        "divine",
+        "avatar",
+        "wife",
+        "mother",
+        "symbol_of_virtue",
+        "princess"
+      ],
+      "file": "ramayana/core/RAM_002_sita.json",
+      "timeline_count": 4,
+      "timeline_stages": [
+        "Youth / Princess of Mithila",
+        "Exile / Forest Companion",
+        "Captivity / Prisoner in Ashoka Vatika",
+        "Queen / Rama Rajya and Later Exile"
+      ]
+    },
+    {
+      "character_id": "RAM_003",
+      "key": "LAKSHMANA",
+      "name": "Lakshmana",
+      "aliases": [
+        "Lakshman",
+        "Saumitri",
+        "Ramanuja",
+        "Shesha-avatara",
+        "Lakshmana Swami"
+      ],
+      "epic": "Ramayana",
+      "gender": "Male",
+      "primary_role": "Deuteragonist / Rama's devoted younger brother / Avatar of Shesha Naga",
+      "tags": [
+        "warrior",
+        "brother",
+        "devotee",
+        "protector",
+        "prince",
+        "avatar"
+      ],
+      "file": "ramayana/core/RAM_003_lakshmana.json",
+      "timeline_count": 2,
+      "timeline_stages": [
+        "Youth / Prince of Ayodhya",
+        "Exile / Warrior-Guardian"
+      ]
+    },
+    {
+      "character_id": "RAM_004",
+      "key": "HANUMAN",
+      "name": "Hanuman",
+      "aliases": [
+        "Anjaneya",
+        "Maruti",
+        "Bajrangbali",
+        "Pavanputra",
+        "Kesari-nandana",
+        "Sankat Mochan",
+        "Mahavira",
+        "Vayuputra",
+        "Hanumanji"
+      ],
+      "epic": "Ramayana",
+      "gender": "Male",
+      "primary_role": "Supreme Devotee of Rama / Vanara warrior / Son of Vayu / Symbol of devotion, strength, and humility",
+      "tags": [
+        "devotee",
+        "warrior",
+        "divine",
+        "vanara",
+        "hero",
+        "immortal",
+        "shapeshifter",
+        "celibate"
+      ],
+      "file": "ramayana/core/RAM_004_hanuman.json",
+      "timeline_count": 3,
+      "timeline_stages": [
+        "Child / Reaching for the Sun",
+        "Prime / Lanka Mission",
+        "Eternal Devotee / Chiranjivi"
+      ]
+    },
+    {
+      "character_id": "RAM_005",
+      "key": "RAVANA",
+      "name": "Ravana",
+      "aliases": [
+        "Dashanan",
+        "Dashagreeva",
+        "Lankapati",
+        "Lankeshwar",
+        "Dasamukha",
+        "Ravanaasura",
+        "Paulastya"
+      ],
+      "epic": "Ramayana",
+      "gender": "Male",
+      "primary_role": "Primary Antagonist / Ten-headed King of Lanka / Greatest scholar and devotee of Shiva turned villain by ego",
+      "tags": [
+        "antagonist",
+        "demon",
+        "king",
+        "scholar",
+        "musician",
+        "warrior",
+        "shapeshifter",
+        "villain",
+        "devotee_of_shiva"
+      ],
+      "file": "ramayana/core/RAM_005_ravana.json",
+      "timeline_count": 2,
+      "timeline_stages": [
+        "Scholar-King / Golden Age of Lanka",
+        "War / Fall and Death at Lanka"
+      ]
+    },
+    {
+      "character_id": "RAM_006",
+      "key": "BHARATA",
+      "name": "Bharata",
+      "aliases": [
+        "Bharat",
+        "Kaikeyi-putra",
+        "Rama-anuja"
+      ],
+      "epic": "Ramayana",
+      "gender": "Male",
+      "primary_role": "Prince of Ayodhya / Rama's devoted younger brother / Regent of Ayodhya during Rama's exile",
+      "tags": [
+        "prince",
+        "devotee",
+        "brother",
+        "regent",
+        "selfless",
+        "noble"
+      ],
+      "file": "ramayana/core/RAM_006_bharata.json",
+      "timeline_count": 1,
+      "timeline_stages": [
+        "Regent / Nandigrama"
+      ]
+    },
+    {
+      "character_id": "RAM_007",
+      "key": "SHATRUGHNA",
+      "name": "Shatrughna",
+      "aliases": [
+        "Shatrughna",
+        "Shatru-ghna",
+        "Ripu-sudana"
+      ],
+      "epic": "Ramayana",
+      "gender": "Male",
+      "primary_role": "Prince of Ayodhya / Youngest brother of Rama / Twin of Lakshmana / Conqueror of enemies",
+      "tags": [
+        "prince",
+        "warrior",
+        "brother",
+        "conqueror",
+        "loyal"
+      ],
+      "file": "ramayana/core/RAM_007_shatrughna.json",
+      "timeline_count": 1,
+      "timeline_stages": [
+        "Warrior Prince"
+      ]
+    },
+    {
+      "character_id": "RAM_008",
+      "key": "DASHARATHA",
+      "name": "Dasharatha",
+      "aliases": [
+        "Dasharath",
+        "Nemi",
+        "Raghu-nandana",
+        "Ayodhya-pati"
+      ],
+      "epic": "Ramayana",
+      "gender": "Male",
+      "primary_role": "King of Ayodhya / Father of Rama / Tragic figure bound by his word",
+      "tags": [
+        "king",
+        "father",
+        "warrior",
+        "tragic",
+        "noble",
+        "righteous"
+      ],
+      "file": "ramayana/core/RAM_008_dasharatha.json",
+      "timeline_count": 1,
+      "timeline_stages": [
+        "King / Father in Grief"
+      ]
+    },
+    {
+      "character_id": "RAM_009",
+      "key": "KAUSALYA",
+      "name": "Kausalya",
+      "aliases": [
+        "Kaushalya",
+        "Rama-mata",
+        "Kosala-devi"
+      ],
+      "epic": "Ramayana",
+      "gender": "Female",
+      "primary_role": "Chief Queen of Ayodhya / Mother of Rama / Embodiment of maternal love and dignity",
+      "tags": [
+        "queen",
+        "mother",
+        "noble",
+        "dignified",
+        "wife"
+      ],
+      "file": "ramayana/core/RAM_009_kausalya.json",
+      "timeline_count": 1,
+      "timeline_stages": [
+        "Queen / Mother of Rama"
+      ]
+    },
+    {
+      "character_id": "RAM_010",
+      "key": "KAIKEYI",
+      "name": "Kaikeyi",
+      "aliases": [
+        "Kaikeyi Devi",
+        "Bharat-mata",
+        "The Hunchback's Queen"
+      ],
+      "epic": "Ramayana",
+      "gender": "Female",
+      "primary_role": "Second Queen of Ayodhya / Mother of Bharata / Tragic catalyst of Rama's exile",
+      "tags": [
+        "queen",
+        "mother",
+        "catalyst",
+        "complex",
+        "warrior_queen",
+        "tragic"
+      ],
+      "file": "ramayana/core/RAM_010_kaikeyi.json",
+      "timeline_count": 1,
+      "timeline_stages": [
+        "Queen / The Boons Demanded"
+      ]
+    },
+    {
+      "character_id": "RAM_011",
+      "key": "SUMITRA",
+      "name": "Sumitra",
+      "aliases": [
+        "Sumitra Devi",
+        "Lakshmana-mata",
+        "Shatrughna-mata"
+      ],
+      "epic": "Ramayana",
+      "gender": "Female",
+      "primary_role": "Third Queen of Ayodhya / Mother of Lakshmana and Shatrughna / Embodiment of selfless wisdom",
+      "tags": [
+        "queen",
+        "mother",
+        "wise",
+        "selfless",
+        "supportive"
+      ],
+      "file": "ramayana/core/RAM_011_sumitra.json",
+      "timeline_count": 1,
+      "timeline_stages": [
+        "Queen / Wise Mother"
+      ]
+    },
+    {
+      "character_id": "RAM_012",
+      "key": "SUGRIVA",
+      "name": "Sugriva",
+      "aliases": [
+        "Sugreeva",
+        "Surya-putra"
+      ],
+      "epic": "Ramayana",
+      "gender": "Male",
+      "primary_role": "King of Kishkindha / Vanara leader / Key ally of Rama",
+      "tags": [
+        "king",
+        "vanara",
+        "ally",
+        "warrior",
+        "sun_born"
+      ],
+      "file": "ramayana/core/RAM_012_sugriva.json",
+      "timeline_count": 1,
+      "timeline_stages": [
+        "King / Alliance with Rama"
+      ]
+    },
+    {
+      "character_id": "RAM_013",
+      "key": "VIBHISHANA",
+      "name": "Vibhishana",
+      "aliases": [
+        "Vibhishan",
+        "Vibheeshana",
+        "Dharma-Rakshasa"
+      ],
+      "epic": "Ramayana",
+      "gender": "Male",
+      "primary_role": "Righteous Rakshasa / Brother of Ravana / Later crowned King of Lanka by Rama",
+      "tags": [
+        "rakshasa",
+        "devotee",
+        "righteous",
+        "king",
+        "ally",
+        "moral"
+      ],
+      "file": "ramayana/core/RAM_013_vibhishana.json",
+      "timeline_count": 1,
+      "timeline_stages": [
+        "Defector / Joining Rama"
+      ]
+    },
+    {
+      "character_id": "RAM_014",
+      "key": "JAMBAVAN",
+      "name": "Jambavan",
+      "aliases": [
+        "Jambavant",
+        "Jambuvan",
+        "Riksha-raja",
+        "The Bear King"
+      ],
+      "epic": "Ramayana",
+      "gender": "Male",
+      "primary_role": "King of Bears / Immortal warrior / Advisor who reminded Hanuman of his powers",
+      "tags": [
+        "bear",
+        "king",
+        "immortal",
+        "advisor",
+        "warrior",
+        "wise",
+        "ancient"
+      ],
+      "file": "ramayana/core/RAM_014_jambavan.json",
+      "timeline_count": 1,
+      "timeline_stages": [
+        "Elder Warrior / Lanka Campaign"
+      ]
+    },
+    {
+      "character_id": "RAM_015",
+      "key": "MANDODARI",
+      "name": "Mandodari",
+      "aliases": [
+        "Mandodari Devi",
+        "Lanka-Lakshmi",
+        "Ravana-patni"
+      ],
+      "epic": "Ramayana",
+      "gender": "Female",
+      "primary_role": "Chief Queen of Lanka / Wife of Ravana / Wise and virtuous woman trapped in a demon's palace",
+      "tags": [
+        "queen",
+        "wife",
+        "wise",
+        "beautiful",
+        "tragic",
+        "counselor",
+        "mother"
+      ],
+      "file": "ramayana/core/RAM_015_mandodari.json",
+      "timeline_count": 1,
+      "timeline_stages": [
+        "Queen / Counselor of Lanka"
+      ]
+    },
+    {
+      "character_id": "RAM_114",
+      "key": "SHRAVAN_KUMAR",
+      "name": "Shravan Kumar",
+      "aliases": [
+        "Shravana"
+      ],
+      "epic": "Ramayana",
+      "gender": "Male",
+      "primary_role": "Devoted son who carried his blind parents on a pilgrimage / Accidentally killed by Dasharatha's arrow",
+      "tags": [
+        "devotee",
+        "son",
+        "pilgrim",
+        "innocent",
+        "martyr",
+        "filial_piety"
+      ],
+      "file": "ramayana/minor/RAM_114_shravan_kumar.json",
+      "timeline_count": 1,
+      "timeline_stages": [
+        "Devoted Son / Fatal Water-Fetching"
+      ]
+    },
+    {
+      "character_id": "RAM_115",
+      "key": "LAVA",
+      "name": "Lava",
+      "aliases": [
+        "Lav"
+      ],
+      "epic": "Ramayana",
+      "gender": "Male",
+      "primary_role": "Elder twin son of Rama and Sita / Raised by Valmiki / Warrior prince who fights Rama's army without knowing his father",
+      "tags": [
+        "prince",
+        "twin",
+        "warrior",
+        "son",
+        "ashram_raised",
+        "divine_heir"
+      ],
+      "file": "ramayana/minor/RAM_115_lava.json",
+      "timeline_count": 1,
+      "timeline_stages": [
+        "Young Warrior / Confronting Rama's Army"
+      ]
+    },
+    {
+      "character_id": "RAM_116",
+      "key": "KUSHA",
+      "name": "Kusha",
+      "aliases": [
+        "Kush"
+      ],
+      "epic": "Ramayana",
+      "gender": "Male",
+      "primary_role": "Younger twin son of Rama and Sita / Raised by Valmiki / Warrior prince and singer of the Ramayana",
+      "tags": [
+        "prince",
+        "twin",
+        "warrior",
+        "son",
+        "ashram_raised",
+        "divine_heir",
+        "singer"
+      ],
+      "file": "ramayana/minor/RAM_116_kusha.json",
+      "timeline_count": 1,
+      "timeline_stages": [
+        "Young Warrior / Singer of Ramayana"
+      ]
+    },
+    {
+      "character_id": "RAM_056",
+      "key": "KUMBHAKARNA",
+      "name": "Kumbhakarna",
+      "aliases": [
+        "Kumbhakarn"
+      ],
+      "epic": "Ramayana",
+      "gender": "Male",
+      "primary_role": "Ravana's giant brother / Blessed with the boon of sleep / Awakened for the war against Rama",
+      "tags": [
+        "rakshasa",
+        "giant",
+        "warrior",
+        "sleeper",
+        "brother",
+        "tragic"
+      ],
+      "file": "ramayana/rakshasa/RAM_056_kumbhakarna.json",
+      "timeline_count": 1,
+      "timeline_stages": [
+        "Giant Warrior / War of Lanka"
+      ]
+    },
+    {
+      "character_id": "RAM_057",
+      "key": "INDRAJIT",
+      "name": "Indrajit",
+      "aliases": [
+        "Meghanada",
+        "Meghnad",
+        "Ravani"
+      ],
+      "epic": "Ramayana",
+      "gender": "Male",
+      "primary_role": "Son of Ravana / Conqueror of Indra / Greatest warrior of Lanka / Master of illusion warfare",
+      "tags": [
+        "rakshasa",
+        "prince",
+        "warrior",
+        "conqueror",
+        "illusionist",
+        "powerful"
+      ],
+      "file": "ramayana/rakshasa/RAM_057_indrajit.json",
+      "timeline_count": 1,
+      "timeline_stages": [
+        "Supreme Warrior / Lanka War"
+      ]
+    },
+    {
+      "character_id": "RAM_058",
+      "key": "SURPANAKHA",
+      "name": "Surpanakha",
+      "aliases": [
+        "Shurpanakha",
+        "Meenakshi",
+        "Ravana's sister"
+      ],
+      "epic": "Ramayana",
+      "gender": "Female",
+      "primary_role": "Rakshasi sister of Ravana / Her humiliation triggered the abduction of Sita and the war of Lanka",
+      "tags": [
+        "rakshasi",
+        "catalyst",
+        "shapeshifter",
+        "sister",
+        "vengeful"
+      ],
+      "file": "ramayana/rakshasa/RAM_058_surpanakha.json",
+      "timeline_count": 1,
+      "timeline_stages": [
+        "Rakshasi / Encounter with Rama"
+      ]
+    },
+    {
+      "character_id": "RAM_059",
+      "key": "MARICHA",
+      "name": "Maricha",
+      "aliases": [
+        "Mareech",
+        "Golden Deer"
+      ],
+      "epic": "Ramayana",
+      "gender": "Male",
+      "primary_role": "Rakshasa who took the form of the golden deer (Mayamruga) to lure Rama away from Sita",
+      "tags": [
+        "rakshasa",
+        "shapeshifter",
+        "deer",
+        "deceiver",
+        "pawn",
+        "tragic"
+      ],
+      "file": "ramayana/rakshasa/RAM_059_maricha.json",
+      "timeline_count": 1,
+      "timeline_stages": [
+        "Golden Deer / The Deception"
+      ]
+    },
+    {
+      "character_id": "RAM_060",
+      "key": "TATAKA",
+      "name": "Tataka",
+      "aliases": [
+        "Tadaka",
+        "Taraka"
+      ],
+      "epic": "Ramayana",
+      "gender": "Female",
+      "primary_role": "Powerful Rakshasi / Mother of Maricha / First demon killed by young Rama on Vishwamitra's orders",
+      "tags": [
+        "rakshasi",
+        "monster",
+        "cursed",
+        "mother",
+        "first_kill"
+      ],
+      "file": "ramayana/rakshasa/RAM_060_tataka.json",
+      "timeline_count": 1,
+      "timeline_stages": [
+        "Rakshasi / Confrontation with Rama"
+      ]
+    },
+    {
+      "character_id": "RAM_061",
+      "key": "AKSHAYAKUMARA",
+      "name": "Akshayakumara",
+      "aliases": [
+        "Akshay Kumar",
+        "Aksha"
+      ],
+      "epic": "Ramayana",
+      "gender": "Male",
+      "primary_role": "Young son of Ravana / Brave prince killed by Hanuman in Lanka",
+      "tags": [
+        "rakshasa",
+        "prince",
+        "young",
+        "brave",
+        "warrior",
+        "tragic"
+      ],
+      "file": "ramayana/rakshasa/RAM_061_akshayakumara.json",
+      "timeline_count": 1,
+      "timeline_stages": [
+        "Young Prince / Battle with Hanuman"
+      ]
+    },
+    {
+      "character_id": "RAM_062",
+      "key": "TRIJATA",
+      "name": "Trijata",
+      "aliases": [
+        "Trijatā"
+      ],
+      "epic": "Ramayana",
+      "gender": "Female",
+      "primary_role": "Rakshasi guard of Sita in Ashoka Vatika / Secret devotee of Rama / Protected Sita from other guards",
+      "tags": [
+        "rakshasi",
+        "guard",
+        "devotee",
+        "protector",
+        "kind",
+        "prophetess"
+      ],
+      "file": "ramayana/rakshasa/RAM_062_trijata.json",
+      "timeline_count": 1,
+      "timeline_stages": [
+        "Guard / Protector of Sita"
+      ]
+    },
+    {
+      "character_id": "RAM_086",
+      "key": "VALMIKI",
+      "name": "Valmiki",
+      "aliases": [
+        "Adi Kavi",
+        "Ratnakara",
+        "Maharishi Valmiki"
+      ],
+      "epic": "Ramayana",
+      "gender": "Male",
+      "primary_role": "Author of the Ramayana / First poet (Adi Kavi) / Former robber turned sage / Shelter for exiled Sita",
+      "tags": [
+        "sage",
+        "poet",
+        "author",
+        "teacher",
+        "reformed",
+        "guru"
+      ],
+      "file": "ramayana/sages_divine/RAM_086_valmiki.json",
+      "timeline_count": 1,
+      "timeline_stages": [
+        "Sage-Poet / Composing the Ramayana"
+      ]
+    },
+    {
+      "character_id": "RAM_087",
+      "key": "AGASTYA",
+      "name": "Agastya",
+      "aliases": [
+        "Agasthya",
+        "Kumbhayoni",
+        "Ocean-drinker"
+      ],
+      "epic": "Ramayana",
+      "gender": "Male",
+      "primary_role": "One of the Saptarishis / The sage who drank the ocean / Gave Rama divine weapons / Spread Vedic knowledge to South India",
+      "tags": [
+        "sage",
+        "saptarishi",
+        "powerful",
+        "divine",
+        "south_india",
+        "weapon_giver"
+      ],
+      "file": "ramayana/sages_divine/RAM_087_agastya.json",
+      "timeline_count": 1,
+      "timeline_stages": [
+        "Sage / Arming Rama"
+      ]
+    },
+    {
+      "character_id": "RAM_088",
+      "key": "NARADA",
+      "name": "Narada",
+      "aliases": [
+        "Narada Muni",
+        "Devarishi Narada",
+        "Triloka-sanchari"
+      ],
+      "epic": "Ramayana",
+      "gender": "Male",
+      "primary_role": "Divine sage / Celestial messenger and traveler / Storyteller who narrates the story of Rama to Valmiki",
+      "tags": [
+        "sage",
+        "divine",
+        "messenger",
+        "musician",
+        "storyteller",
+        "traveler",
+        "devotee"
+      ],
+      "file": "ramayana/sages_divine/RAM_088_narada.json",
+      "timeline_count": 1,
+      "timeline_stages": [
+        "Celestial Sage / Storyteller"
+      ]
+    },
+    {
+      "character_id": "RAM_031",
+      "key": "ANGADA",
+      "name": "Angada",
+      "aliases": [
+        "Angad",
+        "Vali-putra"
+      ],
+      "epic": "Ramayana",
+      "gender": "Male",
+      "primary_role": "Son of Vali / Crown Prince of Kishkindha / Brave Vanara warrior and Rama's messenger to Ravana",
+      "tags": [
+        "vanara",
+        "prince",
+        "warrior",
+        "messenger",
+        "young",
+        "brave"
+      ],
+      "file": "ramayana/vanara/RAM_031_angada.json",
+      "timeline_count": 1,
+      "timeline_stages": [
+        "Young Warrior / Messenger to Ravana"
+      ]
+    },
+    {
+      "character_id": "RAM_032",
+      "key": "VALI",
+      "name": "Vali",
+      "aliases": [
+        "Bali",
+        "Indra-putra",
+        "Vanara-raja"
+      ],
+      "epic": "Ramayana",
+      "gender": "Male",
+      "primary_role": "King of Kishkindha / Elder brother of Sugriva / Son of Indra / Killed by Rama",
+      "tags": [
+        "vanara",
+        "king",
+        "warrior",
+        "powerful",
+        "tragic",
+        "divine_born"
+      ],
+      "file": "ramayana/vanara/RAM_032_vali.json",
+      "timeline_count": 1,
+      "timeline_stages": [
+        "King / Death by Rama's Arrow"
+      ]
+    },
+    {
+      "character_id": "RAM_033",
+      "key": "TARA_VANARA",
+      "name": "Tara",
+      "aliases": [
+        "Tara (Vanara Queen)",
+        "Vali-patni"
+      ],
+      "epic": "Ramayana",
+      "gender": "Female",
+      "primary_role": "Queen of Kishkindha / Wife of Vali / Wisest woman among the Vanaras / Later wife of Sugriva",
+      "tags": [
+        "queen",
+        "vanara",
+        "wise",
+        "mother",
+        "advisor",
+        "beautiful"
+      ],
+      "file": "ramayana/vanara/RAM_033_tara_vanara.json",
+      "timeline_count": 1,
+      "timeline_stages": [
+        "Queen / Vali's Death"
+      ]
+    },
+    {
+      "character_id": "RAM_034",
+      "key": "NALA_VANARA",
+      "name": "Nala",
+      "aliases": [
+        "Nala the Builder",
+        "Setu-nirmata"
+      ],
+      "epic": "Ramayana",
+      "gender": "Male",
+      "primary_role": "Vanara engineer / Builder of Rama Setu (the bridge to Lanka) / Son of Vishwakarma (divine architect)",
+      "tags": [
+        "vanara",
+        "engineer",
+        "builder",
+        "divine_born",
+        "bridge_builder"
+      ],
+      "file": "ramayana/vanara/RAM_034_nala_vanara.json",
+      "timeline_count": 1,
+      "timeline_stages": [
+        "Engineer / Building the Bridge"
+      ]
+    },
+    {
+      "character_id": "RAM_035",
+      "key": "SAMPATI",
+      "name": "Sampati",
+      "aliases": [
+        "Sampathi",
+        "Jatayu's brother"
+      ],
+      "epic": "Ramayana",
+      "gender": "Male",
+      "primary_role": "Elder brother of Jatayu / Giant eagle king whose wings were burnt by the sun / Guides the search for Sita",
+      "tags": [
+        "eagle",
+        "king",
+        "guide",
+        "wingless",
+        "informant",
+        "sacrificer"
+      ],
+      "file": "ramayana/vanara/RAM_035_sampati.json",
+      "timeline_count": 1,
+      "timeline_stages": [
+        "Wingless Eagle / Guiding the Search"
+      ]
+    },
+    {
+      "character_id": "RAM_036",
+      "key": "JATAYU",
+      "name": "Jatayu",
+      "aliases": [
+        "Jataayu",
+        "Gridhraj",
+        "King of Vultures"
+      ],
+      "epic": "Ramayana",
+      "gender": "Male",
+      "primary_role": "King of Vultures / Friend of Dasharatha / Gave his life fighting Ravana to protect Sita",
+      "tags": [
+        "eagle",
+        "hero",
+        "martyr",
+        "protector",
+        "noble",
+        "sacrifice"
+      ],
+      "file": "ramayana/vanara/RAM_036_jatayu.json",
+      "timeline_count": 1,
+      "timeline_stages": [
+        "Hero / Battle with Ravana"
+      ]
+    }
+  ]
+}

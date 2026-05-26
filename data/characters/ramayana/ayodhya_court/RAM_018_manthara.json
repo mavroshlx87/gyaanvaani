@@ -1,0 +1,62 @@
+{
+    "MANTHARA": {
+        "metadata": {
+            "character_id": "RAM_018",
+            "name": "Manthara",
+            "aliases": [
+                "Kubja",
+                "The Hunchback"
+            ],
+            "epic": "Ramayana",
+            "primary_role": "Kaikeyi's maid-servant and manipulator / Catalyst of Rama's exile",
+            "gender": "Female",
+            "ethnicity_cultural_context": "Ancient Indian (servant class, possibly of southern origin, lifelong attendant to Kaikeyi)",
+            "family_relations": {
+                "father": null,
+                "mother": null,
+                "spouse": null,
+                "siblings": [],
+                "children": [],
+                "guru": null
+            },
+            "divine_origin": null,
+            "tags": [
+                "servant",
+                "manipulator",
+                "catalyst",
+                "hunchback",
+                "cunning"
+            ]
+        },
+        "timelines": [
+            {
+                "timeline_stage": "Servant / Manipulator",
+                "age_approximation": 55,
+                "context_description": "The hunchbacked maid who poisons Kaikeyi's mind against Rama, convincing her to demand Bharata's coronation and Rama's exile.",
+                "physical_appearance": {
+                    "skin_tone": "Sallow yellowish-dark complexion, unhealthy pallor, skin rough and poorly maintained",
+                    "height": "Short and visibly deformed — a pronounced hunchback (kyphosis) that forces her to walk bent over, head jutting forward",
+                    "build": "Twisted and hunched frame, thin bony limbs, surprisingly strong grip in her gnarled fingers, moves with a shuffling sideways gait",
+                    "facial_features": "Sharp cunning face — small darting suspicious eyes that miss nothing, pointed thin nose, thin pursed lips always whispering, prominent chin, deep lines of chronic resentment etched around her mouth, perpetual calculating expression",
+                    "hair": "Thin grey-streaked hair pulled back tightly in a scraggly bun, a few strands always escaping messily",
+                    "distinguishing_marks": "Her pronounced hunchback is her defining physical feature — she uses her deformity to garner sympathy and underestimate her cunning, her hands gesture constantly while she whispers"
+                },
+                "wardrobe_and_adornments": {
+                    "clothing": "Simple servant's cotton sari in dull dark colors — brown, dull green, faded maroon — practical and unremarkable, a shawl that partially hides her hunch",
+                    "jewelry": "Cheap brass bangles, no gold — but after Kaikeyi's boons she is promised riches, wears a few pieces gifted by Kaikeyi over the years",
+                    "weapons_carried": "None — her weapon is her tongue and her cunning whispers"
+                },
+                "audio_and_voice_characteristics": {
+                    "tone": "Insinuating, wheedling, sly, venomous sweetness that drips with poison, a master manipulator's voice",
+                    "pitch": "High-pitched, nasal, whispery — the kind of voice that gets inside your head, sibilant and insinuating",
+                    "speech_style": "Speaks in conspiratorial whispers, builds elaborate arguments through emotional manipulation, alternates between flattery and fear-mongering, uses rhetorical questions to plant doubt ('And what will happen to YOU, my queen, when Rama is king?')",
+                    "emotional_baseline": "Deep resentment, cunning ambition, loyal to Kaikeyi in her own twisted way, feeds on the power of manipulation, possibly driven by lifetime of humiliation for her deformity"
+                },
+                "cinematic_generation_prompts": {
+                    "visual_prompt": "Dramatic cinematic shot of Manthara, age 55, hunchbacked servant, whispering into Queen Kaikeyi's ear. Sallow yellowish-dark complexion, sharp cunning face with small darting eyes, thin pursed lips, pointed nose. Pronounced hunchback, thin twisted frame in a dull dark cotton sari. Gnarled fingers gesturing while whispering. Standing behind the seated Kaikeyi in a darkened palace chamber, shadows and lamplight creating sinister atmosphere. 3D Pixar style, dramatic chiaroscuro, sinister mood, photorealistic, 8k.",
+                    "audio_prompt": "A high-pitched, nasal, whispery female voice. Insinuating and sly, dripping with venomous sweetness. Conspiratorial whispers that plant doubt. Age approximately 55 years."
+                }
+            }
+        ]
+    }
+}
